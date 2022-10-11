@@ -1,0 +1,24 @@
+/* #choropleth_map {
+	top: 100px;
+	bottom: 100px;
+	left: 100px;
+	right: 100px;
+	/*height: 1000px;
+	width: 800px;*/
+/* } */ */
+
+/* .plain_chart {
+	border-width: 20px;
+	padding: auto;
+	height: 1000px;
+	width: 800px;
+} */
+
+body { height: 100%;
+}
+.child {
+	margin: auto;
+	height: auto;
+	width: 80%;
+	margin-top: 20px;
+}

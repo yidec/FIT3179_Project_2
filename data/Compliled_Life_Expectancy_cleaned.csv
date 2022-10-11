@@ -1,0 +1,5581 @@
+Country,Country_Code,Continent,Year,Life_Exp
+Afghanistan,AFG,Asia,1990,50.3
+Afghanistan,AFG,Asia,1991,51
+Afghanistan,AFG,Asia,1992,51.6
+Afghanistan,AFG,Asia,1993,52.3
+Afghanistan,AFG,Asia,1994,52.8
+Afghanistan,AFG,Asia,1995,53.4
+Afghanistan,AFG,Asia,1996,53.9
+Afghanistan,AFG,Asia,1997,54.4
+Afghanistan,AFG,Asia,1998,54.9
+Afghanistan,AFG,Asia,1999,55.4
+Afghanistan,AFG,Asia,2000,55.8
+Afghanistan,AFG,Asia,2001,56.3
+Afghanistan,AFG,Asia,2002,56.8
+Afghanistan,AFG,Asia,2003,57.3
+Afghanistan,AFG,Asia,2004,57.8
+Afghanistan,AFG,Asia,2005,58.3
+Afghanistan,AFG,Asia,2006,58.8
+Afghanistan,AFG,Asia,2007,59.4
+Afghanistan,AFG,Asia,2008,59.9
+Afghanistan,AFG,Asia,2009,60.5
+Afghanistan,AFG,Asia,2010,61
+Afghanistan,AFG,Asia,2011,61.6
+Afghanistan,AFG,Asia,2012,62.1
+Afghanistan,AFG,Asia,2013,62.5
+Afghanistan,AFG,Asia,2014,63
+Afghanistan,AFG,Asia,2015,63.4
+Afghanistan,AFG,Asia,2016,63.8
+Afghanistan,AFG,Asia,2017,64.1
+Afghanistan,AFG,Asia,2018,64.5
+Afghanistan,AFG,Asia,2019,64.8
+Albania,ALB,Europe,1990,71.8
+Albania,ALB,Europe,1991,71.8
+Albania,ALB,Europe,1992,71.8
+Albania,ALB,Europe,1993,71.9
+Albania,ALB,Europe,1994,72
+Albania,ALB,Europe,1995,72.2
+Albania,ALB,Europe,1996,72.5
+Albania,ALB,Europe,1997,72.8
+Albania,ALB,Europe,1998,73.2
+Albania,ALB,Europe,1999,73.6
+Albania,ALB,Europe,2000,74
+Albania,ALB,Europe,2001,74.3
+Albania,ALB,Europe,2002,74.6
+Albania,ALB,Europe,2003,74.8
+Albania,ALB,Europe,2004,75
+Albania,ALB,Europe,2005,75.2
+Albania,ALB,Europe,2006,75.4
+Albania,ALB,Europe,2007,75.6
+Albania,ALB,Europe,2008,75.9
+Albania,ALB,Europe,2009,76.2
+Albania,ALB,Europe,2010,76.6
+Albania,ALB,Europe,2011,76.9
+Albania,ALB,Europe,2012,77.3
+Albania,ALB,Europe,2013,77.6
+Albania,ALB,Europe,2014,77.8
+Albania,ALB,Europe,2015,78
+Albania,ALB,Europe,2016,78.2
+Albania,ALB,Europe,2017,78.3
+Albania,ALB,Europe,2018,78.5
+Albania,ALB,Europe,2019,78.6
+Algeria,DZA,Africa,1990,66.9
+Algeria,DZA,Africa,1991,67.3
+Algeria,DZA,Africa,1992,67.6
+Algeria,DZA,Africa,1993,67.9
+Algeria,DZA,Africa,1994,68.2
+Algeria,DZA,Africa,1995,68.5
+Algeria,DZA,Africa,1996,68.9
+Algeria,DZA,Africa,1997,69.3
+Algeria,DZA,Africa,1998,69.7
+Algeria,DZA,Africa,1999,70.2
+Algeria,DZA,Africa,2000,70.6
+Algeria,DZA,Africa,2001,71.1
+Algeria,DZA,Africa,2002,71.6
+Algeria,DZA,Africa,2003,72.1
+Algeria,DZA,Africa,2004,72.6
+Algeria,DZA,Africa,2005,73.1
+Algeria,DZA,Africa,2006,73.5
+Algeria,DZA,Africa,2007,73.9
+Algeria,DZA,Africa,2008,74.3
+Algeria,DZA,Africa,2009,74.6
+Algeria,DZA,Africa,2010,74.9
+Algeria,DZA,Africa,2011,75.2
+Algeria,DZA,Africa,2012,75.4
+Algeria,DZA,Africa,2013,75.7
+Algeria,DZA,Africa,2014,75.9
+Algeria,DZA,Africa,2015,76.1
+Algeria,DZA,Africa,2016,76.3
+Algeria,DZA,Africa,2017,76.5
+Algeria,DZA,Africa,2018,76.7
+Algeria,DZA,Africa,2019,76.9
+Andorra,AND,Europe,1990,Not Available
+Andorra,AND,Europe,1991,Not Available
+Andorra,AND,Europe,1992,Not Available
+Andorra,AND,Europe,1993,Not Available
+Andorra,AND,Europe,1994,Not Available
+Andorra,AND,Europe,1995,Not Available
+Andorra,AND,Europe,1996,Not Available
+Andorra,AND,Europe,1997,Not Available
+Andorra,AND,Europe,1998,Not Available
+Andorra,AND,Europe,1999,Not Available
+Andorra,AND,Europe,2000,78.9
+Andorra,AND,Europe,2001,79.2
+Andorra,AND,Europe,2002,79.5
+Andorra,AND,Europe,2003,79.8
+Andorra,AND,Europe,2004,80
+Andorra,AND,Europe,2005,80.2
+Andorra,AND,Europe,2006,80.3
+Andorra,AND,Europe,2007,80.5
+Andorra,AND,Europe,2008,80.6
+Andorra,AND,Europe,2009,80.7
+Andorra,AND,Europe,2010,80.8
+Andorra,AND,Europe,2011,80.9
+Andorra,AND,Europe,2012,81.1
+Andorra,AND,Europe,2013,81.2
+Andorra,AND,Europe,2014,81.3
+Andorra,AND,Europe,2015,81.4
+Andorra,AND,Europe,2016,81.5
+Andorra,AND,Europe,2017,81.7
+Andorra,AND,Europe,2018,81.8
+Andorra,AND,Europe,2019,81.9
+Angola,AGO,Africa,1990,Not Available
+Angola,AGO,Africa,1991,Not Available
+Angola,AGO,Africa,1992,Not Available
+Angola,AGO,Africa,1993,Not Available
+Angola,AGO,Africa,1994,Not Available
+Angola,AGO,Africa,1995,Not Available
+Angola,AGO,Africa,1996,Not Available
+Angola,AGO,Africa,1997,Not Available
+Angola,AGO,Africa,1998,Not Available
+Angola,AGO,Africa,1999,46.1
+Angola,AGO,Africa,2000,46.5
+Angola,AGO,Africa,2001,47.1
+Angola,AGO,Africa,2002,47.7
+Angola,AGO,Africa,2003,48.4
+Angola,AGO,Africa,2004,49.3
+Angola,AGO,Africa,2005,50.2
+Angola,AGO,Africa,2006,51.1
+Angola,AGO,Africa,2007,52.2
+Angola,AGO,Africa,2008,53.2
+Angola,AGO,Africa,2009,54.3
+Angola,AGO,Africa,2010,55.4
+Angola,AGO,Africa,2011,56.3
+Angola,AGO,Africa,2012,57.2
+Angola,AGO,Africa,2013,58.1
+Angola,AGO,Africa,2014,58.8
+Angola,AGO,Africa,2015,59.4
+Angola,AGO,Africa,2016,59.9
+Angola,AGO,Africa,2017,60.4
+Angola,AGO,Africa,2018,60.8
+Angola,AGO,Africa,2019,61.1
+Antigua and Barbuda,ATG,Americas,1990,Not Available
+Antigua and Barbuda,ATG,Americas,1991,Not Available
+Antigua and Barbuda,ATG,Americas,1992,Not Available
+Antigua and Barbuda,ATG,Americas,1993,Not Available
+Antigua and Barbuda,ATG,Americas,1994,Not Available
+Antigua and Barbuda,ATG,Americas,1995,Not Available
+Antigua and Barbuda,ATG,Americas,1996,Not Available
+Antigua and Barbuda,ATG,Americas,1997,Not Available
+Antigua and Barbuda,ATG,Americas,1998,Not Available
+Antigua and Barbuda,ATG,Americas,1999,Not Available
+Antigua and Barbuda,ATG,Americas,2000,Not Available
+Antigua and Barbuda,ATG,Americas,2001,Not Available
+Antigua and Barbuda,ATG,Americas,2002,Not Available
+Antigua and Barbuda,ATG,Americas,2003,Not Available
+Antigua and Barbuda,ATG,Americas,2004,Not Available
+Antigua and Barbuda,ATG,Americas,2005,75
+Antigua and Barbuda,ATG,Americas,2006,75.2
+Antigua and Barbuda,ATG,Americas,2007,75.4
+Antigua and Barbuda,ATG,Americas,2008,75.5
+Antigua and Barbuda,ATG,Americas,2009,75.7
+Antigua and Barbuda,ATG,Americas,2010,75.8
+Antigua and Barbuda,ATG,Americas,2011,76
+Antigua and Barbuda,ATG,Americas,2012,76.1
+Antigua and Barbuda,ATG,Americas,2013,76.2
+Antigua and Barbuda,ATG,Americas,2014,76.3
+Antigua and Barbuda,ATG,Americas,2015,76.5
+Antigua and Barbuda,ATG,Americas,2016,76.6
+Antigua and Barbuda,ATG,Americas,2017,76.8
+Antigua and Barbuda,ATG,Americas,2018,76.9
+Antigua and Barbuda,ATG,Americas,2019,77
+Argentina,ARG,Americas,1990,71.6
+Argentina,ARG,Americas,1991,71.8
+Argentina,ARG,Americas,1992,72
+Argentina,ARG,Americas,1993,72.2
+Argentina,ARG,Americas,1994,72.5
+Argentina,ARG,Americas,1995,72.7
+Argentina,ARG,Americas,1996,72.8
+Argentina,ARG,Americas,1997,73
+Argentina,ARG,Americas,1998,73.2
+Argentina,ARG,Americas,1999,73.4
+Argentina,ARG,Americas,2000,73.6
+Argentina,ARG,Americas,2001,73.8
+Argentina,ARG,Americas,2002,73.9
+Argentina,ARG,Americas,2003,74.1
+Argentina,ARG,Americas,2004,74.3
+Argentina,ARG,Americas,2005,74.5
+Argentina,ARG,Americas,2006,74.6
+Argentina,ARG,Americas,2007,74.8
+Argentina,ARG,Americas,2008,75
+Argentina,ARG,Americas,2009,75.1
+Argentina,ARG,Americas,2010,75.3
+Argentina,ARG,Americas,2011,75.4
+Argentina,ARG,Americas,2012,75.6
+Argentina,ARG,Americas,2013,75.8
+Argentina,ARG,Americas,2014,75.9
+Argentina,ARG,Americas,2015,76.1
+Argentina,ARG,Americas,2016,76.2
+Argentina,ARG,Americas,2017,76.4
+Argentina,ARG,Americas,2018,76.5
+Argentina,ARG,Americas,2019,76.7
+Armenia,ARM,Asia,1990,67.9
+Armenia,ARM,Asia,1991,67.9
+Armenia,ARM,Asia,1992,68
+Armenia,ARM,Asia,1993,68.2
+Armenia,ARM,Asia,1994,68.5
+Armenia,ARM,Asia,1995,68.9
+Armenia,ARM,Asia,1996,69.4
+Armenia,ARM,Asia,1997,69.9
+Armenia,ARM,Asia,1998,70.4
+Armenia,ARM,Asia,1999,70.9
+Armenia,ARM,Asia,2000,71.4
+Armenia,ARM,Asia,2001,71.8
+Armenia,ARM,Asia,2002,72.1
+Armenia,ARM,Asia,2003,72.3
+Armenia,ARM,Asia,2004,72.5
+Armenia,ARM,Asia,2005,72.6
+Armenia,ARM,Asia,2006,72.7
+Armenia,ARM,Asia,2007,72.8
+Armenia,ARM,Asia,2008,72.9
+Armenia,ARM,Asia,2009,73.1
+Armenia,ARM,Asia,2010,73.3
+Armenia,ARM,Asia,2011,73.6
+Armenia,ARM,Asia,2012,73.8
+Armenia,ARM,Asia,2013,74.1
+Armenia,ARM,Asia,2014,74.3
+Armenia,ARM,Asia,2015,74.5
+Armenia,ARM,Asia,2016,74.6
+Armenia,ARM,Asia,2017,74.8
+Armenia,ARM,Asia,2018,74.9
+Armenia,ARM,Asia,2019,75.1
+Australia,AUS,Oceania,1990,76.9
+Australia,AUS,Oceania,1991,77.2
+Australia,AUS,Oceania,1992,77.5
+Australia,AUS,Oceania,1993,77.8
+Australia,AUS,Oceania,1994,78
+Australia,AUS,Oceania,1995,78.3
+Australia,AUS,Oceania,1996,78.5
+Australia,AUS,Oceania,1997,78.8
+Australia,AUS,Oceania,1998,79
+Australia,AUS,Oceania,1999,79.3
+Australia,AUS,Oceania,2000,79.6
+Australia,AUS,Oceania,2001,79.9
+Australia,AUS,Oceania,2002,80.2
+Australia,AUS,Oceania,2003,80.5
+Australia,AUS,Oceania,2004,80.7
+Australia,AUS,Oceania,2005,81
+Australia,AUS,Oceania,2006,81.2
+Australia,AUS,Oceania,2007,81.4
+Australia,AUS,Oceania,2008,81.6
+Australia,AUS,Oceania,2009,81.8
+Australia,AUS,Oceania,2010,81.9
+Australia,AUS,Oceania,2011,82.1
+Australia,AUS,Oceania,2012,82.3
+Australia,AUS,Oceania,2013,82.5
+Australia,AUS,Oceania,2014,82.6
+Australia,AUS,Oceania,2015,82.8
+Australia,AUS,Oceania,2016,83
+Australia,AUS,Oceania,2017,83.1
+Australia,AUS,Oceania,2018,83.3
+Australia,AUS,Oceania,2019,83.4
+Austria,AUT,Europe,1990,75.6
+Austria,AUT,Europe,1991,75.8
+Austria,AUT,Europe,1992,76.1
+Austria,AUT,Europe,1993,76.3
+Austria,AUT,Europe,1994,76.6
+Austria,AUT,Europe,1995,76.8
+Austria,AUT,Europe,1996,77.1
+Austria,AUT,Europe,1997,77.4
+Austria,AUT,Europe,1998,77.7
+Austria,AUT,Europe,1999,78
+Austria,AUT,Europe,2000,78.2
+Austria,AUT,Europe,2001,78.5
+Austria,AUT,Europe,2002,78.8
+Austria,AUT,Europe,2003,79.1
+Austria,AUT,Europe,2004,79.3
+Austria,AUT,Europe,2005,79.6
+Austria,AUT,Europe,2006,79.8
+Austria,AUT,Europe,2007,80
+Austria,AUT,Europe,2008,80.2
+Austria,AUT,Europe,2009,80.4
+Austria,AUT,Europe,2010,80.6
+Austria,AUT,Europe,2011,80.8
+Austria,AUT,Europe,2012,80.9
+Austria,AUT,Europe,2013,81
+Austria,AUT,Europe,2014,81.1
+Austria,AUT,Europe,2015,81.2
+Austria,AUT,Europe,2016,81.3
+Austria,AUT,Europe,2017,81.3
+Austria,AUT,Europe,2018,81.4
+Austria,AUT,Europe,2019,81.5
+Azerbaijan,AZE,Asia,1990,Not Available
+Azerbaijan,AZE,Asia,1991,Not Available
+Azerbaijan,AZE,Asia,1992,Not Available
+Azerbaijan,AZE,Asia,1993,Not Available
+Azerbaijan,AZE,Asia,1994,Not Available
+Azerbaijan,AZE,Asia,1995,65.3
+Azerbaijan,AZE,Asia,1996,65.6
+Azerbaijan,AZE,Asia,1997,65.9
+Azerbaijan,AZE,Asia,1998,66.2
+Azerbaijan,AZE,Asia,1999,66.5
+Azerbaijan,AZE,Asia,2000,66.8
+Azerbaijan,AZE,Asia,2001,67.1
+Azerbaijan,AZE,Asia,2002,67.4
+Azerbaijan,AZE,Asia,2003,67.8
+Azerbaijan,AZE,Asia,2004,68.2
+Azerbaijan,AZE,Asia,2005,68.7
+Azerbaijan,AZE,Asia,2006,69.3
+Azerbaijan,AZE,Asia,2007,69.8
+Azerbaijan,AZE,Asia,2008,70.2
+Azerbaijan,AZE,Asia,2009,70.6
+Azerbaijan,AZE,Asia,2010,70.9
+Azerbaijan,AZE,Asia,2011,71.2
+Azerbaijan,AZE,Asia,2012,71.5
+Azerbaijan,AZE,Asia,2013,71.8
+Azerbaijan,AZE,Asia,2014,72
+Azerbaijan,AZE,Asia,2015,72.3
+Azerbaijan,AZE,Asia,2016,72.5
+Azerbaijan,AZE,Asia,2017,72.7
+Azerbaijan,AZE,Asia,2018,72.9
+Azerbaijan,AZE,Asia,2019,73
+Bahamas,BHS,Americas,1990,Not Available
+Bahamas,BHS,Americas,1991,Not Available
+Bahamas,BHS,Americas,1992,Not Available
+Bahamas,BHS,Americas,1993,Not Available
+Bahamas,BHS,Americas,1994,Not Available
+Bahamas,BHS,Americas,1995,Not Available
+Bahamas,BHS,Americas,1996,Not Available
+Bahamas,BHS,Americas,1997,Not Available
+Bahamas,BHS,Americas,1998,Not Available
+Bahamas,BHS,Americas,1999,Not Available
+Bahamas,BHS,Americas,2000,71.9
+Bahamas,BHS,Americas,2001,72
+Bahamas,BHS,Americas,2002,72
+Bahamas,BHS,Americas,2003,72
+Bahamas,BHS,Americas,2004,72
+Bahamas,BHS,Americas,2005,72
+Bahamas,BHS,Americas,2006,72
+Bahamas,BHS,Americas,2007,72
+Bahamas,BHS,Americas,2008,72
+Bahamas,BHS,Americas,2009,72.1
+Bahamas,BHS,Americas,2010,72.1
+Bahamas,BHS,Americas,2011,72.3
+Bahamas,BHS,Americas,2012,72.4
+Bahamas,BHS,Americas,2013,72.6
+Bahamas,BHS,Americas,2014,72.8
+Bahamas,BHS,Americas,2015,73.1
+Bahamas,BHS,Americas,2016,73.3
+Bahamas,BHS,Americas,2017,73.6
+Bahamas,BHS,Americas,2018,73.8
+Bahamas,BHS,Americas,2019,73.9
+Bahrain,BHR,Asia,1990,72.4
+Bahrain,BHR,Asia,1991,72.6
+Bahrain,BHR,Asia,1992,72.8
+Bahrain,BHR,Asia,1993,73
+Bahrain,BHR,Asia,1994,73.2
+Bahrain,BHR,Asia,1995,73.4
+Bahrain,BHR,Asia,1996,73.6
+Bahrain,BHR,Asia,1997,73.8
+Bahrain,BHR,Asia,1998,74
+Bahrain,BHR,Asia,1999,74.2
+Bahrain,BHR,Asia,2000,74.4
+Bahrain,BHR,Asia,2001,74.6
+Bahrain,BHR,Asia,2002,74.8
+Bahrain,BHR,Asia,2003,75
+Bahrain,BHR,Asia,2004,75.2
+Bahrain,BHR,Asia,2005,75.3
+Bahrain,BHR,Asia,2006,75.5
+Bahrain,BHR,Asia,2007,75.6
+Bahrain,BHR,Asia,2008,75.8
+Bahrain,BHR,Asia,2009,75.9
+Bahrain,BHR,Asia,2010,76.1
+Bahrain,BHR,Asia,2011,76.2
+Bahrain,BHR,Asia,2012,76.3
+Bahrain,BHR,Asia,2013,76.5
+Bahrain,BHR,Asia,2014,76.6
+Bahrain,BHR,Asia,2015,76.8
+Bahrain,BHR,Asia,2016,76.9
+Bahrain,BHR,Asia,2017,77
+Bahrain,BHR,Asia,2018,77.2
+Bahrain,BHR,Asia,2019,77.3
+Bangladesh,BGD,Asia,1990,58.2
+Bangladesh,BGD,Asia,1991,58.9
+Bangladesh,BGD,Asia,1992,59.6
+Bangladesh,BGD,Asia,1993,60.4
+Bangladesh,BGD,Asia,1994,61.2
+Bangladesh,BGD,Asia,1995,62
+Bangladesh,BGD,Asia,1996,62.8
+Bangladesh,BGD,Asia,1997,63.6
+Bangladesh,BGD,Asia,1998,64.3
+Bangladesh,BGD,Asia,1999,64.9
+Bangladesh,BGD,Asia,2000,65.4
+Bangladesh,BGD,Asia,2001,66
+Bangladesh,BGD,Asia,2002,66.4
+Bangladesh,BGD,Asia,2003,66.9
+Bangladesh,BGD,Asia,2004,67.3
+Bangladesh,BGD,Asia,2005,67.8
+Bangladesh,BGD,Asia,2006,68.2
+Bangladesh,BGD,Asia,2007,68.6
+Bangladesh,BGD,Asia,2008,69.1
+Bangladesh,BGD,Asia,2009,69.5
+Bangladesh,BGD,Asia,2010,69.9
+Bangladesh,BGD,Asia,2011,70.3
+Bangladesh,BGD,Asia,2012,70.6
+Bangladesh,BGD,Asia,2013,70.9
+Bangladesh,BGD,Asia,2014,71.2
+Bangladesh,BGD,Asia,2015,71.5
+Bangladesh,BGD,Asia,2016,71.8
+Bangladesh,BGD,Asia,2017,72.1
+Bangladesh,BGD,Asia,2018,72.3
+Bangladesh,BGD,Asia,2019,72.6
+Barbados,BRB,Americas,1990,74.7
+Barbados,BRB,Americas,1991,74.9
+Barbados,BRB,Americas,1992,75.1
+Barbados,BRB,Americas,1993,75.3
+Barbados,BRB,Americas,1994,75.6
+Barbados,BRB,Americas,1995,75.9
+Barbados,BRB,Americas,1996,76.1
+Barbados,BRB,Americas,1997,76.4
+Barbados,BRB,Americas,1998,76.7
+Barbados,BRB,Americas,1999,76.9
+Barbados,BRB,Americas,2000,77.2
+Barbados,BRB,Americas,2001,77.4
+Barbados,BRB,Americas,2002,77.5
+Barbados,BRB,Americas,2003,77.7
+Barbados,BRB,Americas,2004,77.8
+Barbados,BRB,Americas,2005,77.9
+Barbados,BRB,Americas,2006,78
+Barbados,BRB,Americas,2007,78.1
+Barbados,BRB,Americas,2008,78.2
+Barbados,BRB,Americas,2009,78.3
+Barbados,BRB,Americas,2010,78.4
+Barbados,BRB,Americas,2011,78.5
+Barbados,BRB,Americas,2012,78.5
+Barbados,BRB,Americas,2013,78.6
+Barbados,BRB,Americas,2014,78.7
+Barbados,BRB,Americas,2015,78.8
+Barbados,BRB,Americas,2016,78.9
+Barbados,BRB,Americas,2017,79
+Barbados,BRB,Americas,2018,79.1
+Barbados,BRB,Americas,2019,79.2
+Belarus,BLR,Europe,1990,Not Available
+Belarus,BLR,Europe,1991,Not Available
+Belarus,BLR,Europe,1992,Not Available
+Belarus,BLR,Europe,1993,Not Available
+Belarus,BLR,Europe,1994,Not Available
+Belarus,BLR,Europe,1995,68.3
+Belarus,BLR,Europe,1996,67.9
+Belarus,BLR,Europe,1997,67.6
+Belarus,BLR,Europe,1998,67.4
+Belarus,BLR,Europe,1999,67.4
+Belarus,BLR,Europe,2000,67.4
+Belarus,BLR,Europe,2001,67.5
+Belarus,BLR,Europe,2002,67.6
+Belarus,BLR,Europe,2003,67.8
+Belarus,BLR,Europe,2004,68
+Belarus,BLR,Europe,2005,68.3
+Belarus,BLR,Europe,2006,68.7
+Belarus,BLR,Europe,2007,69.1
+Belarus,BLR,Europe,2008,69.6
+Belarus,BLR,Europe,2009,70.2
+Belarus,BLR,Europe,2010,70.8
+Belarus,BLR,Europe,2011,71.4
+Belarus,BLR,Europe,2012,72.1
+Belarus,BLR,Europe,2013,72.7
+Belarus,BLR,Europe,2014,73.2
+Belarus,BLR,Europe,2015,73.7
+Belarus,BLR,Europe,2016,74
+Belarus,BLR,Europe,2017,74.3
+Belarus,BLR,Europe,2018,74.6
+Belarus,BLR,Europe,2019,74.8
+Belgium,BEL,Europe,1990,75.9
+Belgium,BEL,Europe,1991,76.1
+Belgium,BEL,Europe,1992,76.3
+Belgium,BEL,Europe,1993,76.5
+Belgium,BEL,Europe,1994,76.7
+Belgium,BEL,Europe,1995,76.9
+Belgium,BEL,Europe,1996,77.1
+Belgium,BEL,Europe,1997,77.3
+Belgium,BEL,Europe,1998,77.5
+Belgium,BEL,Europe,1999,77.7
+Belgium,BEL,Europe,2000,77.9
+Belgium,BEL,Europe,2001,78.1
+Belgium,BEL,Europe,2002,78.3
+Belgium,BEL,Europe,2003,78.5
+Belgium,BEL,Europe,2004,78.7
+Belgium,BEL,Europe,2005,79
+Belgium,BEL,Europe,2006,79.2
+Belgium,BEL,Europe,2007,79.4
+Belgium,BEL,Europe,2008,79.7
+Belgium,BEL,Europe,2009,79.9
+Belgium,BEL,Europe,2010,80.1
+Belgium,BEL,Europe,2011,80.3
+Belgium,BEL,Europe,2012,80.4
+Belgium,BEL,Europe,2013,80.6
+Belgium,BEL,Europe,2014,80.8
+Belgium,BEL,Europe,2015,81
+Belgium,BEL,Europe,2016,81.1
+Belgium,BEL,Europe,2017,81.3
+Belgium,BEL,Europe,2018,81.5
+Belgium,BEL,Europe,2019,81.6
+Belize,BLZ,Americas,1990,71.2
+Belize,BLZ,Americas,1991,71
+Belize,BLZ,Americas,1992,70.7
+Belize,BLZ,Americas,1993,70.3
+Belize,BLZ,Americas,1994,69.8
+Belize,BLZ,Americas,1995,69.4
+Belize,BLZ,Americas,1996,69.1
+Belize,BLZ,Americas,1997,68.9
+Belize,BLZ,Americas,1998,68.7
+Belize,BLZ,Americas,1999,68.7
+Belize,BLZ,Americas,2000,68.8
+Belize,BLZ,Americas,2001,69
+Belize,BLZ,Americas,2002,69.3
+Belize,BLZ,Americas,2003,69.5
+Belize,BLZ,Americas,2004,69.7
+Belize,BLZ,Americas,2005,70
+Belize,BLZ,Americas,2006,70.3
+Belize,BLZ,Americas,2007,70.6
+Belize,BLZ,Americas,2008,71.1
+Belize,BLZ,Americas,2009,71.5
+Belize,BLZ,Americas,2010,72.1
+Belize,BLZ,Americas,2011,72.6
+Belize,BLZ,Americas,2012,73
+Belize,BLZ,Americas,2013,73.5
+Belize,BLZ,Americas,2014,73.8
+Belize,BLZ,Americas,2015,74
+Belize,BLZ,Americas,2016,74.2
+Belize,BLZ,Americas,2017,74.4
+Belize,BLZ,Americas,2018,74.5
+Belize,BLZ,Americas,2019,74.6
+Benin,BEN,Africa,1990,53.8
+Benin,BEN,Africa,1991,54.4
+Benin,BEN,Africa,1992,54.8
+Benin,BEN,Africa,1993,55
+Benin,BEN,Africa,1994,55.2
+Benin,BEN,Africa,1995,55.2
+Benin,BEN,Africa,1996,55.2
+Benin,BEN,Africa,1997,55.1
+Benin,BEN,Africa,1998,55.1
+Benin,BEN,Africa,1999,55.2
+Benin,BEN,Africa,2000,55.4
+Benin,BEN,Africa,2001,55.7
+Benin,BEN,Africa,2002,56
+Benin,BEN,Africa,2003,56.4
+Benin,BEN,Africa,2004,56.9
+Benin,BEN,Africa,2005,57.4
+Benin,BEN,Africa,2006,57.8
+Benin,BEN,Africa,2007,58.3
+Benin,BEN,Africa,2008,58.7
+Benin,BEN,Africa,2009,59
+Benin,BEN,Africa,2010,59.3
+Benin,BEN,Africa,2011,59.6
+Benin,BEN,Africa,2012,59.8
+Benin,BEN,Africa,2013,60.1
+Benin,BEN,Africa,2014,60.3
+Benin,BEN,Africa,2015,60.6
+Benin,BEN,Africa,2016,60.9
+Benin,BEN,Africa,2017,61.2
+Benin,BEN,Africa,2018,61.5
+Benin,BEN,Africa,2019,61.8
+Bhutan,BTN,Asia,1990,Not Available
+Bhutan,BTN,Asia,1991,Not Available
+Bhutan,BTN,Asia,1992,Not Available
+Bhutan,BTN,Asia,1993,Not Available
+Bhutan,BTN,Asia,1994,Not Available
+Bhutan,BTN,Asia,1995,Not Available
+Bhutan,BTN,Asia,1996,Not Available
+Bhutan,BTN,Asia,1997,Not Available
+Bhutan,BTN,Asia,1998,Not Available
+Bhutan,BTN,Asia,1999,Not Available
+Bhutan,BTN,Asia,2000,Not Available
+Bhutan,BTN,Asia,2001,Not Available
+Bhutan,BTN,Asia,2002,Not Available
+Bhutan,BTN,Asia,2003,Not Available
+Bhutan,BTN,Asia,2004,Not Available
+Bhutan,BTN,Asia,2005,65.3
+Bhutan,BTN,Asia,2006,66
+Bhutan,BTN,Asia,2007,66.7
+Bhutan,BTN,Asia,2008,67.3
+Bhutan,BTN,Asia,2009,67.9
+Bhutan,BTN,Asia,2010,68.4
+Bhutan,BTN,Asia,2011,68.8
+Bhutan,BTN,Asia,2012,69.3
+Bhutan,BTN,Asia,2013,69.7
+Bhutan,BTN,Asia,2014,70
+Bhutan,BTN,Asia,2015,70.4
+Bhutan,BTN,Asia,2016,70.8
+Bhutan,BTN,Asia,2017,71.1
+Bhutan,BTN,Asia,2018,71.5
+Bhutan,BTN,Asia,2019,71.8
+Bolivia,BOL,Americas,1990,56.1
+Bolivia,BOL,Americas,1991,56.7
+Bolivia,BOL,Americas,1992,57.4
+Bolivia,BOL,Americas,1993,58
+Bolivia,BOL,Americas,1994,58.6
+Bolivia,BOL,Americas,1995,59.3
+Bolivia,BOL,Americas,1996,59.9
+Bolivia,BOL,Americas,1997,60.6
+Bolivia,BOL,Americas,1998,61.2
+Bolivia,BOL,Americas,1999,61.8
+Bolivia,BOL,Americas,2000,62.5
+Bolivia,BOL,Americas,2001,63.1
+Bolivia,BOL,Americas,2002,63.6
+Bolivia,BOL,Americas,2003,64.2
+Bolivia,BOL,Americas,2004,64.8
+Bolivia,BOL,Americas,2005,65.3
+Bolivia,BOL,Americas,2006,65.9
+Bolivia,BOL,Americas,2007,66.4
+Bolivia,BOL,Americas,2008,66.9
+Bolivia,BOL,Americas,2009,67.5
+Bolivia,BOL,Americas,2010,68
+Bolivia,BOL,Americas,2011,68.5
+Bolivia,BOL,Americas,2012,69
+Bolivia,BOL,Americas,2013,69.5
+Bolivia,BOL,Americas,2014,69.9
+Bolivia,BOL,Americas,2015,70.3
+Bolivia,BOL,Americas,2016,70.6
+Bolivia,BOL,Americas,2017,70.9
+Bolivia,BOL,Americas,2018,71.2
+Bolivia,BOL,Americas,2019,71.5
+Bosnia and Herzegovina,BIH,Europe,1990,Not Available
+Bosnia and Herzegovina,BIH,Europe,1991,Not Available
+Bosnia and Herzegovina,BIH,Europe,1992,Not Available
+Bosnia and Herzegovina,BIH,Europe,1993,Not Available
+Bosnia and Herzegovina,BIH,Europe,1994,Not Available
+Bosnia and Herzegovina,BIH,Europe,1995,Not Available
+Bosnia and Herzegovina,BIH,Europe,1996,Not Available
+Bosnia and Herzegovina,BIH,Europe,1997,Not Available
+Bosnia and Herzegovina,BIH,Europe,1998,Not Available
+Bosnia and Herzegovina,BIH,Europe,1999,Not Available
+Bosnia and Herzegovina,BIH,Europe,2000,74.4
+Bosnia and Herzegovina,BIH,Europe,2001,74.6
+Bosnia and Herzegovina,BIH,Europe,2002,74.8
+Bosnia and Herzegovina,BIH,Europe,2003,74.9
+Bosnia and Herzegovina,BIH,Europe,2004,75.1
+Bosnia and Herzegovina,BIH,Europe,2005,75.2
+Bosnia and Herzegovina,BIH,Europe,2006,75.3
+Bosnia and Herzegovina,BIH,Europe,2007,75.5
+Bosnia and Herzegovina,BIH,Europe,2008,75.7
+Bosnia and Herzegovina,BIH,Europe,2009,75.8
+Bosnia and Herzegovina,BIH,Europe,2010,76
+Bosnia and Herzegovina,BIH,Europe,2011,76.2
+Bosnia and Herzegovina,BIH,Europe,2012,76.4
+Bosnia and Herzegovina,BIH,Europe,2013,76.6
+Bosnia and Herzegovina,BIH,Europe,2014,76.7
+Bosnia and Herzegovina,BIH,Europe,2015,76.9
+Bosnia and Herzegovina,BIH,Europe,2016,77
+Bosnia and Herzegovina,BIH,Europe,2017,77.1
+Bosnia and Herzegovina,BIH,Europe,2018,77.3
+Bosnia and Herzegovina,BIH,Europe,2019,77.4
+Botswana,BWA,Africa,1990,59.2
+Botswana,BWA,Africa,1991,58.2
+Botswana,BWA,Africa,1992,57.2
+Botswana,BWA,Africa,1993,56.2
+Botswana,BWA,Africa,1994,55.3
+Botswana,BWA,Africa,1995,54.4
+Botswana,BWA,Africa,1996,53.6
+Botswana,BWA,Africa,1997,52.7
+Botswana,BWA,Africa,1998,51.9
+Botswana,BWA,Africa,1999,51.2
+Botswana,BWA,Africa,2000,50.6
+Botswana,BWA,Africa,2001,50.3
+Botswana,BWA,Africa,2002,50.2
+Botswana,BWA,Africa,2003,50.5
+Botswana,BWA,Africa,2004,51.1
+Botswana,BWA,Africa,2005,52.1
+Botswana,BWA,Africa,2006,53.4
+Botswana,BWA,Africa,2007,55
+Botswana,BWA,Africa,2008,56.7
+Botswana,BWA,Africa,2009,58.4
+Botswana,BWA,Africa,2010,60.2
+Botswana,BWA,Africa,2011,61.9
+Botswana,BWA,Africa,2012,63.5
+Botswana,BWA,Africa,2013,65
+Botswana,BWA,Africa,2014,66.3
+Botswana,BWA,Africa,2015,67.3
+Botswana,BWA,Africa,2016,68.2
+Botswana,BWA,Africa,2017,68.8
+Botswana,BWA,Africa,2018,69.3
+Botswana,BWA,Africa,2019,69.6
+Brazil,BRA,Americas,1990,66.3
+Brazil,BRA,Americas,1991,66.7
+Brazil,BRA,Americas,1992,67.1
+Brazil,BRA,Americas,1993,67.5
+Brazil,BRA,Americas,1994,67.9
+Brazil,BRA,Americas,1995,68.3
+Brazil,BRA,Americas,1996,68.7
+Brazil,BRA,Americas,1997,69.1
+Brazil,BRA,Americas,1998,69.4
+Brazil,BRA,Americas,1999,69.8
+Brazil,BRA,Americas,2000,70.1
+Brazil,BRA,Americas,2001,70.5
+Brazil,BRA,Americas,2002,70.8
+Brazil,BRA,Americas,2003,71.2
+Brazil,BRA,Americas,2004,71.5
+Brazil,BRA,Americas,2005,71.9
+Brazil,BRA,Americas,2006,72.3
+Brazil,BRA,Americas,2007,72.6
+Brazil,BRA,Americas,2008,73
+Brazil,BRA,Americas,2009,73.3
+Brazil,BRA,Americas,2010,73.6
+Brazil,BRA,Americas,2011,73.9
+Brazil,BRA,Americas,2012,74.2
+Brazil,BRA,Americas,2013,74.5
+Brazil,BRA,Americas,2014,74.7
+Brazil,BRA,Americas,2015,75
+Brazil,BRA,Americas,2016,75.2
+Brazil,BRA,Americas,2017,75.5
+Brazil,BRA,Americas,2018,75.7
+Brazil,BRA,Americas,2019,75.9
+Brunei Darussalam,BRN,Asia,1990,70.2
+Brunei Darussalam,BRN,Asia,1991,70.4
+Brunei Darussalam,BRN,Asia,1992,70.7
+Brunei Darussalam,BRN,Asia,1993,71
+Brunei Darussalam,BRN,Asia,1994,71.2
+Brunei Darussalam,BRN,Asia,1995,71.5
+Brunei Darussalam,BRN,Asia,1996,71.7
+Brunei Darussalam,BRN,Asia,1997,72
+Brunei Darussalam,BRN,Asia,1998,72.3
+Brunei Darussalam,BRN,Asia,1999,72.5
+Brunei Darussalam,BRN,Asia,2000,72.8
+Brunei Darussalam,BRN,Asia,2001,73.1
+Brunei Darussalam,BRN,Asia,2002,73.3
+Brunei Darussalam,BRN,Asia,2003,73.6
+Brunei Darussalam,BRN,Asia,2004,73.8
+Brunei Darussalam,BRN,Asia,2005,74
+Brunei Darussalam,BRN,Asia,2006,74.2
+Brunei Darussalam,BRN,Asia,2007,74.4
+Brunei Darussalam,BRN,Asia,2008,74.5
+Brunei Darussalam,BRN,Asia,2009,74.6
+Brunei Darussalam,BRN,Asia,2010,74.7
+Brunei Darussalam,BRN,Asia,2011,74.9
+Brunei Darussalam,BRN,Asia,2012,75
+Brunei Darussalam,BRN,Asia,2013,75.1
+Brunei Darussalam,BRN,Asia,2014,75.2
+Brunei Darussalam,BRN,Asia,2015,75.3
+Brunei Darussalam,BRN,Asia,2016,75.5
+Brunei Darussalam,BRN,Asia,2017,75.6
+Brunei Darussalam,BRN,Asia,2018,75.7
+Brunei Darussalam,BRN,Asia,2019,75.9
+Bulgaria,BGR,Europe,1990,71.3
+Bulgaria,BGR,Europe,1991,71.2
+Bulgaria,BGR,Europe,1992,71.1
+Bulgaria,BGR,Europe,1993,71
+Bulgaria,BGR,Europe,1994,71
+Bulgaria,BGR,Europe,1995,70.9
+Bulgaria,BGR,Europe,1996,70.9
+Bulgaria,BGR,Europe,1997,71
+Bulgaria,BGR,Europe,1998,71.1
+Bulgaria,BGR,Europe,1999,71.3
+Bulgaria,BGR,Europe,2000,71.5
+Bulgaria,BGR,Europe,2001,71.7
+Bulgaria,BGR,Europe,2002,72
+Bulgaria,BGR,Europe,2003,72.2
+Bulgaria,BGR,Europe,2004,72.5
+Bulgaria,BGR,Europe,2005,72.7
+Bulgaria,BGR,Europe,2006,72.9
+Bulgaria,BGR,Europe,2007,73.1
+Bulgaria,BGR,Europe,2008,73.3
+Bulgaria,BGR,Europe,2009,73.5
+Bulgaria,BGR,Europe,2010,73.7
+Bulgaria,BGR,Europe,2011,73.9
+Bulgaria,BGR,Europe,2012,74.1
+Bulgaria,BGR,Europe,2013,74.3
+Bulgaria,BGR,Europe,2014,74.5
+Bulgaria,BGR,Europe,2015,74.6
+Bulgaria,BGR,Europe,2016,74.7
+Bulgaria,BGR,Europe,2017,74.8
+Bulgaria,BGR,Europe,2018,74.9
+Bulgaria,BGR,Europe,2019,75
+Burkina Faso,BFA,Africa,1990,Not Available
+Burkina Faso,BFA,Africa,1991,Not Available
+Burkina Faso,BFA,Africa,1992,Not Available
+Burkina Faso,BFA,Africa,1993,Not Available
+Burkina Faso,BFA,Africa,1994,Not Available
+Burkina Faso,BFA,Africa,1995,Not Available
+Burkina Faso,BFA,Africa,1996,Not Available
+Burkina Faso,BFA,Africa,1997,Not Available
+Burkina Faso,BFA,Africa,1998,Not Available
+Burkina Faso,BFA,Africa,1999,Not Available
+Burkina Faso,BFA,Africa,2000,50.5
+Burkina Faso,BFA,Africa,2001,50.9
+Burkina Faso,BFA,Africa,2002,51.4
+Burkina Faso,BFA,Africa,2003,52
+Burkina Faso,BFA,Africa,2004,52.6
+Burkina Faso,BFA,Africa,2005,53.3
+Burkina Faso,BFA,Africa,2006,54.1
+Burkina Faso,BFA,Africa,2007,54.8
+Burkina Faso,BFA,Africa,2008,55.6
+Burkina Faso,BFA,Africa,2009,56.4
+Burkina Faso,BFA,Africa,2010,57.1
+Burkina Faso,BFA,Africa,2011,57.8
+Burkina Faso,BFA,Africa,2012,58.4
+Burkina Faso,BFA,Africa,2013,58.9
+Burkina Faso,BFA,Africa,2014,59.5
+Burkina Faso,BFA,Africa,2015,59.9
+Burkina Faso,BFA,Africa,2016,60.4
+Burkina Faso,BFA,Africa,2017,60.8
+Burkina Faso,BFA,Africa,2018,61.2
+Burkina Faso,BFA,Africa,2019,61.6
+Burundi,BDI,Africa,1990,47.8
+Burundi,BDI,Africa,1991,47.5
+Burundi,BDI,Africa,1992,47.2
+Burundi,BDI,Africa,1993,47
+Burundi,BDI,Africa,1994,46.8
+Burundi,BDI,Africa,1995,46.8
+Burundi,BDI,Africa,1996,46.9
+Burundi,BDI,Africa,1997,47.2
+Burundi,BDI,Africa,1998,47.7
+Burundi,BDI,Africa,1999,48.3
+Burundi,BDI,Africa,2000,49.1
+Burundi,BDI,Africa,2001,49.9
+Burundi,BDI,Africa,2002,50.8
+Burundi,BDI,Africa,2003,51.7
+Burundi,BDI,Africa,2004,52.5
+Burundi,BDI,Africa,2005,53.4
+Burundi,BDI,Africa,2006,54.2
+Burundi,BDI,Africa,2007,54.9
+Burundi,BDI,Africa,2008,55.7
+Burundi,BDI,Africa,2009,56.5
+Burundi,BDI,Africa,2010,57.2
+Burundi,BDI,Africa,2011,57.9
+Burundi,BDI,Africa,2012,58.6
+Burundi,BDI,Africa,2013,59.1
+Burundi,BDI,Africa,2014,59.7
+Burundi,BDI,Africa,2015,60.1
+Burundi,BDI,Africa,2016,60.5
+Burundi,BDI,Africa,2017,60.9
+Burundi,BDI,Africa,2018,61.2
+Burundi,BDI,Africa,2019,61.6
+Cambodia,KHM,Asia,1990,53.6
+Cambodia,KHM,Asia,1991,53.9
+Cambodia,KHM,Asia,1992,54.2
+Cambodia,KHM,Asia,1993,54.5
+Cambodia,KHM,Asia,1994,54.8
+Cambodia,KHM,Asia,1995,55.2
+Cambodia,KHM,Asia,1996,55.7
+Cambodia,KHM,Asia,1997,56.2
+Cambodia,KHM,Asia,1998,56.9
+Cambodia,KHM,Asia,1999,57.6
+Cambodia,KHM,Asia,2000,58.4
+Cambodia,KHM,Asia,2001,59.3
+Cambodia,KHM,Asia,2002,60.3
+Cambodia,KHM,Asia,2003,61.2
+Cambodia,KHM,Asia,2004,62.2
+Cambodia,KHM,Asia,2005,63.1
+Cambodia,KHM,Asia,2006,63.9
+Cambodia,KHM,Asia,2007,64.7
+Cambodia,KHM,Asia,2008,65.4
+Cambodia,KHM,Asia,2009,66
+Cambodia,KHM,Asia,2010,66.6
+Cambodia,KHM,Asia,2011,67
+Cambodia,KHM,Asia,2012,67.5
+Cambodia,KHM,Asia,2013,67.9
+Cambodia,KHM,Asia,2014,68.3
+Cambodia,KHM,Asia,2015,68.6
+Cambodia,KHM,Asia,2016,69
+Cambodia,KHM,Asia,2017,69.3
+Cambodia,KHM,Asia,2018,69.6
+Cambodia,KHM,Asia,2019,69.8
+Cameroon,CMR,Africa,1990,53.4
+Cameroon,CMR,Africa,1991,53.1
+Cameroon,CMR,Africa,1992,52.7
+Cameroon,CMR,Africa,1993,52.3
+Cameroon,CMR,Africa,1994,51.9
+Cameroon,CMR,Africa,1995,51.6
+Cameroon,CMR,Africa,1996,51.2
+Cameroon,CMR,Africa,1997,51
+Cameroon,CMR,Africa,1998,50.9
+Cameroon,CMR,Africa,1999,50.9
+Cameroon,CMR,Africa,2000,51
+Cameroon,CMR,Africa,2001,51.2
+Cameroon,CMR,Africa,2002,51.5
+Cameroon,CMR,Africa,2003,51.9
+Cameroon,CMR,Africa,2004,52.3
+Cameroon,CMR,Africa,2005,52.8
+Cameroon,CMR,Africa,2006,53.2
+Cameroon,CMR,Africa,2007,53.7
+Cameroon,CMR,Africa,2008,54.2
+Cameroon,CMR,Africa,2009,54.6
+Cameroon,CMR,Africa,2010,55.1
+Cameroon,CMR,Africa,2011,55.6
+Cameroon,CMR,Africa,2012,56.1
+Cameroon,CMR,Africa,2013,56.6
+Cameroon,CMR,Africa,2014,57.1
+Cameroon,CMR,Africa,2015,57.6
+Cameroon,CMR,Africa,2016,58.1
+Cameroon,CMR,Africa,2017,58.5
+Cameroon,CMR,Africa,2018,58.9
+Cameroon,CMR,Africa,2019,59.3
+Canada,CAN,Americas,1990,77.3
+Canada,CAN,Americas,1991,77.5
+Canada,CAN,Americas,1992,77.7
+Canada,CAN,Americas,1993,77.8
+Canada,CAN,Americas,1994,78
+Canada,CAN,Americas,1995,78.2
+Canada,CAN,Americas,1996,78.3
+Canada,CAN,Americas,1997,78.5
+Canada,CAN,Americas,1998,78.7
+Canada,CAN,Americas,1999,78.9
+Canada,CAN,Americas,2000,79.1
+Canada,CAN,Americas,2001,79.3
+Canada,CAN,Americas,2002,79.6
+Canada,CAN,Americas,2003,79.8
+Canada,CAN,Americas,2004,80
+Canada,CAN,Americas,2005,80.2
+Canada,CAN,Americas,2006,80.5
+Canada,CAN,Americas,2007,80.7
+Canada,CAN,Americas,2008,80.9
+Canada,CAN,Americas,2009,81.1
+Canada,CAN,Americas,2010,81.3
+Canada,CAN,Americas,2011,81.5
+Canada,CAN,Americas,2012,81.7
+Canada,CAN,Americas,2013,81.8
+Canada,CAN,Americas,2014,81.9
+Canada,CAN,Americas,2015,82
+Canada,CAN,Americas,2016,82.1
+Canada,CAN,Americas,2017,82.2
+Canada,CAN,Americas,2018,82.3
+Canada,CAN,Americas,2019,82.4
+Cape Verde,CPV,Africa,1990,Not Available
+Cape Verde,CPV,Africa,1991,Not Available
+Cape Verde,CPV,Africa,1992,Not Available
+Cape Verde,CPV,Africa,1993,Not Available
+Cape Verde,CPV,Africa,1994,Not Available
+Cape Verde,CPV,Africa,1995,Not Available
+Cape Verde,CPV,Africa,1996,Not Available
+Cape Verde,CPV,Africa,1997,Not Available
+Cape Verde,CPV,Africa,1998,Not Available
+Cape Verde,CPV,Africa,1999,Not Available
+Cape Verde,CPV,Africa,2000,68.6
+Cape Verde,CPV,Africa,2001,69.1
+Cape Verde,CPV,Africa,2002,69.6
+Cape Verde,CPV,Africa,2003,69.9
+Cape Verde,CPV,Africa,2004,70.2
+Cape Verde,CPV,Africa,2005,70.4
+Cape Verde,CPV,Africa,2006,70.6
+Cape Verde,CPV,Africa,2007,70.7
+Cape Verde,CPV,Africa,2008,70.8
+Cape Verde,CPV,Africa,2009,70.9
+Cape Verde,CPV,Africa,2010,71.1
+Cape Verde,CPV,Africa,2011,71.2
+Cape Verde,CPV,Africa,2012,71.4
+Cape Verde,CPV,Africa,2013,71.7
+Cape Verde,CPV,Africa,2014,71.9
+Cape Verde,CPV,Africa,2015,72.1
+Cape Verde,CPV,Africa,2016,72.3
+Cape Verde,CPV,Africa,2017,72.6
+Cape Verde,CPV,Africa,2018,72.8
+Cape Verde,CPV,Africa,2019,73
+Central African Rep.,CAF,Africa,1990,49.1
+Central African Rep.,CAF,Africa,1991,48.7
+Central African Rep.,CAF,Africa,1992,48.3
+Central African Rep.,CAF,Africa,1993,47.7
+Central African Rep.,CAF,Africa,1994,47.1
+Central African Rep.,CAF,Africa,1995,46.5
+Central African Rep.,CAF,Africa,1996,45.9
+Central African Rep.,CAF,Africa,1997,45.4
+Central African Rep.,CAF,Africa,1998,44.9
+Central African Rep.,CAF,Africa,1999,44.5
+Central African Rep.,CAF,Africa,2000,44.2
+Central African Rep.,CAF,Africa,2001,44.1
+Central African Rep.,CAF,Africa,2002,44.1
+Central African Rep.,CAF,Africa,2003,44.2
+Central African Rep.,CAF,Africa,2004,44.4
+Central African Rep.,CAF,Africa,2005,44.7
+Central African Rep.,CAF,Africa,2006,45.2
+Central African Rep.,CAF,Africa,2007,45.6
+Central African Rep.,CAF,Africa,2008,46.2
+Central African Rep.,CAF,Africa,2009,46.7
+Central African Rep.,CAF,Africa,2010,47.3
+Central African Rep.,CAF,Africa,2011,48
+Central African Rep.,CAF,Africa,2012,48.6
+Central African Rep.,CAF,Africa,2013,49.4
+Central African Rep.,CAF,Africa,2014,50.1
+Central African Rep.,CAF,Africa,2015,50.9
+Central African Rep.,CAF,Africa,2016,51.6
+Central African Rep.,CAF,Africa,2017,52.2
+Central African Rep.,CAF,Africa,2018,52.8
+Central African Rep.,CAF,Africa,2019,53.3
+Chad,TCD,Africa,1990,Not Available
+Chad,TCD,Africa,1991,Not Available
+Chad,TCD,Africa,1992,Not Available
+Chad,TCD,Africa,1993,Not Available
+Chad,TCD,Africa,1994,Not Available
+Chad,TCD,Africa,1995,Not Available
+Chad,TCD,Africa,1996,Not Available
+Chad,TCD,Africa,1997,Not Available
+Chad,TCD,Africa,1998,Not Available
+Chad,TCD,Africa,1999,Not Available
+Chad,TCD,Africa,2000,47.7
+Chad,TCD,Africa,2001,47.8
+Chad,TCD,Africa,2002,47.9
+Chad,TCD,Africa,2003,48.1
+Chad,TCD,Africa,2004,48.3
+Chad,TCD,Africa,2005,48.5
+Chad,TCD,Africa,2006,48.9
+Chad,TCD,Africa,2007,49.3
+Chad,TCD,Africa,2008,49.8
+Chad,TCD,Africa,2009,50.3
+Chad,TCD,Africa,2010,50.9
+Chad,TCD,Africa,2011,51.4
+Chad,TCD,Africa,2012,51.9
+Chad,TCD,Africa,2013,52.4
+Chad,TCD,Africa,2014,52.8
+Chad,TCD,Africa,2015,53.1
+Chad,TCD,Africa,2016,53.4
+Chad,TCD,Africa,2017,53.7
+Chad,TCD,Africa,2018,54
+Chad,TCD,Africa,2019,54.2
+Chile,CHL,Americas,1990,73.5
+Chile,CHL,Americas,1991,73.8
+Chile,CHL,Americas,1992,74.1
+Chile,CHL,Americas,1993,74.4
+Chile,CHL,Americas,1994,74.7
+Chile,CHL,Americas,1995,75
+Chile,CHL,Americas,1996,75.2
+Chile,CHL,Americas,1997,75.5
+Chile,CHL,Americas,1998,75.8
+Chile,CHL,Americas,1999,76.1
+Chile,CHL,Americas,2000,76.4
+Chile,CHL,Americas,2001,76.6
+Chile,CHL,Americas,2002,76.9
+Chile,CHL,Americas,2003,77.1
+Chile,CHL,Americas,2004,77.4
+Chile,CHL,Americas,2005,77.6
+Chile,CHL,Americas,2006,77.9
+Chile,CHL,Americas,2007,78.1
+Chile,CHL,Americas,2008,78.3
+Chile,CHL,Americas,2009,78.6
+Chile,CHL,Americas,2010,78.8
+Chile,CHL,Americas,2011,79
+Chile,CHL,Americas,2012,79.2
+Chile,CHL,Americas,2013,79.3
+Chile,CHL,Americas,2014,79.5
+Chile,CHL,Americas,2015,79.6
+Chile,CHL,Americas,2016,79.8
+Chile,CHL,Americas,2017,79.9
+Chile,CHL,Americas,2018,80
+Chile,CHL,Americas,2019,80.2
+China,CHN,Asia,1990,69.1
+China,CHN,Asia,1991,69.2
+China,CHN,Asia,1992,69.4
+China,CHN,Asia,1993,69.5
+China,CHN,Asia,1994,69.7
+China,CHN,Asia,1995,69.9
+China,CHN,Asia,1996,70.1
+China,CHN,Asia,1997,70.4
+China,CHN,Asia,1998,70.7
+China,CHN,Asia,1999,71.1
+China,CHN,Asia,2000,71.4
+China,CHN,Asia,2001,71.7
+China,CHN,Asia,2002,72.1
+China,CHN,Asia,2003,72.4
+China,CHN,Asia,2004,72.7
+China,CHN,Asia,2005,73
+China,CHN,Asia,2006,73.3
+China,CHN,Asia,2007,73.6
+China,CHN,Asia,2008,73.8
+China,CHN,Asia,2009,74.1
+China,CHN,Asia,2010,74.4
+China,CHN,Asia,2011,74.7
+China,CHN,Asia,2012,75
+China,CHN,Asia,2013,75.3
+China,CHN,Asia,2014,75.6
+China,CHN,Asia,2015,75.9
+China,CHN,Asia,2016,76.2
+China,CHN,Asia,2017,76.5
+China,CHN,Asia,2018,76.7
+China,CHN,Asia,2019,76.9
+Colombia,COL,Americas,1990,69.8
+Colombia,COL,Americas,1991,69.9
+Colombia,COL,Americas,1992,70.2
+Colombia,COL,Americas,1993,70.4
+Colombia,COL,Americas,1994,70.8
+Colombia,COL,Americas,1995,71.1
+Colombia,COL,Americas,1996,71.5
+Colombia,COL,Americas,1997,71.9
+Colombia,COL,Americas,1998,72.3
+Colombia,COL,Americas,1999,72.6
+Colombia,COL,Americas,2000,72.9
+Colombia,COL,Americas,2001,73.2
+Colombia,COL,Americas,2002,73.5
+Colombia,COL,Americas,2003,73.8
+Colombia,COL,Americas,2004,74
+Colombia,COL,Americas,2005,74.3
+Colombia,COL,Americas,2006,74.5
+Colombia,COL,Americas,2007,74.7
+Colombia,COL,Americas,2008,75
+Colombia,COL,Americas,2009,75.2
+Colombia,COL,Americas,2010,75.4
+Colombia,COL,Americas,2011,75.7
+Colombia,COL,Americas,2012,75.9
+Colombia,COL,Americas,2013,76.1
+Colombia,COL,Americas,2014,76.3
+Colombia,COL,Americas,2015,76.5
+Colombia,COL,Americas,2016,76.7
+Colombia,COL,Americas,2017,76.9
+Colombia,COL,Americas,2018,77.1
+Colombia,COL,Americas,2019,77.3
+Comoros,COM,Africa,1990,Not Available
+Comoros,COM,Africa,1991,Not Available
+Comoros,COM,Africa,1992,Not Available
+Comoros,COM,Africa,1993,Not Available
+Comoros,COM,Africa,1994,Not Available
+Comoros,COM,Africa,1995,Not Available
+Comoros,COM,Africa,1996,Not Available
+Comoros,COM,Africa,1997,Not Available
+Comoros,COM,Africa,1998,Not Available
+Comoros,COM,Africa,1999,Not Available
+Comoros,COM,Africa,2000,59.5
+Comoros,COM,Africa,2001,59.5
+Comoros,COM,Africa,2002,59.6
+Comoros,COM,Africa,2003,59.7
+Comoros,COM,Africa,2004,59.9
+Comoros,COM,Africa,2005,60.1
+Comoros,COM,Africa,2006,60.4
+Comoros,COM,Africa,2007,60.7
+Comoros,COM,Africa,2008,61.1
+Comoros,COM,Africa,2009,61.5
+Comoros,COM,Africa,2010,61.9
+Comoros,COM,Africa,2011,62.2
+Comoros,COM,Africa,2012,62.6
+Comoros,COM,Africa,2013,62.9
+Comoros,COM,Africa,2014,63.2
+Comoros,COM,Africa,2015,63.5
+Comoros,COM,Africa,2016,63.7
+Comoros,COM,Africa,2017,63.9
+Comoros,COM,Africa,2018,64.1
+Comoros,COM,Africa,2019,64.3
+Congo Brazzaville,COG,Africa,1990,54.6
+Congo Brazzaville,COG,Africa,1991,54.3
+Congo Brazzaville,COG,Africa,1992,53.9
+Congo Brazzaville,COG,Africa,1993,53.4
+Congo Brazzaville,COG,Africa,1994,53
+Congo Brazzaville,COG,Africa,1995,52.6
+Congo Brazzaville,COG,Africa,1996,52.3
+Congo Brazzaville,COG,Africa,1997,52
+Congo Brazzaville,COG,Africa,1998,51.9
+Congo Brazzaville,COG,Africa,1999,51.9
+Congo Brazzaville,COG,Africa,2000,52.1
+Congo Brazzaville,COG,Africa,2001,52.5
+Congo Brazzaville,COG,Africa,2002,53.1
+Congo Brazzaville,COG,Africa,2003,53.8
+Congo Brazzaville,COG,Africa,2004,54.7
+Congo Brazzaville,COG,Africa,2005,55.6
+Congo Brazzaville,COG,Africa,2006,56.6
+Congo Brazzaville,COG,Africa,2007,57.5
+Congo Brazzaville,COG,Africa,2008,58.5
+Congo Brazzaville,COG,Africa,2009,59.3
+Congo Brazzaville,COG,Africa,2010,60.1
+Congo Brazzaville,COG,Africa,2011,60.8
+Congo Brazzaville,COG,Africa,2012,61.4
+Congo Brazzaville,COG,Africa,2013,62
+Congo Brazzaville,COG,Africa,2014,62.6
+Congo Brazzaville,COG,Africa,2015,63.1
+Congo Brazzaville,COG,Africa,2016,63.6
+Congo Brazzaville,COG,Africa,2017,64
+Congo Brazzaville,COG,Africa,2018,64.3
+Congo Brazzaville,COG,Africa,2019,64.6
+Dem. Rep. Congo,COD,Africa,1990,49
+Dem. Rep. Congo,COD,Africa,1991,49.2
+Dem. Rep. Congo,COD,Africa,1992,49.3
+Dem. Rep. Congo,COD,Africa,1993,49.3
+Dem. Rep. Congo,COD,Africa,1994,49.2
+Dem. Rep. Congo,COD,Africa,1995,49.1
+Dem. Rep. Congo,COD,Africa,1996,49
+Dem. Rep. Congo,COD,Africa,1997,49.1
+Dem. Rep. Congo,COD,Africa,1998,49.2
+Dem. Rep. Congo,COD,Africa,1999,49.6
+Dem. Rep. Congo,COD,Africa,2000,50
+Dem. Rep. Congo,COD,Africa,2001,50.7
+Dem. Rep. Congo,COD,Africa,2002,51.4
+Dem. Rep. Congo,COD,Africa,2003,52.1
+Dem. Rep. Congo,COD,Africa,2004,52.9
+Dem. Rep. Congo,COD,Africa,2005,53.7
+Dem. Rep. Congo,COD,Africa,2006,54.4
+Dem. Rep. Congo,COD,Africa,2007,55.1
+Dem. Rep. Congo,COD,Africa,2008,55.7
+Dem. Rep. Congo,COD,Africa,2009,56.4
+Dem. Rep. Congo,COD,Africa,2010,56.9
+Dem. Rep. Congo,COD,Africa,2011,57.4
+Dem. Rep. Congo,COD,Africa,2012,57.9
+Dem. Rep. Congo,COD,Africa,2013,58.4
+Dem. Rep. Congo,COD,Africa,2014,58.8
+Dem. Rep. Congo,COD,Africa,2015,59.3
+Dem. Rep. Congo,COD,Africa,2016,59.7
+Dem. Rep. Congo,COD,Africa,2017,60
+Dem. Rep. Congo,COD,Africa,2018,60.4
+Dem. Rep. Congo,COD,Africa,2019,60.7
+Costa Rica,CRI,Americas,1990,75.7
+Costa Rica,CRI,Americas,1991,75.8
+Costa Rica,CRI,Americas,1992,76
+Costa Rica,CRI,Americas,1993,76.2
+Costa Rica,CRI,Americas,1994,76.4
+Costa Rica,CRI,Americas,1995,76.6
+Costa Rica,CRI,Americas,1996,76.8
+Costa Rica,CRI,Americas,1997,76.9
+Costa Rica,CRI,Americas,1998,77.1
+Costa Rica,CRI,Americas,1999,77.3
+Costa Rica,CRI,Americas,2000,77.5
+Costa Rica,CRI,Americas,2001,77.6
+Costa Rica,CRI,Americas,2002,77.7
+Costa Rica,CRI,Americas,2003,77.9
+Costa Rica,CRI,Americas,2004,78
+Costa Rica,CRI,Americas,2005,78.1
+Costa Rica,CRI,Americas,2006,78.2
+Costa Rica,CRI,Americas,2007,78.4
+Costa Rica,CRI,Americas,2008,78.5
+Costa Rica,CRI,Americas,2009,78.6
+Costa Rica,CRI,Americas,2010,78.8
+Costa Rica,CRI,Americas,2011,78.9
+Costa Rica,CRI,Americas,2012,79.1
+Costa Rica,CRI,Americas,2013,79.2
+Costa Rica,CRI,Americas,2014,79.4
+Costa Rica,CRI,Americas,2015,79.6
+Costa Rica,CRI,Americas,2016,79.7
+Costa Rica,CRI,Americas,2017,79.9
+Costa Rica,CRI,Americas,2018,80.1
+Costa Rica,CRI,Americas,2019,80.3
+Cote d'Ivoire,CIV,Africa,1990,53.3
+Cote d'Ivoire,CIV,Africa,1991,53.1
+Cote d'Ivoire,CIV,Africa,1992,52.8
+Cote d'Ivoire,CIV,Africa,1993,52.4
+Cote d'Ivoire,CIV,Africa,1994,52
+Cote d'Ivoire,CIV,Africa,1995,51.6
+Cote d'Ivoire,CIV,Africa,1996,51.1
+Cote d'Ivoire,CIV,Africa,1997,50.7
+Cote d'Ivoire,CIV,Africa,1998,50.2
+Cote d'Ivoire,CIV,Africa,1999,49.9
+Cote d'Ivoire,CIV,Africa,2000,49.6
+Cote d'Ivoire,CIV,Africa,2001,49.5
+Cote d'Ivoire,CIV,Africa,2002,49.5
+Cote d'Ivoire,CIV,Africa,2003,49.6
+Cote d'Ivoire,CIV,Africa,2004,49.8
+Cote d'Ivoire,CIV,Africa,2005,50.1
+Cote d'Ivoire,CIV,Africa,2006,50.6
+Cote d'Ivoire,CIV,Africa,2007,51.1
+Cote d'Ivoire,CIV,Africa,2008,51.7
+Cote d'Ivoire,CIV,Africa,2009,52.3
+Cote d'Ivoire,CIV,Africa,2010,53
+Cote d'Ivoire,CIV,Africa,2011,53.6
+Cote d'Ivoire,CIV,Africa,2012,54.3
+Cote d'Ivoire,CIV,Africa,2013,54.9
+Cote d'Ivoire,CIV,Africa,2014,55.5
+Cote d'Ivoire,CIV,Africa,2015,56.1
+Cote d'Ivoire,CIV,Africa,2016,56.6
+Cote d'Ivoire,CIV,Africa,2017,57
+Cote d'Ivoire,CIV,Africa,2018,57.4
+Cote d'Ivoire,CIV,Africa,2019,57.8
+Croatia,HRV,Europe,1990,72.3
+Croatia,HRV,Europe,1991,72.5
+Croatia,HRV,Europe,1992,72.8
+Croatia,HRV,Europe,1993,73.1
+Croatia,HRV,Europe,1994,73.4
+Croatia,HRV,Europe,1995,73.7
+Croatia,HRV,Europe,1996,74
+Croatia,HRV,Europe,1997,74.3
+Croatia,HRV,Europe,1998,74.5
+Croatia,HRV,Europe,1999,74.7
+Croatia,HRV,Europe,2000,74.8
+Croatia,HRV,Europe,2001,74.9
+Croatia,HRV,Europe,2002,75
+Croatia,HRV,Europe,2003,75.1
+Croatia,HRV,Europe,2004,75.2
+Croatia,HRV,Europe,2005,75.4
+Croatia,HRV,Europe,2006,75.7
+Croatia,HRV,Europe,2007,76
+Croatia,HRV,Europe,2008,76.2
+Croatia,HRV,Europe,2009,76.5
+Croatia,HRV,Europe,2010,76.8
+Croatia,HRV,Europe,2011,77.1
+Croatia,HRV,Europe,2012,77.3
+Croatia,HRV,Europe,2013,77.5
+Croatia,HRV,Europe,2014,77.7
+Croatia,HRV,Europe,2015,77.9
+Croatia,HRV,Europe,2016,78
+Croatia,HRV,Europe,2017,78.2
+Croatia,HRV,Europe,2018,78.3
+Croatia,HRV,Europe,2019,78.5
+Cuba,CUB,Americas,1990,74.6
+Cuba,CUB,Americas,1991,74.7
+Cuba,CUB,Americas,1992,74.8
+Cuba,CUB,Americas,1993,75
+Cuba,CUB,Americas,1994,75.2
+Cuba,CUB,Americas,1995,75.4
+Cuba,CUB,Americas,1996,75.7
+Cuba,CUB,Americas,1997,76
+Cuba,CUB,Americas,1998,76.2
+Cuba,CUB,Americas,1999,76.5
+Cuba,CUB,Americas,2000,76.7
+Cuba,CUB,Americas,2001,76.9
+Cuba,CUB,Americas,2002,77.1
+Cuba,CUB,Americas,2003,77.3
+Cuba,CUB,Americas,2004,77.5
+Cuba,CUB,Americas,2005,77.7
+Cuba,CUB,Americas,2006,77.9
+Cuba,CUB,Americas,2007,78
+Cuba,CUB,Americas,2008,78.2
+Cuba,CUB,Americas,2009,78.3
+Cuba,CUB,Americas,2010,78.3
+Cuba,CUB,Americas,2011,78.4
+Cuba,CUB,Americas,2012,78.4
+Cuba,CUB,Americas,2013,78.5
+Cuba,CUB,Americas,2014,78.5
+Cuba,CUB,Americas,2015,78.6
+Cuba,CUB,Americas,2016,78.6
+Cuba,CUB,Americas,2017,78.7
+Cuba,CUB,Americas,2018,78.7
+Cuba,CUB,Americas,2019,78.8
+Cyprus,CYP,Asia,1990,76.6
+Cyprus,CYP,Asia,1991,76.7
+Cyprus,CYP,Asia,1992,76.9
+Cyprus,CYP,Asia,1993,77
+Cyprus,CYP,Asia,1994,77.2
+Cyprus,CYP,Asia,1995,77.3
+Cyprus,CYP,Asia,1996,77.5
+Cyprus,CYP,Asia,1997,77.6
+Cyprus,CYP,Asia,1998,77.7
+Cyprus,CYP,Asia,1999,77.9
+Cyprus,CYP,Asia,2000,78
+Cyprus,CYP,Asia,2001,78.1
+Cyprus,CYP,Asia,2002,78.3
+Cyprus,CYP,Asia,2003,78.4
+Cyprus,CYP,Asia,2004,78.5
+Cyprus,CYP,Asia,2005,78.6
+Cyprus,CYP,Asia,2006,78.8
+Cyprus,CYP,Asia,2007,78.9
+Cyprus,CYP,Asia,2008,79.1
+Cyprus,CYP,Asia,2009,79.2
+Cyprus,CYP,Asia,2010,79.4
+Cyprus,CYP,Asia,2011,79.6
+Cyprus,CYP,Asia,2012,79.8
+Cyprus,CYP,Asia,2013,80
+Cyprus,CYP,Asia,2014,80.2
+Cyprus,CYP,Asia,2015,80.3
+Cyprus,CYP,Asia,2016,80.5
+Cyprus,CYP,Asia,2017,80.7
+Cyprus,CYP,Asia,2018,80.8
+Cyprus,CYP,Asia,2019,81
+Czech Republic,CZE,Europe,1990,71.9
+Czech Republic,CZE,Europe,1991,72.1
+Czech Republic,CZE,Europe,1992,72.4
+Czech Republic,CZE,Europe,1993,72.7
+Czech Republic,CZE,Europe,1994,73
+Czech Republic,CZE,Europe,1995,73.3
+Czech Republic,CZE,Europe,1996,73.7
+Czech Republic,CZE,Europe,1997,74
+Czech Republic,CZE,Europe,1998,74.3
+Czech Republic,CZE,Europe,1999,74.6
+Czech Republic,CZE,Europe,2000,74.9
+Czech Republic,CZE,Europe,2001,75.2
+Czech Republic,CZE,Europe,2002,75.4
+Czech Republic,CZE,Europe,2003,75.7
+Czech Republic,CZE,Europe,2004,76
+Czech Republic,CZE,Europe,2005,76.3
+Czech Republic,CZE,Europe,2006,76.6
+Czech Republic,CZE,Europe,2007,76.8
+Czech Republic,CZE,Europe,2008,77.1
+Czech Republic,CZE,Europe,2009,77.4
+Czech Republic,CZE,Europe,2010,77.6
+Czech Republic,CZE,Europe,2011,77.8
+Czech Republic,CZE,Europe,2012,78.1
+Czech Republic,CZE,Europe,2013,78.3
+Czech Republic,CZE,Europe,2014,78.5
+Czech Republic,CZE,Europe,2015,78.7
+Czech Republic,CZE,Europe,2016,78.9
+Czech Republic,CZE,Europe,2017,79.1
+Czech Republic,CZE,Europe,2018,79.2
+Czech Republic,CZE,Europe,2019,79.4
+Denmark,DNK,Europe,1990,74.9
+Denmark,DNK,Europe,1991,75
+Denmark,DNK,Europe,1992,75.2
+Denmark,DNK,Europe,1993,75.3
+Denmark,DNK,Europe,1994,75.5
+Denmark,DNK,Europe,1995,75.6
+Denmark,DNK,Europe,1996,75.8
+Denmark,DNK,Europe,1997,76
+Denmark,DNK,Europe,1998,76.2
+Denmark,DNK,Europe,1999,76.5
+Denmark,DNK,Europe,2000,76.7
+Denmark,DNK,Europe,2001,77
+Denmark,DNK,Europe,2002,77.2
+Denmark,DNK,Europe,2003,77.4
+Denmark,DNK,Europe,2004,77.7
+Denmark,DNK,Europe,2005,77.9
+Denmark,DNK,Europe,2006,78.2
+Denmark,DNK,Europe,2007,78.5
+Denmark,DNK,Europe,2008,78.8
+Denmark,DNK,Europe,2009,79.1
+Denmark,DNK,Europe,2010,79.4
+Denmark,DNK,Europe,2011,79.7
+Denmark,DNK,Europe,2012,80
+Denmark,DNK,Europe,2013,80.2
+Denmark,DNK,Europe,2014,80.3
+Denmark,DNK,Europe,2015,80.5
+Denmark,DNK,Europe,2016,80.6
+Denmark,DNK,Europe,2017,80.7
+Denmark,DNK,Europe,2018,80.8
+Denmark,DNK,Europe,2019,80.9
+Djibouti,DJI,Africa,1990,Not Available
+Djibouti,DJI,Africa,1991,Not Available
+Djibouti,DJI,Africa,1992,Not Available
+Djibouti,DJI,Africa,1993,Not Available
+Djibouti,DJI,Africa,1994,Not Available
+Djibouti,DJI,Africa,1995,57.1
+Djibouti,DJI,Africa,1996,57
+Djibouti,DJI,Africa,1997,57
+Djibouti,DJI,Africa,1998,57
+Djibouti,DJI,Africa,1999,57
+Djibouti,DJI,Africa,2000,57
+Djibouti,DJI,Africa,2001,57.1
+Djibouti,DJI,Africa,2002,57.2
+Djibouti,DJI,Africa,2003,57.4
+Djibouti,DJI,Africa,2004,57.7
+Djibouti,DJI,Africa,2005,58
+Djibouti,DJI,Africa,2006,58.3
+Djibouti,DJI,Africa,2007,58.7
+Djibouti,DJI,Africa,2008,59.1
+Djibouti,DJI,Africa,2009,59.6
+Djibouti,DJI,Africa,2010,60.1
+Djibouti,DJI,Africa,2011,60.7
+Djibouti,DJI,Africa,2012,61.4
+Djibouti,DJI,Africa,2013,62.2
+Djibouti,DJI,Africa,2014,63.2
+Djibouti,DJI,Africa,2015,64.1
+Djibouti,DJI,Africa,2016,65.1
+Djibouti,DJI,Africa,2017,65.9
+Djibouti,DJI,Africa,2018,66.6
+Djibouti,DJI,Africa,2019,67.1
+Dominica,DMA,Americas,1990,Not Available
+Dominica,DMA,Americas,1991,Not Available
+Dominica,DMA,Americas,1992,Not Available
+Dominica,DMA,Americas,1993,Not Available
+Dominica,DMA,Americas,1994,Not Available
+Dominica,DMA,Americas,1995,Not Available
+Dominica,DMA,Americas,1996,Not Available
+Dominica,DMA,Americas,1997,Not Available
+Dominica,DMA,Americas,1998,Not Available
+Dominica,DMA,Americas,1999,Not Available
+Dominica,DMA,Americas,2000,76.5
+Dominica,DMA,Americas,2001,76.6
+Dominica,DMA,Americas,2002,76.7
+Dominica,DMA,Americas,2003,76.8
+Dominica,DMA,Americas,2004,76.8
+Dominica,DMA,Americas,2005,76.9
+Dominica,DMA,Americas,2006,77
+Dominica,DMA,Americas,2007,77.1
+Dominica,DMA,Americas,2008,77.2
+Dominica,DMA,Americas,2009,77.3
+Dominica,DMA,Americas,2010,77.4
+Dominica,DMA,Americas,2011,77.5
+Dominica,DMA,Americas,2012,77.6
+Dominica,DMA,Americas,2013,77.7
+Dominica,DMA,Americas,2014,77.8
+Dominica,DMA,Americas,2015,77.9
+Dominica,DMA,Americas,2016,77.9
+Dominica,DMA,Americas,2017,78
+Dominica,DMA,Americas,2018,78.1
+Dominica,DMA,Americas,2019,78.2
+Dominican Republic,DOM,Americas,1990,66.6
+Dominican Republic,DOM,Americas,1991,66.9
+Dominican Republic,DOM,Americas,1992,67.3
+Dominican Republic,DOM,Americas,1993,67.6
+Dominican Republic,DOM,Americas,1994,67.9
+Dominican Republic,DOM,Americas,1995,68.2
+Dominican Republic,DOM,Americas,1996,68.4
+Dominican Republic,DOM,Americas,1997,68.7
+Dominican Republic,DOM,Americas,1998,68.9
+Dominican Republic,DOM,Americas,1999,69.2
+Dominican Republic,DOM,Americas,2000,69.4
+Dominican Republic,DOM,Americas,2001,69.7
+Dominican Republic,DOM,Americas,2002,70
+Dominican Republic,DOM,Americas,2003,70.2
+Dominican Republic,DOM,Americas,2004,70.5
+Dominican Republic,DOM,Americas,2005,70.8
+Dominican Republic,DOM,Americas,2006,71
+Dominican Republic,DOM,Americas,2007,71.3
+Dominican Republic,DOM,Americas,2008,71.6
+Dominican Republic,DOM,Americas,2009,71.8
+Dominican Republic,DOM,Americas,2010,72
+Dominican Republic,DOM,Americas,2011,72.3
+Dominican Republic,DOM,Americas,2012,72.5
+Dominican Republic,DOM,Americas,2013,72.8
+Dominican Republic,DOM,Americas,2014,73
+Dominican Republic,DOM,Americas,2015,73.2
+Dominican Republic,DOM,Americas,2016,73.5
+Dominican Republic,DOM,Americas,2017,73.7
+Dominican Republic,DOM,Americas,2018,73.9
+Dominican Republic,DOM,Americas,2019,74.1
+Ecuador,ECU,Americas,1990,68.9
+Ecuador,ECU,Americas,1991,69.3
+Ecuador,ECU,Americas,1992,69.8
+Ecuador,ECU,Americas,1993,70.2
+Ecuador,ECU,Americas,1994,70.6
+Ecuador,ECU,Americas,1995,71
+Ecuador,ECU,Americas,1996,71.3
+Ecuador,ECU,Americas,1997,71.7
+Ecuador,ECU,Americas,1998,72.1
+Ecuador,ECU,Americas,1999,72.4
+Ecuador,ECU,Americas,2000,72.8
+Ecuador,ECU,Americas,2001,73.1
+Ecuador,ECU,Americas,2002,73.4
+Ecuador,ECU,Americas,2003,73.6
+Ecuador,ECU,Americas,2004,73.9
+Ecuador,ECU,Americas,2005,74.1
+Ecuador,ECU,Americas,2006,74.3
+Ecuador,ECU,Americas,2007,74.5
+Ecuador,ECU,Americas,2008,74.7
+Ecuador,ECU,Americas,2009,74.9
+Ecuador,ECU,Americas,2010,75.1
+Ecuador,ECU,Americas,2011,75.3
+Ecuador,ECU,Americas,2012,75.5
+Ecuador,ECU,Americas,2013,75.7
+Ecuador,ECU,Americas,2014,75.9
+Ecuador,ECU,Americas,2015,76.1
+Ecuador,ECU,Americas,2016,76.4
+Ecuador,ECU,Americas,2017,76.6
+Ecuador,ECU,Americas,2018,76.8
+Ecuador,ECU,Americas,2019,77
+Egypt,EGY,Africa,1990,64.6
+Egypt,EGY,Africa,1991,65
+Egypt,EGY,Africa,1992,65.4
+Egypt,EGY,Africa,1993,65.8
+Egypt,EGY,Africa,1994,66.3
+Egypt,EGY,Africa,1995,66.8
+Egypt,EGY,Africa,1996,67.2
+Egypt,EGY,Africa,1997,67.7
+Egypt,EGY,Africa,1998,68.1
+Egypt,EGY,Africa,1999,68.4
+Egypt,EGY,Africa,2000,68.6
+Egypt,EGY,Africa,2001,68.8
+Egypt,EGY,Africa,2002,69
+Egypt,EGY,Africa,2003,69.1
+Egypt,EGY,Africa,2004,69.3
+Egypt,EGY,Africa,2005,69.4
+Egypt,EGY,Africa,2006,69.6
+Egypt,EGY,Africa,2007,69.8
+Egypt,EGY,Africa,2008,70
+Egypt,EGY,Africa,2009,70.2
+Egypt,EGY,Africa,2010,70.3
+Egypt,EGY,Africa,2011,70.5
+Egypt,EGY,Africa,2012,70.7
+Egypt,EGY,Africa,2013,70.9
+Egypt,EGY,Africa,2014,71.1
+Egypt,EGY,Africa,2015,71.3
+Egypt,EGY,Africa,2016,71.5
+Egypt,EGY,Africa,2017,71.7
+Egypt,EGY,Africa,2018,71.8
+Egypt,EGY,Africa,2019,72
+El Salvador,SLV,Americas,1990,64
+El Salvador,SLV,Americas,1991,64.9
+El Salvador,SLV,Americas,1992,65.6
+El Salvador,SLV,Americas,1993,66.3
+El Salvador,SLV,Americas,1994,66.8
+El Salvador,SLV,Americas,1995,67.3
+El Salvador,SLV,Americas,1996,67.7
+El Salvador,SLV,Americas,1997,68
+El Salvador,SLV,Americas,1998,68.3
+El Salvador,SLV,Americas,1999,68.6
+El Salvador,SLV,Americas,2000,68.9
+El Salvador,SLV,Americas,2001,69.2
+El Salvador,SLV,Americas,2002,69.4
+El Salvador,SLV,Americas,2003,69.7
+El Salvador,SLV,Americas,2004,69.9
+El Salvador,SLV,Americas,2005,70.1
+El Salvador,SLV,Americas,2006,70.3
+El Salvador,SLV,Americas,2007,70.5
+El Salvador,SLV,Americas,2008,70.8
+El Salvador,SLV,Americas,2009,71
+El Salvador,SLV,Americas,2010,71.2
+El Salvador,SLV,Americas,2011,71.4
+El Salvador,SLV,Americas,2012,71.7
+El Salvador,SLV,Americas,2013,71.9
+El Salvador,SLV,Americas,2014,72.2
+El Salvador,SLV,Americas,2015,72.4
+El Salvador,SLV,Americas,2016,72.6
+El Salvador,SLV,Americas,2017,72.9
+El Salvador,SLV,Americas,2018,73.1
+El Salvador,SLV,Americas,2019,73.3
+Equatorial Guinea,GNQ,Africa,1990,Not Available
+Equatorial Guinea,GNQ,Africa,1991,Not Available
+Equatorial Guinea,GNQ,Africa,1992,Not Available
+Equatorial Guinea,GNQ,Africa,1993,Not Available
+Equatorial Guinea,GNQ,Africa,1994,Not Available
+Equatorial Guinea,GNQ,Africa,1995,Not Available
+Equatorial Guinea,GNQ,Africa,1996,Not Available
+Equatorial Guinea,GNQ,Africa,1997,Not Available
+Equatorial Guinea,GNQ,Africa,1998,Not Available
+Equatorial Guinea,GNQ,Africa,1999,Not Available
+Equatorial Guinea,GNQ,Africa,2000,53.3
+Equatorial Guinea,GNQ,Africa,2001,53.6
+Equatorial Guinea,GNQ,Africa,2002,53.8
+Equatorial Guinea,GNQ,Africa,2003,54.1
+Equatorial Guinea,GNQ,Africa,2004,54.3
+Equatorial Guinea,GNQ,Africa,2005,54.4
+Equatorial Guinea,GNQ,Africa,2006,54.6
+Equatorial Guinea,GNQ,Africa,2007,54.8
+Equatorial Guinea,GNQ,Africa,2008,55.1
+Equatorial Guinea,GNQ,Africa,2009,55.3
+Equatorial Guinea,GNQ,Africa,2010,55.6
+Equatorial Guinea,GNQ,Africa,2011,55.9
+Equatorial Guinea,GNQ,Africa,2012,56.3
+Equatorial Guinea,GNQ,Africa,2013,56.6
+Equatorial Guinea,GNQ,Africa,2014,57
+Equatorial Guinea,GNQ,Africa,2015,57.4
+Equatorial Guinea,GNQ,Africa,2016,57.7
+Equatorial Guinea,GNQ,Africa,2017,58.1
+Equatorial Guinea,GNQ,Africa,2018,58.4
+Equatorial Guinea,GNQ,Africa,2019,58.7
+Eritrea,ERI,Africa,1990,Not Available
+Eritrea,ERI,Africa,1991,Not Available
+Eritrea,ERI,Africa,1992,Not Available
+Eritrea,ERI,Africa,1993,Not Available
+Eritrea,ERI,Africa,1994,Not Available
+Eritrea,ERI,Africa,1995,Not Available
+Eritrea,ERI,Africa,1996,Not Available
+Eritrea,ERI,Africa,1997,Not Available
+Eritrea,ERI,Africa,1998,Not Available
+Eritrea,ERI,Africa,1999,Not Available
+Eritrea,ERI,Africa,2000,Not Available
+Eritrea,ERI,Africa,2001,Not Available
+Eritrea,ERI,Africa,2002,Not Available
+Eritrea,ERI,Africa,2003,Not Available
+Eritrea,ERI,Africa,2004,Not Available
+Eritrea,ERI,Africa,2005,58.7
+Eritrea,ERI,Africa,2006,59.5
+Eritrea,ERI,Africa,2007,60.2
+Eritrea,ERI,Africa,2008,61
+Eritrea,ERI,Africa,2009,61.6
+Eritrea,ERI,Africa,2010,62.2
+Eritrea,ERI,Africa,2011,62.7
+Eritrea,ERI,Africa,2012,63.2
+Eritrea,ERI,Africa,2013,63.7
+Eritrea,ERI,Africa,2014,64.2
+Eritrea,ERI,Africa,2015,64.7
+Eritrea,ERI,Africa,2016,65.1
+Eritrea,ERI,Africa,2017,65.5
+Eritrea,ERI,Africa,2018,65.9
+Eritrea,ERI,Africa,2019,66.3
+Estonia,EST,Europe,1990,69.4
+Estonia,EST,Europe,1991,69.1
+Estonia,EST,Europe,1992,68.8
+Estonia,EST,Europe,1993,68.6
+Estonia,EST,Europe,1994,68.6
+Estonia,EST,Europe,1995,68.7
+Estonia,EST,Europe,1996,68.9
+Estonia,EST,Europe,1997,69.2
+Estonia,EST,Europe,1998,69.6
+Estonia,EST,Europe,1999,70
+Estonia,EST,Europe,2000,70.4
+Estonia,EST,Europe,2001,70.8
+Estonia,EST,Europe,2002,71.3
+Estonia,EST,Europe,2003,71.7
+Estonia,EST,Europe,2004,72.2
+Estonia,EST,Europe,2005,72.6
+Estonia,EST,Europe,2006,73.1
+Estonia,EST,Europe,2007,73.6
+Estonia,EST,Europe,2008,74.1
+Estonia,EST,Europe,2009,74.7
+Estonia,EST,Europe,2010,75.3
+Estonia,EST,Europe,2011,75.9
+Estonia,EST,Europe,2012,76.4
+Estonia,EST,Europe,2013,77
+Estonia,EST,Europe,2014,77.4
+Estonia,EST,Europe,2015,77.8
+Estonia,EST,Europe,2016,78.1
+Estonia,EST,Europe,2017,78.4
+Estonia,EST,Europe,2018,78.6
+Estonia,EST,Europe,2019,78.8
+Eswatini,SWZ,Africa,1990,62
+Eswatini,SWZ,Africa,1991,61.7
+Eswatini,SWZ,Africa,1992,61.1
+Eswatini,SWZ,Africa,1993,60.2
+Eswatini,SWZ,Africa,1994,59
+Eswatini,SWZ,Africa,1995,57.4
+Eswatini,SWZ,Africa,1996,55.6
+Eswatini,SWZ,Africa,1997,53.6
+Eswatini,SWZ,Africa,1998,51.5
+Eswatini,SWZ,Africa,1999,49.4
+Eswatini,SWZ,Africa,2000,47.5
+Eswatini,SWZ,Africa,2001,45.8
+Eswatini,SWZ,Africa,2002,44.4
+Eswatini,SWZ,Africa,2003,43.4
+Eswatini,SWZ,Africa,2004,42.7
+Eswatini,SWZ,Africa,2005,42.5
+Eswatini,SWZ,Africa,2006,42.7
+Eswatini,SWZ,Africa,2007,43.3
+Eswatini,SWZ,Africa,2008,44.2
+Eswatini,SWZ,Africa,2009,45.3
+Eswatini,SWZ,Africa,2010,46.6
+Eswatini,SWZ,Africa,2011,48.1
+Eswatini,SWZ,Africa,2012,49.9
+Eswatini,SWZ,Africa,2013,51.7
+Eswatini,SWZ,Africa,2014,53.6
+Eswatini,SWZ,Africa,2015,55.4
+Eswatini,SWZ,Africa,2016,57
+Eswatini,SWZ,Africa,2017,58.3
+Eswatini,SWZ,Africa,2018,59.4
+Eswatini,SWZ,Africa,2019,60.2
+Ethiopia,ETH,Africa,1990,Not Available
+Ethiopia,ETH,Africa,1991,Not Available
+Ethiopia,ETH,Africa,1992,Not Available
+Ethiopia,ETH,Africa,1993,Not Available
+Ethiopia,ETH,Africa,1994,Not Available
+Ethiopia,ETH,Africa,1995,Not Available
+Ethiopia,ETH,Africa,1996,Not Available
+Ethiopia,ETH,Africa,1997,Not Available
+Ethiopia,ETH,Africa,1998,Not Available
+Ethiopia,ETH,Africa,1999,Not Available
+Ethiopia,ETH,Africa,2000,51.9
+Ethiopia,ETH,Africa,2001,52.6
+Ethiopia,ETH,Africa,2002,53.3
+Ethiopia,ETH,Africa,2003,54.2
+Ethiopia,ETH,Africa,2004,55.2
+Ethiopia,ETH,Africa,2005,56.2
+Ethiopia,ETH,Africa,2006,57.3
+Ethiopia,ETH,Africa,2007,58.5
+Ethiopia,ETH,Africa,2008,59.6
+Ethiopia,ETH,Africa,2009,60.6
+Ethiopia,ETH,Africa,2010,61.6
+Ethiopia,ETH,Africa,2011,62.5
+Ethiopia,ETH,Africa,2012,63.3
+Ethiopia,ETH,Africa,2013,64
+Ethiopia,ETH,Africa,2014,64.5
+Ethiopia,ETH,Africa,2015,65
+Ethiopia,ETH,Africa,2016,65.5
+Ethiopia,ETH,Africa,2017,65.9
+Ethiopia,ETH,Africa,2018,66.2
+Ethiopia,ETH,Africa,2019,66.6
+Fiji,FJI,Oceania,1990,65.4
+Fiji,FJI,Oceania,1991,65.3
+Fiji,FJI,Oceania,1992,65.3
+Fiji,FJI,Oceania,1993,65.2
+Fiji,FJI,Oceania,1994,65.2
+Fiji,FJI,Oceania,1995,65.2
+Fiji,FJI,Oceania,1996,65.2
+Fiji,FJI,Oceania,1997,65.2
+Fiji,FJI,Oceania,1998,65.4
+Fiji,FJI,Oceania,1999,65.5
+Fiji,FJI,Oceania,2000,65.7
+Fiji,FJI,Oceania,2001,65.9
+Fiji,FJI,Oceania,2002,66
+Fiji,FJI,Oceania,2003,66.2
+Fiji,FJI,Oceania,2004,66.2
+Fiji,FJI,Oceania,2005,66.3
+Fiji,FJI,Oceania,2006,66.4
+Fiji,FJI,Oceania,2007,66.4
+Fiji,FJI,Oceania,2008,66.5
+Fiji,FJI,Oceania,2009,66.6
+Fiji,FJI,Oceania,2010,66.7
+Fiji,FJI,Oceania,2011,66.8
+Fiji,FJI,Oceania,2012,66.9
+Fiji,FJI,Oceania,2013,67
+Fiji,FJI,Oceania,2014,67
+Fiji,FJI,Oceania,2015,67.1
+Fiji,FJI,Oceania,2016,67.2
+Fiji,FJI,Oceania,2017,67.3
+Fiji,FJI,Oceania,2018,67.3
+Fiji,FJI,Oceania,2019,67.4
+Finland,FIN,Europe,1990,75.3
+Finland,FIN,Europe,1991,75.5
+Finland,FIN,Europe,1992,75.7
+Finland,FIN,Europe,1993,76
+Finland,FIN,Europe,1994,76.2
+Finland,FIN,Europe,1995,76.5
+Finland,FIN,Europe,1996,76.7
+Finland,FIN,Europe,1997,77
+Finland,FIN,Europe,1998,77.3
+Finland,FIN,Europe,1999,77.5
+Finland,FIN,Europe,2000,77.8
+Finland,FIN,Europe,2001,78
+Finland,FIN,Europe,2002,78.3
+Finland,FIN,Europe,2003,78.5
+Finland,FIN,Europe,2004,78.7
+Finland,FIN,Europe,2005,79
+Finland,FIN,Europe,2006,79.2
+Finland,FIN,Europe,2007,79.4
+Finland,FIN,Europe,2008,79.7
+Finland,FIN,Europe,2009,79.9
+Finland,FIN,Europe,2010,80.1
+Finland,FIN,Europe,2011,80.4
+Finland,FIN,Europe,2012,80.6
+Finland,FIN,Europe,2013,80.8
+Finland,FIN,Europe,2014,81
+Finland,FIN,Europe,2015,81.2
+Finland,FIN,Europe,2016,81.4
+Finland,FIN,Europe,2017,81.6
+Finland,FIN,Europe,2018,81.7
+Finland,FIN,Europe,2019,81.9
+France,FRA,Europe,1990,76.8
+France,FRA,Europe,1991,77
+France,FRA,Europe,1992,77.2
+France,FRA,Europe,1993,77.5
+France,FRA,Europe,1994,77.7
+France,FRA,Europe,1995,77.9
+France,FRA,Europe,1996,78.1
+France,FRA,Europe,1997,78.3
+France,FRA,Europe,1998,78.6
+France,FRA,Europe,1999,78.8
+France,FRA,Europe,2000,79
+France,FRA,Europe,2001,79.2
+France,FRA,Europe,2002,79.5
+France,FRA,Europe,2003,79.8
+France,FRA,Europe,2004,80
+France,FRA,Europe,2005,80.3
+France,FRA,Europe,2006,80.6
+France,FRA,Europe,2007,80.8
+France,FRA,Europe,2008,81.1
+France,FRA,Europe,2009,81.3
+France,FRA,Europe,2010,81.5
+France,FRA,Europe,2011,81.7
+France,FRA,Europe,2012,81.9
+France,FRA,Europe,2013,82
+France,FRA,Europe,2014,82.1
+France,FRA,Europe,2015,82.2
+France,FRA,Europe,2016,82.3
+France,FRA,Europe,2017,82.4
+France,FRA,Europe,2018,82.5
+France,FRA,Europe,2019,82.7
+Gabon,GAB,Africa,1990,61
+Gabon,GAB,Africa,1991,60.9
+Gabon,GAB,Africa,1992,60.8
+Gabon,GAB,Africa,1993,60.7
+Gabon,GAB,Africa,1994,60.4
+Gabon,GAB,Africa,1995,60.2
+Gabon,GAB,Africa,1996,59.9
+Gabon,GAB,Africa,1997,59.5
+Gabon,GAB,Africa,1998,59.1
+Gabon,GAB,Africa,1999,58.6
+Gabon,GAB,Africa,2000,58.3
+Gabon,GAB,Africa,2001,58
+Gabon,GAB,Africa,2002,57.8
+Gabon,GAB,Africa,2003,57.8
+Gabon,GAB,Africa,2004,57.9
+Gabon,GAB,Africa,2005,58.2
+Gabon,GAB,Africa,2006,58.6
+Gabon,GAB,Africa,2007,59.2
+Gabon,GAB,Africa,2008,59.9
+Gabon,GAB,Africa,2009,60.6
+Gabon,GAB,Africa,2010,61.4
+Gabon,GAB,Africa,2011,62.2
+Gabon,GAB,Africa,2012,62.9
+Gabon,GAB,Africa,2013,63.6
+Gabon,GAB,Africa,2014,64.3
+Gabon,GAB,Africa,2015,64.9
+Gabon,GAB,Africa,2016,65.4
+Gabon,GAB,Africa,2017,65.8
+Gabon,GAB,Africa,2018,66.2
+Gabon,GAB,Africa,2019,66.5
+Gambia,GMB,Africa,1990,52.2
+Gambia,GMB,Africa,1991,52.5
+Gambia,GMB,Africa,1992,52.8
+Gambia,GMB,Africa,1993,53.2
+Gambia,GMB,Africa,1994,53.5
+Gambia,GMB,Africa,1995,53.9
+Gambia,GMB,Africa,1996,54.3
+Gambia,GMB,Africa,1997,54.7
+Gambia,GMB,Africa,1998,55.1
+Gambia,GMB,Africa,1999,55.5
+Gambia,GMB,Africa,2000,56
+Gambia,GMB,Africa,2001,56.4
+Gambia,GMB,Africa,2002,56.8
+Gambia,GMB,Africa,2003,57.2
+Gambia,GMB,Africa,2004,57.6
+Gambia,GMB,Africa,2005,57.9
+Gambia,GMB,Africa,2006,58.3
+Gambia,GMB,Africa,2007,58.7
+Gambia,GMB,Africa,2008,59
+Gambia,GMB,Africa,2009,59.3
+Gambia,GMB,Africa,2010,59.6
+Gambia,GMB,Africa,2011,59.9
+Gambia,GMB,Africa,2012,60.2
+Gambia,GMB,Africa,2013,60.4
+Gambia,GMB,Africa,2014,60.7
+Gambia,GMB,Africa,2015,60.9
+Gambia,GMB,Africa,2016,61.2
+Gambia,GMB,Africa,2017,61.4
+Gambia,GMB,Africa,2018,61.7
+Gambia,GMB,Africa,2019,62
+Georgia,GEO,Asia,1990,Not Available
+Georgia,GEO,Asia,1991,Not Available
+Georgia,GEO,Asia,1992,Not Available
+Georgia,GEO,Asia,1993,Not Available
+Georgia,GEO,Asia,1994,Not Available
+Georgia,GEO,Asia,1995,Not Available
+Georgia,GEO,Asia,1996,Not Available
+Georgia,GEO,Asia,1997,Not Available
+Georgia,GEO,Asia,1998,Not Available
+Georgia,GEO,Asia,1999,Not Available
+Georgia,GEO,Asia,2000,69.9
+Georgia,GEO,Asia,2001,70.1
+Georgia,GEO,Asia,2002,70.2
+Georgia,GEO,Asia,2003,70.3
+Georgia,GEO,Asia,2004,70.5
+Georgia,GEO,Asia,2005,70.5
+Georgia,GEO,Asia,2006,70.6
+Georgia,GEO,Asia,2007,70.8
+Georgia,GEO,Asia,2008,70.9
+Georgia,GEO,Asia,2009,71.2
+Georgia,GEO,Asia,2010,71.5
+Georgia,GEO,Asia,2011,71.8
+Georgia,GEO,Asia,2012,72.1
+Georgia,GEO,Asia,2013,72.4
+Georgia,GEO,Asia,2014,72.7
+Georgia,GEO,Asia,2015,73
+Georgia,GEO,Asia,2016,73.2
+Georgia,GEO,Asia,2017,73.4
+Georgia,GEO,Asia,2018,73.6
+Georgia,GEO,Asia,2019,73.8
+Germany,DEU,Europe,1990,75.5
+Germany,DEU,Europe,1991,75.7
+Germany,DEU,Europe,1992,75.9
+Germany,DEU,Europe,1993,76.1
+Germany,DEU,Europe,1994,76.4
+Germany,DEU,Europe,1995,76.6
+Germany,DEU,Europe,1996,76.9
+Germany,DEU,Europe,1997,77.2
+Germany,DEU,Europe,1998,77.4
+Germany,DEU,Europe,1999,77.7
+Germany,DEU,Europe,2000,78
+Germany,DEU,Europe,2001,78.2
+Germany,DEU,Europe,2002,78.5
+Germany,DEU,Europe,2003,78.8
+Germany,DEU,Europe,2004,79
+Germany,DEU,Europe,2005,79.2
+Germany,DEU,Europe,2006,79.4
+Germany,DEU,Europe,2007,79.6
+Germany,DEU,Europe,2008,79.8
+Germany,DEU,Europe,2009,80
+Germany,DEU,Europe,2010,80.1
+Germany,DEU,Europe,2011,80.3
+Germany,DEU,Europe,2012,80.4
+Germany,DEU,Europe,2013,80.5
+Germany,DEU,Europe,2014,80.6
+Germany,DEU,Europe,2015,80.8
+Germany,DEU,Europe,2016,80.9
+Germany,DEU,Europe,2017,81
+Germany,DEU,Europe,2018,81.2
+Germany,DEU,Europe,2019,81.3
+Ghana,GHA,Africa,1990,56.8
+Ghana,GHA,Africa,1991,57.2
+Ghana,GHA,Africa,1992,57.5
+Ghana,GHA,Africa,1993,57.6
+Ghana,GHA,Africa,1994,57.6
+Ghana,GHA,Africa,1995,57.5
+Ghana,GHA,Africa,1996,57.4
+Ghana,GHA,Africa,1997,57.2
+Ghana,GHA,Africa,1998,57
+Ghana,GHA,Africa,1999,57
+Ghana,GHA,Africa,2000,57
+Ghana,GHA,Africa,2001,57.2
+Ghana,GHA,Africa,2002,57.4
+Ghana,GHA,Africa,2003,57.8
+Ghana,GHA,Africa,2004,58.2
+Ghana,GHA,Africa,2005,58.7
+Ghana,GHA,Africa,2006,59.2
+Ghana,GHA,Africa,2007,59.7
+Ghana,GHA,Africa,2008,60.2
+Ghana,GHA,Africa,2009,60.6
+Ghana,GHA,Africa,2010,61
+Ghana,GHA,Africa,2011,61.4
+Ghana,GHA,Africa,2012,61.7
+Ghana,GHA,Africa,2013,62.1
+Ghana,GHA,Africa,2014,62.4
+Ghana,GHA,Africa,2015,62.8
+Ghana,GHA,Africa,2016,63.1
+Ghana,GHA,Africa,2017,63.5
+Ghana,GHA,Africa,2018,63.8
+Ghana,GHA,Africa,2019,64.1
+Greece,GRC,Europe,1990,76.6
+Greece,GRC,Europe,1991,76.9
+Greece,GRC,Europe,1992,77.2
+Greece,GRC,Europe,1993,77.4
+Greece,GRC,Europe,1994,77.6
+Greece,GRC,Europe,1995,77.8
+Greece,GRC,Europe,1996,77.9
+Greece,GRC,Europe,1997,78.1
+Greece,GRC,Europe,1998,78.2
+Greece,GRC,Europe,1999,78.4
+Greece,GRC,Europe,2000,78.6
+Greece,GRC,Europe,2001,78.8
+Greece,GRC,Europe,2002,79
+Greece,GRC,Europe,2003,79.2
+Greece,GRC,Europe,2004,79.4
+Greece,GRC,Europe,2005,79.6
+Greece,GRC,Europe,2006,79.7
+Greece,GRC,Europe,2007,79.9
+Greece,GRC,Europe,2008,80.1
+Greece,GRC,Europe,2009,80.3
+Greece,GRC,Europe,2010,80.5
+Greece,GRC,Europe,2011,80.8
+Greece,GRC,Europe,2012,81
+Greece,GRC,Europe,2013,81.2
+Greece,GRC,Europe,2014,81.4
+Greece,GRC,Europe,2015,81.5
+Greece,GRC,Europe,2016,81.7
+Greece,GRC,Europe,2017,81.9
+Greece,GRC,Europe,2018,82.1
+Greece,GRC,Europe,2019,82.2
+Grenada,GRD,Americas,1990,Not Available
+Grenada,GRD,Americas,1991,Not Available
+Grenada,GRD,Americas,1992,Not Available
+Grenada,GRD,Americas,1993,Not Available
+Grenada,GRD,Americas,1994,Not Available
+Grenada,GRD,Americas,1995,Not Available
+Grenada,GRD,Americas,1996,Not Available
+Grenada,GRD,Americas,1997,Not Available
+Grenada,GRD,Americas,1998,Not Available
+Grenada,GRD,Americas,1999,Not Available
+Grenada,GRD,Americas,2000,Not Available
+Grenada,GRD,Americas,2001,Not Available
+Grenada,GRD,Americas,2002,72.9
+Grenada,GRD,Americas,2003,73
+Grenada,GRD,Americas,2004,73.1
+Grenada,GRD,Americas,2005,73.1
+Grenada,GRD,Americas,2006,73.1
+Grenada,GRD,Americas,2007,73.1
+Grenada,GRD,Americas,2008,73
+Grenada,GRD,Americas,2009,73
+Grenada,GRD,Americas,2010,72.9
+Grenada,GRD,Americas,2011,72.8
+Grenada,GRD,Americas,2012,72.7
+Grenada,GRD,Americas,2013,72.6
+Grenada,GRD,Americas,2014,72.5
+Grenada,GRD,Americas,2015,72.4
+Grenada,GRD,Americas,2016,72.4
+Grenada,GRD,Americas,2017,72.4
+Grenada,GRD,Americas,2018,72.4
+Grenada,GRD,Americas,2019,72.4
+Guatemala,GTM,Americas,1990,62.3
+Guatemala,GTM,Americas,1991,62.8
+Guatemala,GTM,Americas,1992,63.4
+Guatemala,GTM,Americas,1993,63.9
+Guatemala,GTM,Americas,1994,64.5
+Guatemala,GTM,Americas,1995,65.1
+Guatemala,GTM,Americas,1996,65.7
+Guatemala,GTM,Americas,1997,66.3
+Guatemala,GTM,Americas,1998,66.8
+Guatemala,GTM,Americas,1999,67.4
+Guatemala,GTM,Americas,2000,67.8
+Guatemala,GTM,Americas,2001,68.3
+Guatemala,GTM,Americas,2002,68.7
+Guatemala,GTM,Americas,2003,69.1
+Guatemala,GTM,Americas,2004,69.4
+Guatemala,GTM,Americas,2005,69.8
+Guatemala,GTM,Americas,2006,70.1
+Guatemala,GTM,Americas,2007,70.4
+Guatemala,GTM,Americas,2008,70.8
+Guatemala,GTM,Americas,2009,71.1
+Guatemala,GTM,Americas,2010,71.5
+Guatemala,GTM,Americas,2011,71.9
+Guatemala,GTM,Americas,2012,72.2
+Guatemala,GTM,Americas,2013,72.6
+Guatemala,GTM,Americas,2014,72.9
+Guatemala,GTM,Americas,2015,73.3
+Guatemala,GTM,Americas,2016,73.5
+Guatemala,GTM,Americas,2017,73.8
+Guatemala,GTM,Americas,2018,74.1
+Guatemala,GTM,Americas,2019,74.3
+Guinea,GIN,Africa,1990,50
+Guinea,GIN,Africa,1991,50.6
+Guinea,GIN,Africa,1992,51.1
+Guinea,GIN,Africa,1993,51.4
+Guinea,GIN,Africa,1994,51.6
+Guinea,GIN,Africa,1995,51.7
+Guinea,GIN,Africa,1996,51.7
+Guinea,GIN,Africa,1997,51.6
+Guinea,GIN,Africa,1998,51.5
+Guinea,GIN,Africa,1999,51.3
+Guinea,GIN,Africa,2000,51.2
+Guinea,GIN,Africa,2001,51.3
+Guinea,GIN,Africa,2002,51.5
+Guinea,GIN,Africa,2003,51.9
+Guinea,GIN,Africa,2004,52.5
+Guinea,GIN,Africa,2005,53.2
+Guinea,GIN,Africa,2006,54.1
+Guinea,GIN,Africa,2007,54.9
+Guinea,GIN,Africa,2008,55.6
+Guinea,GIN,Africa,2009,56.3
+Guinea,GIN,Africa,2010,56.9
+Guinea,GIN,Africa,2011,57.4
+Guinea,GIN,Africa,2012,57.9
+Guinea,GIN,Africa,2013,58.4
+Guinea,GIN,Africa,2014,59
+Guinea,GIN,Africa,2015,59.6
+Guinea,GIN,Africa,2016,60.2
+Guinea,GIN,Africa,2017,60.7
+Guinea,GIN,Africa,2018,61.2
+Guinea,GIN,Africa,2019,61.6
+Guinea Bissau,GNB,Africa,1990,Not Available
+Guinea Bissau,GNB,Africa,1991,Not Available
+Guinea Bissau,GNB,Africa,1992,Not Available
+Guinea Bissau,GNB,Africa,1993,Not Available
+Guinea Bissau,GNB,Africa,1994,Not Available
+Guinea Bissau,GNB,Africa,1995,Not Available
+Guinea Bissau,GNB,Africa,1996,Not Available
+Guinea Bissau,GNB,Africa,1997,Not Available
+Guinea Bissau,GNB,Africa,1998,Not Available
+Guinea Bissau,GNB,Africa,1999,Not Available
+Guinea Bissau,GNB,Africa,2000,Not Available
+Guinea Bissau,GNB,Africa,2001,Not Available
+Guinea Bissau,GNB,Africa,2002,Not Available
+Guinea Bissau,GNB,Africa,2003,Not Available
+Guinea Bissau,GNB,Africa,2004,Not Available
+Guinea Bissau,GNB,Africa,2005,52.3
+Guinea Bissau,GNB,Africa,2006,52.7
+Guinea Bissau,GNB,Africa,2007,53.1
+Guinea Bissau,GNB,Africa,2008,53.6
+Guinea Bissau,GNB,Africa,2009,54.1
+Guinea Bissau,GNB,Africa,2010,54.6
+Guinea Bissau,GNB,Africa,2011,55.1
+Guinea Bissau,GNB,Africa,2012,55.6
+Guinea Bissau,GNB,Africa,2013,56.1
+Guinea Bissau,GNB,Africa,2014,56.6
+Guinea Bissau,GNB,Africa,2015,57
+Guinea Bissau,GNB,Africa,2016,57.3
+Guinea Bissau,GNB,Africa,2017,57.7
+Guinea Bissau,GNB,Africa,2018,58
+Guinea Bissau,GNB,Africa,2019,58.3
+Guyana,GUY,Americas,1990,63.3
+Guyana,GUY,Americas,1991,63.4
+Guyana,GUY,Americas,1992,63.6
+Guyana,GUY,Americas,1993,63.7
+Guyana,GUY,Americas,1994,63.9
+Guyana,GUY,Americas,1995,64.1
+Guyana,GUY,Americas,1996,64.3
+Guyana,GUY,Americas,1997,64.5
+Guyana,GUY,Americas,1998,64.7
+Guyana,GUY,Americas,1999,65
+Guyana,GUY,Americas,2000,65.2
+Guyana,GUY,Americas,2001,65.5
+Guyana,GUY,Americas,2002,65.8
+Guyana,GUY,Americas,2003,66.1
+Guyana,GUY,Americas,2004,66.4
+Guyana,GUY,Americas,2005,66.7
+Guyana,GUY,Americas,2006,67
+Guyana,GUY,Americas,2007,67.2
+Guyana,GUY,Americas,2008,67.5
+Guyana,GUY,Americas,2009,67.8
+Guyana,GUY,Americas,2010,68.1
+Guyana,GUY,Americas,2011,68.3
+Guyana,GUY,Americas,2012,68.6
+Guyana,GUY,Americas,2013,68.8
+Guyana,GUY,Americas,2014,69
+Guyana,GUY,Americas,2015,69.3
+Guyana,GUY,Americas,2016,69.5
+Guyana,GUY,Americas,2017,69.6
+Guyana,GUY,Americas,2018,69.8
+Guyana,GUY,Americas,2019,69.9
+Haiti,HTI,Americas,1990,54.3
+Haiti,HTI,Americas,1991,54.6
+Haiti,HTI,Americas,1992,54.9
+Haiti,HTI,Americas,1993,55.2
+Haiti,HTI,Americas,1994,55.5
+Haiti,HTI,Americas,1995,55.8
+Haiti,HTI,Americas,1996,56.1
+Haiti,HTI,Americas,1997,56.4
+Haiti,HTI,Americas,1998,56.6
+Haiti,HTI,Americas,1999,56.9
+Haiti,HTI,Americas,2000,57.1
+Haiti,HTI,Americas,2001,57.4
+Haiti,HTI,Americas,2002,57.7
+Haiti,HTI,Americas,2003,58
+Haiti,HTI,Americas,2004,58.3
+Haiti,HTI,Americas,2005,58.7
+Haiti,HTI,Americas,2006,59
+Haiti,HTI,Americas,2007,59.4
+Haiti,HTI,Americas,2008,59.8
+Haiti,HTI,Americas,2009,60.1
+Haiti,HTI,Americas,2010,60.5
+Haiti,HTI,Americas,2011,60.9
+Haiti,HTI,Americas,2012,61.3
+Haiti,HTI,Americas,2013,61.7
+Haiti,HTI,Americas,2014,62.1
+Haiti,HTI,Americas,2015,62.5
+Haiti,HTI,Americas,2016,62.9
+Haiti,HTI,Americas,2017,63.3
+Haiti,HTI,Americas,2018,63.7
+Haiti,HTI,Americas,2019,64
+Honduras,HND,Americas,1990,66.7
+Honduras,HND,Americas,1991,67.2
+Honduras,HND,Americas,1992,67.6
+Honduras,HND,Americas,1993,68
+Honduras,HND,Americas,1994,68.5
+Honduras,HND,Americas,1995,68.9
+Honduras,HND,Americas,1996,69.3
+Honduras,HND,Americas,1997,69.7
+Honduras,HND,Americas,1998,70
+Honduras,HND,Americas,1999,70.4
+Honduras,HND,Americas,2000,70.7
+Honduras,HND,Americas,2001,71
+Honduras,HND,Americas,2002,71.2
+Honduras,HND,Americas,2003,71.5
+Honduras,HND,Americas,2004,71.8
+Honduras,HND,Americas,2005,72
+Honduras,HND,Americas,2006,72.3
+Honduras,HND,Americas,2007,72.5
+Honduras,HND,Americas,2008,72.8
+Honduras,HND,Americas,2009,73.1
+Honduras,HND,Americas,2010,73.3
+Honduras,HND,Americas,2011,73.6
+Honduras,HND,Americas,2012,73.8
+Honduras,HND,Americas,2013,74.1
+Honduras,HND,Americas,2014,74.3
+Honduras,HND,Americas,2015,74.5
+Honduras,HND,Americas,2016,74.7
+Honduras,HND,Americas,2017,74.9
+Honduras,HND,Americas,2018,75.1
+Honduras,HND,Americas,2019,75.3
+Hungary,HUN,Europe,1990,69.3
+Hungary,HUN,Europe,1991,69.4
+Hungary,HUN,Europe,1992,69.4
+Hungary,HUN,Europe,1993,69.6
+Hungary,HUN,Europe,1994,69.8
+Hungary,HUN,Europe,1995,70
+Hungary,HUN,Europe,1996,70.3
+Hungary,HUN,Europe,1997,70.7
+Hungary,HUN,Europe,1998,71
+Hungary,HUN,Europe,1999,71.4
+Hungary,HUN,Europe,2000,71.7
+Hungary,HUN,Europe,2001,72
+Hungary,HUN,Europe,2002,72.3
+Hungary,HUN,Europe,2003,72.6
+Hungary,HUN,Europe,2004,72.9
+Hungary,HUN,Europe,2005,73.1
+Hungary,HUN,Europe,2006,73.4
+Hungary,HUN,Europe,2007,73.7
+Hungary,HUN,Europe,2008,73.9
+Hungary,HUN,Europe,2009,74.2
+Hungary,HUN,Europe,2010,74.5
+Hungary,HUN,Europe,2011,74.8
+Hungary,HUN,Europe,2012,75.1
+Hungary,HUN,Europe,2013,75.4
+Hungary,HUN,Europe,2014,75.7
+Hungary,HUN,Europe,2015,76
+Hungary,HUN,Europe,2016,76.3
+Hungary,HUN,Europe,2017,76.5
+Hungary,HUN,Europe,2018,76.7
+Hungary,HUN,Europe,2019,76.9
+Iceland,ISL,Europe,1990,78.1
+Iceland,ISL,Europe,1991,78.2
+Iceland,ISL,Europe,1992,78.4
+Iceland,ISL,Europe,1993,78.5
+Iceland,ISL,Europe,1994,78.6
+Iceland,ISL,Europe,1995,78.8
+Iceland,ISL,Europe,1996,78.9
+Iceland,ISL,Europe,1997,79.1
+Iceland,ISL,Europe,1998,79.3
+Iceland,ISL,Europe,1999,79.6
+Iceland,ISL,Europe,2000,79.9
+Iceland,ISL,Europe,2001,80.2
+Iceland,ISL,Europe,2002,80.5
+Iceland,ISL,Europe,2003,80.7
+Iceland,ISL,Europe,2004,80.9
+Iceland,ISL,Europe,2005,81.1
+Iceland,ISL,Europe,2006,81.2
+Iceland,ISL,Europe,2007,81.4
+Iceland,ISL,Europe,2008,81.5
+Iceland,ISL,Europe,2009,81.7
+Iceland,ISL,Europe,2010,81.8
+Iceland,ISL,Europe,2011,82
+Iceland,ISL,Europe,2012,82.1
+Iceland,ISL,Europe,2013,82.2
+Iceland,ISL,Europe,2014,82.4
+Iceland,ISL,Europe,2015,82.5
+Iceland,ISL,Europe,2016,82.6
+Iceland,ISL,Europe,2017,82.7
+Iceland,ISL,Europe,2018,82.9
+Iceland,ISL,Europe,2019,83
+India,IND,Asia,1990,57.9
+India,IND,Asia,1991,58.4
+India,IND,Asia,1992,58.9
+India,IND,Asia,1993,59.3
+India,IND,Asia,1994,59.8
+India,IND,Asia,1995,60.3
+India,IND,Asia,1996,60.8
+India,IND,Asia,1997,61.2
+India,IND,Asia,1998,61.7
+India,IND,Asia,1999,62.1
+India,IND,Asia,2000,62.5
+India,IND,Asia,2001,62.9
+India,IND,Asia,2002,63.3
+India,IND,Asia,2003,63.7
+India,IND,Asia,2004,64.1
+India,IND,Asia,2005,64.5
+India,IND,Asia,2006,64.9
+India,IND,Asia,2007,65.3
+India,IND,Asia,2008,65.8
+India,IND,Asia,2009,66.2
+India,IND,Asia,2010,66.7
+India,IND,Asia,2011,67.1
+India,IND,Asia,2012,67.5
+India,IND,Asia,2013,67.9
+India,IND,Asia,2014,68.3
+India,IND,Asia,2015,68.6
+India,IND,Asia,2016,68.9
+India,IND,Asia,2017,69.2
+India,IND,Asia,2018,69.4
+India,IND,Asia,2019,69.7
+Indonesia,IDN,Asia,1990,62.3
+Indonesia,IDN,Asia,1991,62.7
+Indonesia,IDN,Asia,1992,63.1
+Indonesia,IDN,Asia,1993,63.5
+Indonesia,IDN,Asia,1994,63.9
+Indonesia,IDN,Asia,1995,64.3
+Indonesia,IDN,Asia,1996,64.6
+Indonesia,IDN,Asia,1997,65
+Indonesia,IDN,Asia,1998,65.2
+Indonesia,IDN,Asia,1999,65.5
+Indonesia,IDN,Asia,2000,65.8
+Indonesia,IDN,Asia,2001,66
+Indonesia,IDN,Asia,2002,66.3
+Indonesia,IDN,Asia,2003,66.6
+Indonesia,IDN,Asia,2004,67
+Indonesia,IDN,Asia,2005,67.3
+Indonesia,IDN,Asia,2006,67.7
+Indonesia,IDN,Asia,2007,68.1
+Indonesia,IDN,Asia,2008,68.5
+Indonesia,IDN,Asia,2009,68.9
+Indonesia,IDN,Asia,2010,69.2
+Indonesia,IDN,Asia,2011,69.5
+Indonesia,IDN,Asia,2012,69.9
+Indonesia,IDN,Asia,2013,70.2
+Indonesia,IDN,Asia,2014,70.5
+Indonesia,IDN,Asia,2015,70.8
+Indonesia,IDN,Asia,2016,71
+Indonesia,IDN,Asia,2017,71.3
+Indonesia,IDN,Asia,2018,71.5
+Indonesia,IDN,Asia,2019,71.7
+Iran,IRN,Asia,1990,63.8
+Iran,IRN,Asia,1991,65.2
+Iran,IRN,Asia,1992,66.2
+Iran,IRN,Asia,1993,67.1
+Iran,IRN,Asia,1994,67.8
+Iran,IRN,Asia,1995,68.4
+Iran,IRN,Asia,1996,68.8
+Iran,IRN,Asia,1997,69.1
+Iran,IRN,Asia,1998,69.5
+Iran,IRN,Asia,1999,69.8
+Iran,IRN,Asia,2000,70.2
+Iran,IRN,Asia,2001,70.6
+Iran,IRN,Asia,2002,70.9
+Iran,IRN,Asia,2003,71.3
+Iran,IRN,Asia,2004,71.6
+Iran,IRN,Asia,2005,71.9
+Iran,IRN,Asia,2006,72.3
+Iran,IRN,Asia,2007,72.6
+Iran,IRN,Asia,2008,73
+Iran,IRN,Asia,2009,73.5
+Iran,IRN,Asia,2010,73.9
+Iran,IRN,Asia,2011,74.4
+Iran,IRN,Asia,2012,74.8
+Iran,IRN,Asia,2013,75.2
+Iran,IRN,Asia,2014,75.5
+Iran,IRN,Asia,2015,75.8
+Iran,IRN,Asia,2016,76
+Iran,IRN,Asia,2017,76.3
+Iran,IRN,Asia,2018,76.5
+Iran,IRN,Asia,2019,76.7
+Iraq,IRQ,Asia,1990,66
+Iraq,IRQ,Asia,1991,66.7
+Iraq,IRQ,Asia,1992,67.2
+Iraq,IRQ,Asia,1993,67.7
+Iraq,IRQ,Asia,1994,68.1
+Iraq,IRQ,Asia,1995,68.4
+Iraq,IRQ,Asia,1996,68.7
+Iraq,IRQ,Asia,1997,68.9
+Iraq,IRQ,Asia,1998,69.1
+Iraq,IRQ,Asia,1999,69.1
+Iraq,IRQ,Asia,2000,69.1
+Iraq,IRQ,Asia,2001,69
+Iraq,IRQ,Asia,2002,68.8
+Iraq,IRQ,Asia,2003,68.6
+Iraq,IRQ,Asia,2004,68.4
+Iraq,IRQ,Asia,2005,68.3
+Iraq,IRQ,Asia,2006,68.2
+Iraq,IRQ,Asia,2007,68.1
+Iraq,IRQ,Asia,2008,68.2
+Iraq,IRQ,Asia,2009,68.3
+Iraq,IRQ,Asia,2010,68.6
+Iraq,IRQ,Asia,2011,68.8
+Iraq,IRQ,Asia,2012,69.1
+Iraq,IRQ,Asia,2013,69.4
+Iraq,IRQ,Asia,2014,69.7
+Iraq,IRQ,Asia,2015,69.9
+Iraq,IRQ,Asia,2016,70.1
+Iraq,IRQ,Asia,2017,70.3
+Iraq,IRQ,Asia,2018,70.5
+Iraq,IRQ,Asia,2019,70.6
+Ireland,IRL,Europe,1990,74.8
+Ireland,IRL,Europe,1991,75
+Ireland,IRL,Europe,1992,75.2
+Ireland,IRL,Europe,1993,75.4
+Ireland,IRL,Europe,1994,75.5
+Ireland,IRL,Europe,1995,75.6
+Ireland,IRL,Europe,1996,75.8
+Ireland,IRL,Europe,1997,76
+Ireland,IRL,Europe,1998,76.2
+Ireland,IRL,Europe,1999,76.5
+Ireland,IRL,Europe,2000,76.9
+Ireland,IRL,Europe,2001,77.2
+Ireland,IRL,Europe,2002,77.6
+Ireland,IRL,Europe,2003,78
+Ireland,IRL,Europe,2004,78.4
+Ireland,IRL,Europe,2005,78.8
+Ireland,IRL,Europe,2006,79.2
+Ireland,IRL,Europe,2007,79.5
+Ireland,IRL,Europe,2008,79.7
+Ireland,IRL,Europe,2009,80
+Ireland,IRL,Europe,2010,80.2
+Ireland,IRL,Europe,2011,80.4
+Ireland,IRL,Europe,2012,80.6
+Ireland,IRL,Europe,2013,80.8
+Ireland,IRL,Europe,2014,81.1
+Ireland,IRL,Europe,2015,81.3
+Ireland,IRL,Europe,2016,81.6
+Ireland,IRL,Europe,2017,81.9
+Ireland,IRL,Europe,2018,82.1
+Ireland,IRL,Europe,2019,82.3
+Israel,ISR,Asia,1990,76.6
+Israel,ISR,Asia,1991,76.8
+Israel,ISR,Asia,1992,77.1
+Israel,ISR,Asia,1993,77.3
+Israel,ISR,Asia,1994,77.5
+Israel,ISR,Asia,1995,77.8
+Israel,ISR,Asia,1996,78
+Israel,ISR,Asia,1997,78.2
+Israel,ISR,Asia,1998,78.4
+Israel,ISR,Asia,1999,78.7
+Israel,ISR,Asia,2000,78.9
+Israel,ISR,Asia,2001,79.2
+Israel,ISR,Asia,2002,79.4
+Israel,ISR,Asia,2003,79.7
+Israel,ISR,Asia,2004,80
+Israel,ISR,Asia,2005,80.3
+Israel,ISR,Asia,2006,80.5
+Israel,ISR,Asia,2007,80.8
+Israel,ISR,Asia,2008,81
+Israel,ISR,Asia,2009,81.3
+Israel,ISR,Asia,2010,81.5
+Israel,ISR,Asia,2011,81.7
+Israel,ISR,Asia,2012,81.8
+Israel,ISR,Asia,2013,82
+Israel,ISR,Asia,2014,82.2
+Israel,ISR,Asia,2015,82.3
+Israel,ISR,Asia,2016,82.5
+Israel,ISR,Asia,2017,82.7
+Israel,ISR,Asia,2018,82.8
+Israel,ISR,Asia,2019,83
+Italy,ITA,Europe,1990,76.9
+Italy,ITA,Europe,1991,77.2
+Italy,ITA,Europe,1992,77.4
+Italy,ITA,Europe,1993,77.6
+Italy,ITA,Europe,1994,77.9
+Italy,ITA,Europe,1995,78.1
+Italy,ITA,Europe,1996,78.4
+Italy,ITA,Europe,1997,78.7
+Italy,ITA,Europe,1998,79
+Italy,ITA,Europe,1999,79.3
+Italy,ITA,Europe,2000,79.6
+Italy,ITA,Europe,2001,79.9
+Italy,ITA,Europe,2002,80.1
+Italy,ITA,Europe,2003,80.4
+Italy,ITA,Europe,2004,80.7
+Italy,ITA,Europe,2005,81
+Italy,ITA,Europe,2006,81.2
+Italy,ITA,Europe,2007,81.4
+Italy,ITA,Europe,2008,81.6
+Italy,ITA,Europe,2009,81.8
+Italy,ITA,Europe,2010,82
+Italy,ITA,Europe,2011,82.1
+Italy,ITA,Europe,2012,82.3
+Italy,ITA,Europe,2013,82.5
+Italy,ITA,Europe,2014,82.6
+Italy,ITA,Europe,2015,82.8
+Italy,ITA,Europe,2016,83
+Italy,ITA,Europe,2017,83.2
+Italy,ITA,Europe,2018,83.4
+Italy,ITA,Europe,2019,83.5
+Jamaica,JAM,Americas,1990,73.2
+Jamaica,JAM,Americas,1991,73.5
+Jamaica,JAM,Americas,1992,73.7
+Jamaica,JAM,Americas,1993,73.9
+Jamaica,JAM,Americas,1994,74.1
+Jamaica,JAM,Americas,1995,74.1
+Jamaica,JAM,Americas,1996,74.2
+Jamaica,JAM,Americas,1997,74.2
+Jamaica,JAM,Americas,1998,74.2
+Jamaica,JAM,Americas,1999,74.2
+Jamaica,JAM,Americas,2000,74.1
+Jamaica,JAM,Americas,2001,74.1
+Jamaica,JAM,Americas,2002,74.1
+Jamaica,JAM,Americas,2003,74.1
+Jamaica,JAM,Americas,2004,74.1
+Jamaica,JAM,Americas,2005,74.1
+Jamaica,JAM,Americas,2006,74.1
+Jamaica,JAM,Americas,2007,74.1
+Jamaica,JAM,Americas,2008,74.1
+Jamaica,JAM,Americas,2009,74.1
+Jamaica,JAM,Americas,2010,74
+Jamaica,JAM,Americas,2011,74
+Jamaica,JAM,Americas,2012,74
+Jamaica,JAM,Americas,2013,74
+Jamaica,JAM,Americas,2014,74
+Jamaica,JAM,Americas,2015,74.1
+Jamaica,JAM,Americas,2016,74.2
+Jamaica,JAM,Americas,2017,74.3
+Jamaica,JAM,Americas,2018,74.4
+Jamaica,JAM,Americas,2019,74.5
+Japan,JPN,Asia,1990,79
+Japan,JPN,Asia,1991,79.2
+Japan,JPN,Asia,1992,79.4
+Japan,JPN,Asia,1993,79.5
+Japan,JPN,Asia,1994,79.7
+Japan,JPN,Asia,1995,79.9
+Japan,JPN,Asia,1996,80.2
+Japan,JPN,Asia,1997,80.4
+Japan,JPN,Asia,1998,80.7
+Japan,JPN,Asia,1999,80.9
+Japan,JPN,Asia,2000,81.2
+Japan,JPN,Asia,2001,81.4
+Japan,JPN,Asia,2002,81.7
+Japan,JPN,Asia,2003,81.9
+Japan,JPN,Asia,2004,82.1
+Japan,JPN,Asia,2005,82.3
+Japan,JPN,Asia,2006,82.4
+Japan,JPN,Asia,2007,82.6
+Japan,JPN,Asia,2008,82.7
+Japan,JPN,Asia,2009,82.8
+Japan,JPN,Asia,2010,83
+Japan,JPN,Asia,2011,83.1
+Japan,JPN,Asia,2012,83.3
+Japan,JPN,Asia,2013,83.5
+Japan,JPN,Asia,2014,83.7
+Japan,JPN,Asia,2015,83.9
+Japan,JPN,Asia,2016,84.1
+Japan,JPN,Asia,2017,84.3
+Japan,JPN,Asia,2018,84.5
+Japan,JPN,Asia,2019,84.6
+Jordan,JOR,Asia,1990,69.9
+Jordan,JOR,Asia,1991,70.1
+Jordan,JOR,Asia,1992,70.3
+Jordan,JOR,Asia,1993,70.5
+Jordan,JOR,Asia,1994,70.7
+Jordan,JOR,Asia,1995,70.9
+Jordan,JOR,Asia,1996,71.1
+Jordan,JOR,Asia,1997,71.2
+Jordan,JOR,Asia,1998,71.4
+Jordan,JOR,Asia,1999,71.6
+Jordan,JOR,Asia,2000,71.7
+Jordan,JOR,Asia,2001,71.9
+Jordan,JOR,Asia,2002,72.1
+Jordan,JOR,Asia,2003,72.3
+Jordan,JOR,Asia,2004,72.4
+Jordan,JOR,Asia,2005,72.6
+Jordan,JOR,Asia,2006,72.8
+Jordan,JOR,Asia,2007,72.9
+Jordan,JOR,Asia,2008,73.1
+Jordan,JOR,Asia,2009,73.3
+Jordan,JOR,Asia,2010,73.4
+Jordan,JOR,Asia,2011,73.6
+Jordan,JOR,Asia,2012,73.7
+Jordan,JOR,Asia,2013,73.9
+Jordan,JOR,Asia,2014,74
+Jordan,JOR,Asia,2015,74.1
+Jordan,JOR,Asia,2016,74.2
+Jordan,JOR,Asia,2017,74.3
+Jordan,JOR,Asia,2018,74.4
+Jordan,JOR,Asia,2019,74.5
+Kazakhstan,KAZ,Asia,1990,66.8
+Kazakhstan,KAZ,Asia,1991,66.3
+Kazakhstan,KAZ,Asia,1992,65.7
+Kazakhstan,KAZ,Asia,1993,65.1
+Kazakhstan,KAZ,Asia,1994,64.5
+Kazakhstan,KAZ,Asia,1995,63.9
+Kazakhstan,KAZ,Asia,1996,63.5
+Kazakhstan,KAZ,Asia,1997,63.3
+Kazakhstan,KAZ,Asia,1998,63.2
+Kazakhstan,KAZ,Asia,1999,63.2
+Kazakhstan,KAZ,Asia,2000,63.5
+Kazakhstan,KAZ,Asia,2001,63.8
+Kazakhstan,KAZ,Asia,2002,64.2
+Kazakhstan,KAZ,Asia,2003,64.5
+Kazakhstan,KAZ,Asia,2004,64.9
+Kazakhstan,KAZ,Asia,2005,65.2
+Kazakhstan,KAZ,Asia,2006,65.5
+Kazakhstan,KAZ,Asia,2007,65.9
+Kazakhstan,KAZ,Asia,2008,66.3
+Kazakhstan,KAZ,Asia,2009,66.8
+Kazakhstan,KAZ,Asia,2010,67.4
+Kazakhstan,KAZ,Asia,2011,68
+Kazakhstan,KAZ,Asia,2012,68.8
+Kazakhstan,KAZ,Asia,2013,69.6
+Kazakhstan,KAZ,Asia,2014,70.5
+Kazakhstan,KAZ,Asia,2015,71.3
+Kazakhstan,KAZ,Asia,2016,72.1
+Kazakhstan,KAZ,Asia,2017,72.7
+Kazakhstan,KAZ,Asia,2018,73.2
+Kazakhstan,KAZ,Asia,2019,73.6
+Kenya,KEN,Africa,1990,57.4
+Kenya,KEN,Africa,1991,56.7
+Kenya,KEN,Africa,1992,56
+Kenya,KEN,Africa,1993,55.2
+Kenya,KEN,Africa,1994,54.3
+Kenya,KEN,Africa,1995,53.5
+Kenya,KEN,Africa,1996,52.7
+Kenya,KEN,Africa,1997,52
+Kenya,KEN,Africa,1998,51.4
+Kenya,KEN,Africa,1999,51.1
+Kenya,KEN,Africa,2000,50.9
+Kenya,KEN,Africa,2001,51.1
+Kenya,KEN,Africa,2002,51.6
+Kenya,KEN,Africa,2003,52.4
+Kenya,KEN,Africa,2004,53.5
+Kenya,KEN,Africa,2005,54.7
+Kenya,KEN,Africa,2006,56.1
+Kenya,KEN,Africa,2007,57.5
+Kenya,KEN,Africa,2008,58.8
+Kenya,KEN,Africa,2009,59.9
+Kenya,KEN,Africa,2010,61
+Kenya,KEN,Africa,2011,61.9
+Kenya,KEN,Africa,2012,62.7
+Kenya,KEN,Africa,2013,63.4
+Kenya,KEN,Africa,2014,64.1
+Kenya,KEN,Africa,2015,64.8
+Kenya,KEN,Africa,2016,65.4
+Kenya,KEN,Africa,2017,65.9
+Kenya,KEN,Africa,2018,66.3
+Kenya,KEN,Africa,2019,66.7
+Kiribati,KIR,Oceania,1990,Not Available
+Kiribati,KIR,Oceania,1991,Not Available
+Kiribati,KIR,Oceania,1992,Not Available
+Kiribati,KIR,Oceania,1993,Not Available
+Kiribati,KIR,Oceania,1994,Not Available
+Kiribati,KIR,Oceania,1995,Not Available
+Kiribati,KIR,Oceania,1996,Not Available
+Kiribati,KIR,Oceania,1997,Not Available
+Kiribati,KIR,Oceania,1998,Not Available
+Kiribati,KIR,Oceania,1999,Not Available
+Kiribati,KIR,Oceania,2000,63.1
+Kiribati,KIR,Oceania,2001,63.4
+Kiribati,KIR,Oceania,2002,63.7
+Kiribati,KIR,Oceania,2003,64
+Kiribati,KIR,Oceania,2004,64.2
+Kiribati,KIR,Oceania,2005,64.5
+Kiribati,KIR,Oceania,2006,64.7
+Kiribati,KIR,Oceania,2007,65
+Kiribati,KIR,Oceania,2008,65.2
+Kiribati,KIR,Oceania,2009,65.5
+Kiribati,KIR,Oceania,2010,65.8
+Kiribati,KIR,Oceania,2011,66.1
+Kiribati,KIR,Oceania,2012,66.4
+Kiribati,KIR,Oceania,2013,66.7
+Kiribati,KIR,Oceania,2014,67
+Kiribati,KIR,Oceania,2015,67.3
+Kiribati,KIR,Oceania,2016,67.6
+Kiribati,KIR,Oceania,2017,67.9
+Kiribati,KIR,Oceania,2018,68.1
+Kiribati,KIR,Oceania,2019,68.4
+Kosovo,XKO,,1990,Not Available
+Kosovo,XKO,,1991,Not Available
+Kosovo,XKO,,1992,Not Available
+Kosovo,XKO,,1993,Not Available
+Kosovo,XKO,,1994,Not Available
+Kosovo,XKO,,1995,Not Available
+Kosovo,XKO,,1996,Not Available
+Kosovo,XKO,,1997,Not Available
+Kosovo,XKO,,1998,Not Available
+Kosovo,XKO,,1999,Not Available
+Kosovo,XKO,,2000,Not Available
+Kosovo,XKO,,2001,Not Available
+Kosovo,XKO,,2002,Not Available
+Kosovo,XKO,,2003,Not Available
+Kosovo,XKO,,2004,Not Available
+Kosovo,XKO,,2005,Not Available
+Kosovo,XKO,,2006,Not Available
+Kosovo,XKO,,2007,Not Available
+Kosovo,XKO,,2008,Not Available
+Kosovo,XKO,,2009,Not Available
+Kosovo,XKO,,2010,69.9
+Kosovo,XKO,,2011,70.15
+Kosovo,XKO,,2012,70.5
+Kosovo,XKO,,2013,70.8
+Kosovo,XKO,,2014,71.1
+Kosovo,XKO,,2015,71.35
+Kosovo,XKO,,2016,71.65
+Kosovo,XKO,,2017,71.95
+Kosovo,XKO,,2018,72.25
+Kosovo,XKO,,2019,72.25
+Kuwait,KWT,Asia,1990,72.2
+Kuwait,KWT,Asia,1991,72.3
+Kuwait,KWT,Asia,1992,72.4
+Kuwait,KWT,Asia,1993,72.6
+Kuwait,KWT,Asia,1994,72.7
+Kuwait,KWT,Asia,1995,72.8
+Kuwait,KWT,Asia,1996,72.9
+Kuwait,KWT,Asia,1997,72.9
+Kuwait,KWT,Asia,1998,73
+Kuwait,KWT,Asia,1999,73.1
+Kuwait,KWT,Asia,2000,73.1
+Kuwait,KWT,Asia,2001,73.2
+Kuwait,KWT,Asia,2002,73.3
+Kuwait,KWT,Asia,2003,73.4
+Kuwait,KWT,Asia,2004,73.4
+Kuwait,KWT,Asia,2005,73.5
+Kuwait,KWT,Asia,2006,73.7
+Kuwait,KWT,Asia,2007,73.8
+Kuwait,KWT,Asia,2008,74
+Kuwait,KWT,Asia,2009,74.2
+Kuwait,KWT,Asia,2010,74.4
+Kuwait,KWT,Asia,2011,74.5
+Kuwait,KWT,Asia,2012,74.7
+Kuwait,KWT,Asia,2013,74.9
+Kuwait,KWT,Asia,2014,75
+Kuwait,KWT,Asia,2015,75.1
+Kuwait,KWT,Asia,2016,75.2
+Kuwait,KWT,Asia,2017,75.3
+Kuwait,KWT,Asia,2018,75.4
+Kuwait,KWT,Asia,2019,75.5
+Kyrgyzstan,KGZ,Asia,1990,66.3
+Kyrgyzstan,KGZ,Asia,1991,66.3
+Kyrgyzstan,KGZ,Asia,1992,66.3
+Kyrgyzstan,KGZ,Asia,1993,66.2
+Kyrgyzstan,KGZ,Asia,1994,66.1
+Kyrgyzstan,KGZ,Asia,1995,66
+Kyrgyzstan,KGZ,Asia,1996,66
+Kyrgyzstan,KGZ,Asia,1997,66
+Kyrgyzstan,KGZ,Asia,1998,66.1
+Kyrgyzstan,KGZ,Asia,1999,66.2
+Kyrgyzstan,KGZ,Asia,2000,66.3
+Kyrgyzstan,KGZ,Asia,2001,66.5
+Kyrgyzstan,KGZ,Asia,2002,66.7
+Kyrgyzstan,KGZ,Asia,2003,66.8
+Kyrgyzstan,KGZ,Asia,2004,66.9
+Kyrgyzstan,KGZ,Asia,2005,67
+Kyrgyzstan,KGZ,Asia,2006,67.2
+Kyrgyzstan,KGZ,Asia,2007,67.5
+Kyrgyzstan,KGZ,Asia,2008,67.9
+Kyrgyzstan,KGZ,Asia,2009,68.3
+Kyrgyzstan,KGZ,Asia,2010,68.8
+Kyrgyzstan,KGZ,Asia,2011,69.4
+Kyrgyzstan,KGZ,Asia,2012,69.9
+Kyrgyzstan,KGZ,Asia,2013,70.3
+Kyrgyzstan,KGZ,Asia,2014,70.6
+Kyrgyzstan,KGZ,Asia,2015,70.9
+Kyrgyzstan,KGZ,Asia,2016,71.1
+Kyrgyzstan,KGZ,Asia,2017,71.2
+Kyrgyzstan,KGZ,Asia,2018,71.3
+Kyrgyzstan,KGZ,Asia,2019,71.5
+Lao,LAO,Asia,1990,53.4
+Lao,LAO,Asia,1991,53.8
+Lao,LAO,Asia,1992,54.3
+Lao,LAO,Asia,1993,54.8
+Lao,LAO,Asia,1994,55.3
+Lao,LAO,Asia,1995,55.9
+Lao,LAO,Asia,1996,56.4
+Lao,LAO,Asia,1997,57
+Lao,LAO,Asia,1998,57.6
+Lao,LAO,Asia,1999,58.2
+Lao,LAO,Asia,2000,58.8
+Lao,LAO,Asia,2001,59.4
+Lao,LAO,Asia,2002,59.9
+Lao,LAO,Asia,2003,60.5
+Lao,LAO,Asia,2004,61.1
+Lao,LAO,Asia,2005,61.6
+Lao,LAO,Asia,2006,62.2
+Lao,LAO,Asia,2007,62.7
+Lao,LAO,Asia,2008,63.3
+Lao,LAO,Asia,2009,63.8
+Lao,LAO,Asia,2010,64.3
+Lao,LAO,Asia,2011,64.8
+Lao,LAO,Asia,2012,65.3
+Lao,LAO,Asia,2013,65.7
+Lao,LAO,Asia,2014,66.1
+Lao,LAO,Asia,2015,66.5
+Lao,LAO,Asia,2016,66.9
+Lao,LAO,Asia,2017,67.3
+Lao,LAO,Asia,2018,67.6
+Lao,LAO,Asia,2019,67.9
+Latvia,LVA,Europe,1990,69.1
+Latvia,LVA,Europe,1991,68.6
+Latvia,LVA,Europe,1992,68.1
+Latvia,LVA,Europe,1993,67.9
+Latvia,LVA,Europe,1994,67.8
+Latvia,LVA,Europe,1995,67.8
+Latvia,LVA,Europe,1996,68.1
+Latvia,LVA,Europe,1997,68.4
+Latvia,LVA,Europe,1998,68.9
+Latvia,LVA,Europe,1999,69.3
+Latvia,LVA,Europe,2000,69.7
+Latvia,LVA,Europe,2001,70.1
+Latvia,LVA,Europe,2002,70.4
+Latvia,LVA,Europe,2003,70.7
+Latvia,LVA,Europe,2004,70.9
+Latvia,LVA,Europe,2005,71.1
+Latvia,LVA,Europe,2006,71.3
+Latvia,LVA,Europe,2007,71.6
+Latvia,LVA,Europe,2008,71.9
+Latvia,LVA,Europe,2009,72.4
+Latvia,LVA,Europe,2010,72.8
+Latvia,LVA,Europe,2011,73.3
+Latvia,LVA,Europe,2012,73.8
+Latvia,LVA,Europe,2013,74.2
+Latvia,LVA,Europe,2014,74.5
+Latvia,LVA,Europe,2015,74.7
+Latvia,LVA,Europe,2016,74.9
+Latvia,LVA,Europe,2017,75
+Latvia,LVA,Europe,2018,75.2
+Latvia,LVA,Europe,2019,75.3
+Lebanon,LBN,Asia,1990,Not Available
+Lebanon,LBN,Asia,1991,Not Available
+Lebanon,LBN,Asia,1992,Not Available
+Lebanon,LBN,Asia,1993,Not Available
+Lebanon,LBN,Asia,1994,Not Available
+Lebanon,LBN,Asia,1995,Not Available
+Lebanon,LBN,Asia,1996,Not Available
+Lebanon,LBN,Asia,1997,Not Available
+Lebanon,LBN,Asia,1998,Not Available
+Lebanon,LBN,Asia,1999,Not Available
+Lebanon,LBN,Asia,2000,Not Available
+Lebanon,LBN,Asia,2001,Not Available
+Lebanon,LBN,Asia,2002,Not Available
+Lebanon,LBN,Asia,2003,Not Available
+Lebanon,LBN,Asia,2004,Not Available
+Lebanon,LBN,Asia,2005,76.9
+Lebanon,LBN,Asia,2006,77.3
+Lebanon,LBN,Asia,2007,77.6
+Lebanon,LBN,Asia,2008,77.9
+Lebanon,LBN,Asia,2009,78.2
+Lebanon,LBN,Asia,2010,78.4
+Lebanon,LBN,Asia,2011,78.5
+Lebanon,LBN,Asia,2012,78.6
+Lebanon,LBN,Asia,2013,78.7
+Lebanon,LBN,Asia,2014,78.7
+Lebanon,LBN,Asia,2015,78.8
+Lebanon,LBN,Asia,2016,78.8
+Lebanon,LBN,Asia,2017,78.8
+Lebanon,LBN,Asia,2018,78.9
+Lebanon,LBN,Asia,2019,78.9
+Lesotho,LSO,Africa,1990,59.8
+Lesotho,LSO,Africa,1991,59.5
+Lesotho,LSO,Africa,1992,58.9
+Lesotho,LSO,Africa,1993,58
+Lesotho,LSO,Africa,1994,57
+Lesotho,LSO,Africa,1995,55.8
+Lesotho,LSO,Africa,1996,54.3
+Lesotho,LSO,Africa,1997,52.7
+Lesotho,LSO,Africa,1998,51
+Lesotho,LSO,Africa,1999,49.3
+Lesotho,LSO,Africa,2000,47.7
+Lesotho,LSO,Africa,2001,46.2
+Lesotho,LSO,Africa,2002,44.9
+Lesotho,LSO,Africa,2003,43.8
+Lesotho,LSO,Africa,2004,43.1
+Lesotho,LSO,Africa,2005,42.7
+Lesotho,LSO,Africa,2006,42.6
+Lesotho,LSO,Africa,2007,42.9
+Lesotho,LSO,Africa,2008,43.4
+Lesotho,LSO,Africa,2009,44.1
+Lesotho,LSO,Africa,2010,45.1
+Lesotho,LSO,Africa,2011,46.2
+Lesotho,LSO,Africa,2012,47.4
+Lesotho,LSO,Africa,2013,48.7
+Lesotho,LSO,Africa,2014,49.9
+Lesotho,LSO,Africa,2015,51
+Lesotho,LSO,Africa,2016,52.1
+Lesotho,LSO,Africa,2017,52.9
+Lesotho,LSO,Africa,2018,53.7
+Lesotho,LSO,Africa,2019,54.3
+Liberia,LBR,Africa,1990,Not Available
+Liberia,LBR,Africa,1991,Not Available
+Liberia,LBR,Africa,1992,Not Available
+Liberia,LBR,Africa,1993,Not Available
+Liberia,LBR,Africa,1994,Not Available
+Liberia,LBR,Africa,1995,Not Available
+Liberia,LBR,Africa,1996,Not Available
+Liberia,LBR,Africa,1997,Not Available
+Liberia,LBR,Africa,1998,Not Available
+Liberia,LBR,Africa,1999,51.2
+Liberia,LBR,Africa,2000,51.7
+Liberia,LBR,Africa,2001,52.2
+Liberia,LBR,Africa,2002,52.8
+Liberia,LBR,Africa,2003,53.6
+Liberia,LBR,Africa,2004,54.4
+Liberia,LBR,Africa,2005,55.4
+Liberia,LBR,Africa,2006,56.4
+Liberia,LBR,Africa,2007,57.4
+Liberia,LBR,Africa,2008,58.2
+Liberia,LBR,Africa,2009,59
+Liberia,LBR,Africa,2010,59.6
+Liberia,LBR,Africa,2011,60.1
+Liberia,LBR,Africa,2012,60.7
+Liberia,LBR,Africa,2013,61.2
+Liberia,LBR,Africa,2014,61.7
+Liberia,LBR,Africa,2015,62.3
+Liberia,LBR,Africa,2016,62.8
+Liberia,LBR,Africa,2017,63.3
+Liberia,LBR,Africa,2018,63.7
+Liberia,LBR,Africa,2019,64.1
+Libya,LBY,Africa,1990,68.5
+Libya,LBY,Africa,1991,68.8
+Libya,LBY,Africa,1992,69.2
+Libya,LBY,Africa,1993,69.5
+Libya,LBY,Africa,1994,69.7
+Libya,LBY,Africa,1995,70
+Libya,LBY,Africa,1996,70.2
+Libya,LBY,Africa,1997,70.4
+Libya,LBY,Africa,1998,70.5
+Libya,LBY,Africa,1999,70.7
+Libya,LBY,Africa,2000,70.9
+Libya,LBY,Africa,2001,71
+Libya,LBY,Africa,2002,71.2
+Libya,LBY,Africa,2003,71.5
+Libya,LBY,Africa,2004,71.7
+Libya,LBY,Africa,2005,71.9
+Libya,LBY,Africa,2006,72.1
+Libya,LBY,Africa,2007,72.2
+Libya,LBY,Africa,2008,72.2
+Libya,LBY,Africa,2009,72.1
+Libya,LBY,Africa,2010,72
+Libya,LBY,Africa,2011,72
+Libya,LBY,Africa,2012,71.9
+Libya,LBY,Africa,2013,71.9
+Libya,LBY,Africa,2014,72
+Libya,LBY,Africa,2015,72.1
+Libya,LBY,Africa,2016,72.3
+Libya,LBY,Africa,2017,72.5
+Libya,LBY,Africa,2018,72.7
+Libya,LBY,Africa,2019,72.9
+Liechtenstein,LIE,Europe,1990,Not Available
+Liechtenstein,LIE,Europe,1991,Not Available
+Liechtenstein,LIE,Europe,1992,Not Available
+Liechtenstein,LIE,Europe,1993,Not Available
+Liechtenstein,LIE,Europe,1994,Not Available
+Liechtenstein,LIE,Europe,1995,Not Available
+Liechtenstein,LIE,Europe,1996,Not Available
+Liechtenstein,LIE,Europe,1997,Not Available
+Liechtenstein,LIE,Europe,1998,Not Available
+Liechtenstein,LIE,Europe,1999,Not Available
+Liechtenstein,LIE,Europe,2000,78.2
+Liechtenstein,LIE,Europe,2001,78.3
+Liechtenstein,LIE,Europe,2002,78.5
+Liechtenstein,LIE,Europe,2003,78.6
+Liechtenstein,LIE,Europe,2004,78.8
+Liechtenstein,LIE,Europe,2005,78.9
+Liechtenstein,LIE,Europe,2006,79
+Liechtenstein,LIE,Europe,2007,79.1
+Liechtenstein,LIE,Europe,2008,79.3
+Liechtenstein,LIE,Europe,2009,79.4
+Liechtenstein,LIE,Europe,2010,79.5
+Liechtenstein,LIE,Europe,2011,79.6
+Liechtenstein,LIE,Europe,2012,79.8
+Liechtenstein,LIE,Europe,2013,79.9
+Liechtenstein,LIE,Europe,2014,80
+Liechtenstein,LIE,Europe,2015,80.2
+Liechtenstein,LIE,Europe,2016,80.3
+Liechtenstein,LIE,Europe,2017,80.4
+Liechtenstein,LIE,Europe,2018,80.5
+Liechtenstein,LIE,Europe,2019,80.7
+Lithuania,LTU,Europe,1990,70.7
+Lithuania,LTU,Europe,1991,70.3
+Lithuania,LTU,Europe,1992,70.1
+Lithuania,LTU,Europe,1993,69.8
+Lithuania,LTU,Europe,1994,69.7
+Lithuania,LTU,Europe,1995,69.8
+Lithuania,LTU,Europe,1996,69.9
+Lithuania,LTU,Europe,1997,70.1
+Lithuania,LTU,Europe,1998,70.4
+Lithuania,LTU,Europe,1999,70.7
+Lithuania,LTU,Europe,2000,71
+Lithuania,LTU,Europe,2001,71.2
+Lithuania,LTU,Europe,2002,71.4
+Lithuania,LTU,Europe,2003,71.5
+Lithuania,LTU,Europe,2004,71.6
+Lithuania,LTU,Europe,2005,71.7
+Lithuania,LTU,Europe,2006,71.8
+Lithuania,LTU,Europe,2007,71.9
+Lithuania,LTU,Europe,2008,72.2
+Lithuania,LTU,Europe,2009,72.5
+Lithuania,LTU,Europe,2010,72.8
+Lithuania,LTU,Europe,2011,73.3
+Lithuania,LTU,Europe,2012,73.7
+Lithuania,LTU,Europe,2013,74.1
+Lithuania,LTU,Europe,2014,74.6
+Lithuania,LTU,Europe,2015,74.9
+Lithuania,LTU,Europe,2016,75.2
+Lithuania,LTU,Europe,2017,75.5
+Lithuania,LTU,Europe,2018,75.7
+Lithuania,LTU,Europe,2019,75.9
+Luxembourg,LUX,Europe,1990,75.2
+Luxembourg,LUX,Europe,1991,75.4
+Luxembourg,LUX,Europe,1992,75.7
+Luxembourg,LUX,Europe,1993,75.9
+Luxembourg,LUX,Europe,1994,76.1
+Luxembourg,LUX,Europe,1995,76.4
+Luxembourg,LUX,Europe,1996,76.6
+Luxembourg,LUX,Europe,1997,76.9
+Luxembourg,LUX,Europe,1998,77.1
+Luxembourg,LUX,Europe,1999,77.4
+Luxembourg,LUX,Europe,2000,77.7
+Luxembourg,LUX,Europe,2001,77.9
+Luxembourg,LUX,Europe,2002,78.2
+Luxembourg,LUX,Europe,2003,78.4
+Luxembourg,LUX,Europe,2004,78.6
+Luxembourg,LUX,Europe,2005,78.9
+Luxembourg,LUX,Europe,2006,79.1
+Luxembourg,LUX,Europe,2007,79.4
+Luxembourg,LUX,Europe,2008,79.7
+Luxembourg,LUX,Europe,2009,80
+Luxembourg,LUX,Europe,2010,80.4
+Luxembourg,LUX,Europe,2011,80.7
+Luxembourg,LUX,Europe,2012,81
+Luxembourg,LUX,Europe,2013,81.2
+Luxembourg,LUX,Europe,2014,81.4
+Luxembourg,LUX,Europe,2015,81.6
+Luxembourg,LUX,Europe,2016,81.8
+Luxembourg,LUX,Europe,2017,82
+Luxembourg,LUX,Europe,2018,82.1
+Luxembourg,LUX,Europe,2019,82.3
+Madagascar,MDG,Africa,1990,Not Available
+Madagascar,MDG,Africa,1991,Not Available
+Madagascar,MDG,Africa,1992,Not Available
+Madagascar,MDG,Africa,1993,Not Available
+Madagascar,MDG,Africa,1994,Not Available
+Madagascar,MDG,Africa,1995,Not Available
+Madagascar,MDG,Africa,1996,Not Available
+Madagascar,MDG,Africa,1997,Not Available
+Madagascar,MDG,Africa,1998,Not Available
+Madagascar,MDG,Africa,1999,Not Available
+Madagascar,MDG,Africa,2000,58.5
+Madagascar,MDG,Africa,2001,59.1
+Madagascar,MDG,Africa,2002,59.7
+Madagascar,MDG,Africa,2003,60.3
+Madagascar,MDG,Africa,2004,60.8
+Madagascar,MDG,Africa,2005,61.2
+Madagascar,MDG,Africa,2006,61.6
+Madagascar,MDG,Africa,2007,62.1
+Madagascar,MDG,Africa,2008,62.5
+Madagascar,MDG,Africa,2009,62.9
+Madagascar,MDG,Africa,2010,63.4
+Madagascar,MDG,Africa,2011,63.8
+Madagascar,MDG,Africa,2012,64.3
+Madagascar,MDG,Africa,2013,64.7
+Madagascar,MDG,Africa,2014,65.1
+Madagascar,MDG,Africa,2015,65.5
+Madagascar,MDG,Africa,2016,65.9
+Madagascar,MDG,Africa,2017,66.3
+Madagascar,MDG,Africa,2018,66.7
+Madagascar,MDG,Africa,2019,67
+Malawi,MWI,Africa,1990,46.1
+Malawi,MWI,Africa,1991,46.1
+Malawi,MWI,Africa,1992,46.1
+Malawi,MWI,Africa,1993,46.1
+Malawi,MWI,Africa,1994,46
+Malawi,MWI,Africa,1995,45.8
+Malawi,MWI,Africa,1996,45.7
+Malawi,MWI,Africa,1997,45.5
+Malawi,MWI,Africa,1998,45.3
+Malawi,MWI,Africa,1999,45.1
+Malawi,MWI,Africa,2000,45.1
+Malawi,MWI,Africa,2001,45.2
+Malawi,MWI,Africa,2002,45.5
+Malawi,MWI,Africa,2003,46.1
+Malawi,MWI,Africa,2004,46.8
+Malawi,MWI,Africa,2005,47.8
+Malawi,MWI,Africa,2006,49.1
+Malawi,MWI,Africa,2007,50.6
+Malawi,MWI,Africa,2008,52.2
+Malawi,MWI,Africa,2009,53.9
+Malawi,MWI,Africa,2010,55.6
+Malawi,MWI,Africa,2011,57.2
+Malawi,MWI,Africa,2012,58.6
+Malawi,MWI,Africa,2013,59.9
+Malawi,MWI,Africa,2014,61
+Malawi,MWI,Africa,2015,62
+Malawi,MWI,Africa,2016,62.7
+Malawi,MWI,Africa,2017,63.3
+Malawi,MWI,Africa,2018,63.8
+Malawi,MWI,Africa,2019,64.3
+Malaysia,MYS,Asia,1990,70.9
+Malaysia,MYS,Asia,1991,71.1
+Malaysia,MYS,Asia,1992,71.3
+Malaysia,MYS,Asia,1993,71.5
+Malaysia,MYS,Asia,1994,71.7
+Malaysia,MYS,Asia,1995,71.8
+Malaysia,MYS,Asia,1996,72
+Malaysia,MYS,Asia,1997,72.1
+Malaysia,MYS,Asia,1998,72.3
+Malaysia,MYS,Asia,1999,72.4
+Malaysia,MYS,Asia,2000,72.6
+Malaysia,MYS,Asia,2001,72.8
+Malaysia,MYS,Asia,2002,73
+Malaysia,MYS,Asia,2003,73.2
+Malaysia,MYS,Asia,2004,73.4
+Malaysia,MYS,Asia,2005,73.6
+Malaysia,MYS,Asia,2006,73.7
+Malaysia,MYS,Asia,2007,73.9
+Malaysia,MYS,Asia,2008,74.1
+Malaysia,MYS,Asia,2009,74.3
+Malaysia,MYS,Asia,2010,74.5
+Malaysia,MYS,Asia,2011,74.7
+Malaysia,MYS,Asia,2012,74.9
+Malaysia,MYS,Asia,2013,75.1
+Malaysia,MYS,Asia,2014,75.3
+Malaysia,MYS,Asia,2015,75.5
+Malaysia,MYS,Asia,2016,75.6
+Malaysia,MYS,Asia,2017,75.8
+Malaysia,MYS,Asia,2018,76
+Malaysia,MYS,Asia,2019,76.2
+Maldives,MDV,Asia,1990,Not Available
+Maldives,MDV,Asia,1991,Not Available
+Maldives,MDV,Asia,1992,Not Available
+Maldives,MDV,Asia,1993,Not Available
+Maldives,MDV,Asia,1994,Not Available
+Maldives,MDV,Asia,1995,65.9
+Maldives,MDV,Asia,1996,66.8
+Maldives,MDV,Asia,1997,67.6
+Maldives,MDV,Asia,1998,68.5
+Maldives,MDV,Asia,1999,69.3
+Maldives,MDV,Asia,2000,70.2
+Maldives,MDV,Asia,2001,71
+Maldives,MDV,Asia,2002,71.7
+Maldives,MDV,Asia,2003,72.4
+Maldives,MDV,Asia,2004,73
+Maldives,MDV,Asia,2005,73.6
+Maldives,MDV,Asia,2006,74.1
+Maldives,MDV,Asia,2007,74.6
+Maldives,MDV,Asia,2008,75.1
+Maldives,MDV,Asia,2009,75.5
+Maldives,MDV,Asia,2010,75.9
+Maldives,MDV,Asia,2011,76.3
+Maldives,MDV,Asia,2012,76.7
+Maldives,MDV,Asia,2013,77
+Maldives,MDV,Asia,2014,77.4
+Maldives,MDV,Asia,2015,77.7
+Maldives,MDV,Asia,2016,78
+Maldives,MDV,Asia,2017,78.3
+Maldives,MDV,Asia,2018,78.6
+Maldives,MDV,Asia,2019,78.9
+Mali,MLI,Africa,1990,45.7
+Mali,MLI,Africa,1991,46.1
+Mali,MLI,Africa,1992,46.3
+Mali,MLI,Africa,1993,46.4
+Mali,MLI,Africa,1994,46.5
+Mali,MLI,Africa,1995,46.6
+Mali,MLI,Africa,1996,46.7
+Mali,MLI,Africa,1997,46.8
+Mali,MLI,Africa,1998,47.1
+Mali,MLI,Africa,1999,47.5
+Mali,MLI,Africa,2000,48.1
+Mali,MLI,Africa,2001,48.8
+Mali,MLI,Africa,2002,49.5
+Mali,MLI,Africa,2003,50.4
+Mali,MLI,Africa,2004,51.2
+Mali,MLI,Africa,2005,52.1
+Mali,MLI,Africa,2006,52.8
+Mali,MLI,Africa,2007,53.6
+Mali,MLI,Africa,2008,54.2
+Mali,MLI,Africa,2009,54.8
+Mali,MLI,Africa,2010,55.3
+Mali,MLI,Africa,2011,55.7
+Mali,MLI,Africa,2012,56.1
+Mali,MLI,Africa,2013,56.6
+Mali,MLI,Africa,2014,57
+Mali,MLI,Africa,2015,57.5
+Mali,MLI,Africa,2016,58
+Mali,MLI,Africa,2017,58.5
+Mali,MLI,Africa,2018,58.9
+Mali,MLI,Africa,2019,59.3
+Mauritania,MRT,Africa,1990,59.7
+Mauritania,MRT,Africa,1991,59.9
+Mauritania,MRT,Africa,1992,60.1
+Mauritania,MRT,Africa,1993,60.2
+Mauritania,MRT,Africa,1994,60.3
+Mauritania,MRT,Africa,1995,60.4
+Mauritania,MRT,Africa,1996,60.5
+Mauritania,MRT,Africa,1997,60.5
+Mauritania,MRT,Africa,1998,60.6
+Mauritania,MRT,Africa,1999,60.6
+Mauritania,MRT,Africa,2000,60.7
+Mauritania,MRT,Africa,2001,60.8
+Mauritania,MRT,Africa,2002,60.9
+Mauritania,MRT,Africa,2003,61
+Mauritania,MRT,Africa,2004,61.2
+Mauritania,MRT,Africa,2005,61.3
+Mauritania,MRT,Africa,2006,61.6
+Mauritania,MRT,Africa,2007,61.8
+Mauritania,MRT,Africa,2008,62
+Mauritania,MRT,Africa,2009,62.3
+Mauritania,MRT,Africa,2010,62.5
+Mauritania,MRT,Africa,2011,62.8
+Mauritania,MRT,Africa,2012,63.1
+Mauritania,MRT,Africa,2013,63.4
+Mauritania,MRT,Africa,2014,63.7
+Mauritania,MRT,Africa,2015,63.9
+Mauritania,MRT,Africa,2016,64.2
+Mauritania,MRT,Africa,2017,64.5
+Mauritania,MRT,Africa,2018,64.7
+Mauritania,MRT,Africa,2019,64.9
+Mauritius,MUS,Africa,1990,69.4
+Mauritius,MUS,Africa,1991,69.7
+Mauritius,MUS,Africa,1992,70
+Mauritius,MUS,Africa,1993,70.2
+Mauritius,MUS,Africa,1994,70.3
+Mauritius,MUS,Africa,1995,70.3
+Mauritius,MUS,Africa,1996,70.4
+Mauritius,MUS,Africa,1997,70.5
+Mauritius,MUS,Africa,1998,70.7
+Mauritius,MUS,Africa,1999,70.9
+Mauritius,MUS,Africa,2000,71.2
+Mauritius,MUS,Africa,2001,71.5
+Mauritius,MUS,Africa,2002,71.8
+Mauritius,MUS,Africa,2003,72.1
+Mauritius,MUS,Africa,2004,72.3
+Mauritius,MUS,Africa,2005,72.4
+Mauritius,MUS,Africa,2006,72.6
+Mauritius,MUS,Africa,2007,72.8
+Mauritius,MUS,Africa,2008,73
+Mauritius,MUS,Africa,2009,73.2
+Mauritius,MUS,Africa,2010,73.5
+Mauritius,MUS,Africa,2011,73.7
+Mauritius,MUS,Africa,2012,74
+Mauritius,MUS,Africa,2013,74.2
+Mauritius,MUS,Africa,2014,74.4
+Mauritius,MUS,Africa,2015,74.5
+Mauritius,MUS,Africa,2016,74.6
+Mauritius,MUS,Africa,2017,74.7
+Mauritius,MUS,Africa,2018,74.9
+Mauritius,MUS,Africa,2019,75
+Mexico,MEX,Americas,1990,70.9
+Mexico,MEX,Americas,1991,71.2
+Mexico,MEX,Americas,1992,71.6
+Mexico,MEX,Americas,1993,72
+Mexico,MEX,Americas,1994,72.3
+Mexico,MEX,Americas,1995,72.6
+Mexico,MEX,Americas,1996,72.9
+Mexico,MEX,Americas,1997,73.3
+Mexico,MEX,Americas,1998,73.6
+Mexico,MEX,Americas,1999,74
+Mexico,MEX,Americas,2000,74.3
+Mexico,MEX,Americas,2001,74.7
+Mexico,MEX,Americas,2002,74.9
+Mexico,MEX,Americas,2003,75.1
+Mexico,MEX,Americas,2004,75.2
+Mexico,MEX,Americas,2005,75.3
+Mexico,MEX,Americas,2006,75.3
+Mexico,MEX,Americas,2007,75.3
+Mexico,MEX,Americas,2008,75.2
+Mexico,MEX,Americas,2009,75.1
+Mexico,MEX,Americas,2010,75.1
+Mexico,MEX,Americas,2011,75
+Mexico,MEX,Americas,2012,75
+Mexico,MEX,Americas,2013,74.9
+Mexico,MEX,Americas,2014,74.9
+Mexico,MEX,Americas,2015,74.9
+Mexico,MEX,Americas,2016,74.9
+Mexico,MEX,Americas,2017,74.9
+Mexico,MEX,Americas,2018,75
+Mexico,MEX,Americas,2019,75
+Micronesia (Federated States of),FSM,Oceania,1990,Not Available
+Micronesia (Federated States of),FSM,Oceania,1991,Not Available
+Micronesia (Federated States of),FSM,Oceania,1992,Not Available
+Micronesia (Federated States of),FSM,Oceania,1993,Not Available
+Micronesia (Federated States of),FSM,Oceania,1994,Not Available
+Micronesia (Federated States of),FSM,Oceania,1995,Not Available
+Micronesia (Federated States of),FSM,Oceania,1996,Not Available
+Micronesia (Federated States of),FSM,Oceania,1997,Not Available
+Micronesia (Federated States of),FSM,Oceania,1998,Not Available
+Micronesia (Federated States of),FSM,Oceania,1999,Not Available
+Micronesia (Federated States of),FSM,Oceania,2000,64.5
+Micronesia (Federated States of),FSM,Oceania,2001,64.7
+Micronesia (Federated States of),FSM,Oceania,2002,64.9
+Micronesia (Federated States of),FSM,Oceania,2003,65.1
+Micronesia (Federated States of),FSM,Oceania,2004,65.3
+Micronesia (Federated States of),FSM,Oceania,2005,65.5
+Micronesia (Federated States of),FSM,Oceania,2006,65.7
+Micronesia (Federated States of),FSM,Oceania,2007,65.9
+Micronesia (Federated States of),FSM,Oceania,2008,66.1
+Micronesia (Federated States of),FSM,Oceania,2009,66.3
+Micronesia (Federated States of),FSM,Oceania,2010,66.5
+Micronesia (Federated States of),FSM,Oceania,2011,66.6
+Micronesia (Federated States of),FSM,Oceania,2012,66.8
+Micronesia (Federated States of),FSM,Oceania,2013,67
+Micronesia (Federated States of),FSM,Oceania,2014,67.2
+Micronesia (Federated States of),FSM,Oceania,2015,67.3
+Micronesia (Federated States of),FSM,Oceania,2016,67.5
+Micronesia (Federated States of),FSM,Oceania,2017,67.6
+Micronesia (Federated States of),FSM,Oceania,2018,67.8
+Micronesia (Federated States of),FSM,Oceania,2019,67.9
+Moldova,MDA,Europe,1990,67.6
+Moldova,MDA,Europe,1991,67.6
+Moldova,MDA,Europe,1992,67.4
+Moldova,MDA,Europe,1993,67.2
+Moldova,MDA,Europe,1994,67
+Moldova,MDA,Europe,1995,66.9
+Moldova,MDA,Europe,1996,66.8
+Moldova,MDA,Europe,1997,66.7
+Moldova,MDA,Europe,1998,66.8
+Moldova,MDA,Europe,1999,66.9
+Moldova,MDA,Europe,2000,67
+Moldova,MDA,Europe,2001,67.2
+Moldova,MDA,Europe,2002,67.4
+Moldova,MDA,Europe,2003,67.5
+Moldova,MDA,Europe,2004,67.7
+Moldova,MDA,Europe,2005,67.8
+Moldova,MDA,Europe,2006,68
+Moldova,MDA,Europe,2007,68.3
+Moldova,MDA,Europe,2008,68.7
+Moldova,MDA,Europe,2009,69.1
+Moldova,MDA,Europe,2010,69.6
+Moldova,MDA,Europe,2011,70.1
+Moldova,MDA,Europe,2012,70.6
+Moldova,MDA,Europe,2013,71
+Moldova,MDA,Europe,2014,71.3
+Moldova,MDA,Europe,2015,71.5
+Moldova,MDA,Europe,2016,71.6
+Moldova,MDA,Europe,2017,71.7
+Moldova,MDA,Europe,2018,71.8
+Moldova,MDA,Europe,2019,71.9
+Mongolia,MNG,Asia,1990,60.3
+Mongolia,MNG,Asia,1991,60.5
+Mongolia,MNG,Asia,1992,60.7
+Mongolia,MNG,Asia,1993,60.8
+Mongolia,MNG,Asia,1994,61
+Mongolia,MNG,Asia,1995,61.2
+Mongolia,MNG,Asia,1996,61.4
+Mongolia,MNG,Asia,1997,61.7
+Mongolia,MNG,Asia,1998,62.1
+Mongolia,MNG,Asia,1999,62.4
+Mongolia,MNG,Asia,2000,62.9
+Mongolia,MNG,Asia,2001,63.3
+Mongolia,MNG,Asia,2002,63.8
+Mongolia,MNG,Asia,2003,64.2
+Mongolia,MNG,Asia,2004,64.7
+Mongolia,MNG,Asia,2005,65.1
+Mongolia,MNG,Asia,2006,65.5
+Mongolia,MNG,Asia,2007,66
+Mongolia,MNG,Asia,2008,66.4
+Mongolia,MNG,Asia,2009,66.9
+Mongolia,MNG,Asia,2010,67.4
+Mongolia,MNG,Asia,2011,67.8
+Mongolia,MNG,Asia,2012,68.2
+Mongolia,MNG,Asia,2013,68.6
+Mongolia,MNG,Asia,2014,68.9
+Mongolia,MNG,Asia,2015,69.1
+Mongolia,MNG,Asia,2016,69.3
+Mongolia,MNG,Asia,2017,69.5
+Mongolia,MNG,Asia,2018,69.7
+Mongolia,MNG,Asia,2019,69.9
+Monte Negro,MNE,Europe,1990,Not Available
+Monte Negro,MNE,Europe,1991,Not Available
+Monte Negro,MNE,Europe,1992,Not Available
+Monte Negro,MNE,Europe,1993,Not Available
+Monte Negro,MNE,Europe,1994,Not Available
+Monte Negro,MNE,Europe,1995,Not Available
+Monte Negro,MNE,Europe,1996,Not Available
+Monte Negro,MNE,Europe,1997,Not Available
+Monte Negro,MNE,Europe,1998,Not Available
+Monte Negro,MNE,Europe,1999,Not Available
+Monte Negro,MNE,Europe,2000,Not Available
+Monte Negro,MNE,Europe,2001,Not Available
+Monte Negro,MNE,Europe,2002,Not Available
+Monte Negro,MNE,Europe,2003,Not Available
+Monte Negro,MNE,Europe,2004,Not Available
+Monte Negro,MNE,Europe,2005,Not Available
+Monte Negro,MNE,Europe,2006,73.8
+Monte Negro,MNE,Europe,2007,74.1
+Monte Negro,MNE,Europe,2008,74.4
+Monte Negro,MNE,Europe,2009,74.8
+Monte Negro,MNE,Europe,2010,75.2
+Monte Negro,MNE,Europe,2011,75.5
+Monte Negro,MNE,Europe,2012,75.8
+Monte Negro,MNE,Europe,2013,76.1
+Monte Negro,MNE,Europe,2014,76.3
+Monte Negro,MNE,Europe,2015,76.5
+Monte Negro,MNE,Europe,2016,76.6
+Monte Negro,MNE,Europe,2017,76.7
+Monte Negro,MNE,Europe,2018,76.8
+Monte Negro,MNE,Europe,2019,76.9
+Morocco,MAR,Africa,1990,64.7
+Morocco,MAR,Africa,1991,65.3
+Morocco,MAR,Africa,1992,65.7
+Morocco,MAR,Africa,1993,66.1
+Morocco,MAR,Africa,1994,66.5
+Morocco,MAR,Africa,1995,66.8
+Morocco,MAR,Africa,1996,67.2
+Morocco,MAR,Africa,1997,67.5
+Morocco,MAR,Africa,1998,67.9
+Morocco,MAR,Africa,1999,68.2
+Morocco,MAR,Africa,2000,68.7
+Morocco,MAR,Africa,2001,69.2
+Morocco,MAR,Africa,2002,69.8
+Morocco,MAR,Africa,2003,70.4
+Morocco,MAR,Africa,2004,71.1
+Morocco,MAR,Africa,2005,71.7
+Morocco,MAR,Africa,2006,72.4
+Morocco,MAR,Africa,2007,73
+Morocco,MAR,Africa,2008,73.5
+Morocco,MAR,Africa,2009,74
+Morocco,MAR,Africa,2010,74.4
+Morocco,MAR,Africa,2011,74.7
+Morocco,MAR,Africa,2012,75
+Morocco,MAR,Africa,2013,75.2
+Morocco,MAR,Africa,2014,75.5
+Morocco,MAR,Africa,2015,75.7
+Morocco,MAR,Africa,2016,76
+Morocco,MAR,Africa,2017,76.2
+Morocco,MAR,Africa,2018,76.5
+Morocco,MAR,Africa,2019,76.7
+Mozambique,MOZ,Africa,1990,45.3
+Mozambique,MOZ,Africa,1991,45.6
+Mozambique,MOZ,Africa,1992,46
+Mozambique,MOZ,Africa,1993,46.4
+Mozambique,MOZ,Africa,1994,46.8
+Mozambique,MOZ,Africa,1995,47.1
+Mozambique,MOZ,Africa,1996,47.5
+Mozambique,MOZ,Africa,1997,47.8
+Mozambique,MOZ,Africa,1998,48.2
+Mozambique,MOZ,Africa,1999,48.6
+Mozambique,MOZ,Africa,2000,48.9
+Mozambique,MOZ,Africa,2001,49.3
+Mozambique,MOZ,Africa,2002,49.6
+Mozambique,MOZ,Africa,2003,49.9
+Mozambique,MOZ,Africa,2004,50.1
+Mozambique,MOZ,Africa,2005,50.4
+Mozambique,MOZ,Africa,2006,50.6
+Mozambique,MOZ,Africa,2007,50.9
+Mozambique,MOZ,Africa,2008,51.3
+Mozambique,MOZ,Africa,2009,51.7
+Mozambique,MOZ,Africa,2010,52.3
+Mozambique,MOZ,Africa,2011,53
+Mozambique,MOZ,Africa,2012,53.9
+Mozambique,MOZ,Africa,2013,54.9
+Mozambique,MOZ,Africa,2014,56.1
+Mozambique,MOZ,Africa,2015,57.2
+Mozambique,MOZ,Africa,2016,58.3
+Mozambique,MOZ,Africa,2017,59.3
+Mozambique,MOZ,Africa,2018,60.2
+Mozambique,MOZ,Africa,2019,60.9
+Myanmar,MMR,Asia,1990,56.8
+Myanmar,MMR,Asia,1991,57.2
+Myanmar,MMR,Asia,1992,57.5
+Myanmar,MMR,Asia,1993,57.8
+Myanmar,MMR,Asia,1994,58.1
+Myanmar,MMR,Asia,1995,58.5
+Myanmar,MMR,Asia,1996,58.8
+Myanmar,MMR,Asia,1997,59.1
+Myanmar,MMR,Asia,1998,59.4
+Myanmar,MMR,Asia,1999,59.7
+Myanmar,MMR,Asia,2000,60.1
+Myanmar,MMR,Asia,2001,60.4
+Myanmar,MMR,Asia,2002,60.7
+Myanmar,MMR,Asia,2003,61
+Myanmar,MMR,Asia,2004,61.3
+Myanmar,MMR,Asia,2005,61.6
+Myanmar,MMR,Asia,2006,61.9
+Myanmar,MMR,Asia,2007,62.3
+Myanmar,MMR,Asia,2008,62.7
+Myanmar,MMR,Asia,2009,63.1
+Myanmar,MMR,Asia,2010,63.5
+Myanmar,MMR,Asia,2011,64
+Myanmar,MMR,Asia,2012,64.5
+Myanmar,MMR,Asia,2013,64.9
+Myanmar,MMR,Asia,2014,65.4
+Myanmar,MMR,Asia,2015,65.8
+Myanmar,MMR,Asia,2016,66.2
+Myanmar,MMR,Asia,2017,66.6
+Myanmar,MMR,Asia,2018,66.9
+Myanmar,MMR,Asia,2019,67.1
+Namibia,NAM,Africa,1990,61.6
+Namibia,NAM,Africa,1991,61.5
+Namibia,NAM,Africa,1992,61.2
+Namibia,NAM,Africa,1993,60.5
+Namibia,NAM,Africa,1994,59.6
+Namibia,NAM,Africa,1995,58.5
+Namibia,NAM,Africa,1996,57.2
+Namibia,NAM,Africa,1997,55.8
+Namibia,NAM,Africa,1998,54.5
+Namibia,NAM,Africa,1999,53.2
+Namibia,NAM,Africa,2000,52.2
+Namibia,NAM,Africa,2001,51.4
+Namibia,NAM,Africa,2002,50.9
+Namibia,NAM,Africa,2003,50.6
+Namibia,NAM,Africa,2004,50.6
+Namibia,NAM,Africa,2005,50.9
+Namibia,NAM,Africa,2006,51.6
+Namibia,NAM,Africa,2007,52.6
+Namibia,NAM,Africa,2008,53.8
+Namibia,NAM,Africa,2009,55.2
+Namibia,NAM,Africa,2010,56.7
+Namibia,NAM,Africa,2011,58.1
+Namibia,NAM,Africa,2012,59.4
+Namibia,NAM,Africa,2013,60.5
+Namibia,NAM,Africa,2014,61.4
+Namibia,NAM,Africa,2015,62.1
+Namibia,NAM,Africa,2016,62.6
+Namibia,NAM,Africa,2017,63
+Namibia,NAM,Africa,2018,63.4
+Namibia,NAM,Africa,2019,63.7
+Nepal,NPL,Asia,1990,54.4
+Nepal,NPL,Asia,1991,55.3
+Nepal,NPL,Asia,1992,56.1
+Nepal,NPL,Asia,1993,57
+Nepal,NPL,Asia,1994,57.8
+Nepal,NPL,Asia,1995,58.6
+Nepal,NPL,Asia,1996,59.4
+Nepal,NPL,Asia,1997,60.1
+Nepal,NPL,Asia,1998,60.9
+Nepal,NPL,Asia,1999,61.6
+Nepal,NPL,Asia,2000,62.3
+Nepal,NPL,Asia,2001,62.9
+Nepal,NPL,Asia,2002,63.6
+Nepal,NPL,Asia,2003,64.2
+Nepal,NPL,Asia,2004,64.7
+Nepal,NPL,Asia,2005,65.3
+Nepal,NPL,Asia,2006,65.8
+Nepal,NPL,Asia,2007,66.3
+Nepal,NPL,Asia,2008,66.7
+Nepal,NPL,Asia,2009,67.2
+Nepal,NPL,Asia,2010,67.6
+Nepal,NPL,Asia,2011,68
+Nepal,NPL,Asia,2012,68.4
+Nepal,NPL,Asia,2013,68.8
+Nepal,NPL,Asia,2014,69.2
+Nepal,NPL,Asia,2015,69.5
+Nepal,NPL,Asia,2016,69.8
+Nepal,NPL,Asia,2017,70.2
+Nepal,NPL,Asia,2018,70.5
+Nepal,NPL,Asia,2019,70.8
+Netherlands,NLD,Europe,1990,77
+Netherlands,NLD,Europe,1991,77.1
+Netherlands,NLD,Europe,1992,77.2
+Netherlands,NLD,Europe,1993,77.3
+Netherlands,NLD,Europe,1994,77.4
+Netherlands,NLD,Europe,1995,77.5
+Netherlands,NLD,Europe,1996,77.6
+Netherlands,NLD,Europe,1997,77.8
+Netherlands,NLD,Europe,1998,77.9
+Netherlands,NLD,Europe,1999,78
+Netherlands,NLD,Europe,2000,78.2
+Netherlands,NLD,Europe,2001,78.4
+Netherlands,NLD,Europe,2002,78.6
+Netherlands,NLD,Europe,2003,78.8
+Netherlands,NLD,Europe,2004,79.1
+Netherlands,NLD,Europe,2005,79.4
+Netherlands,NLD,Europe,2006,79.7
+Netherlands,NLD,Europe,2007,80
+Netherlands,NLD,Europe,2008,80.3
+Netherlands,NLD,Europe,2009,80.6
+Netherlands,NLD,Europe,2010,80.8
+Netherlands,NLD,Europe,2011,81
+Netherlands,NLD,Europe,2012,81.2
+Netherlands,NLD,Europe,2013,81.4
+Netherlands,NLD,Europe,2014,81.6
+Netherlands,NLD,Europe,2015,81.7
+Netherlands,NLD,Europe,2016,81.9
+Netherlands,NLD,Europe,2017,82
+Netherlands,NLD,Europe,2018,82.1
+Netherlands,NLD,Europe,2019,82.3
+New Zealand,NZL,Oceania,1990,75.4
+New Zealand,NZL,Oceania,1991,75.7
+New Zealand,NZL,Oceania,1992,76.1
+New Zealand,NZL,Oceania,1993,76.4
+New Zealand,NZL,Oceania,1994,76.7
+New Zealand,NZL,Oceania,1995,77
+New Zealand,NZL,Oceania,1996,77.2
+New Zealand,NZL,Oceania,1997,77.5
+New Zealand,NZL,Oceania,1998,77.8
+New Zealand,NZL,Oceania,1999,78
+New Zealand,NZL,Oceania,2000,78.3
+New Zealand,NZL,Oceania,2001,78.6
+New Zealand,NZL,Oceania,2002,78.9
+New Zealand,NZL,Oceania,2003,79.2
+New Zealand,NZL,Oceania,2004,79.5
+New Zealand,NZL,Oceania,2005,79.7
+New Zealand,NZL,Oceania,2006,80
+New Zealand,NZL,Oceania,2007,80.2
+New Zealand,NZL,Oceania,2008,80.4
+New Zealand,NZL,Oceania,2009,80.7
+New Zealand,NZL,Oceania,2010,80.9
+New Zealand,NZL,Oceania,2011,81.1
+New Zealand,NZL,Oceania,2012,81.2
+New Zealand,NZL,Oceania,2013,81.4
+New Zealand,NZL,Oceania,2014,81.6
+New Zealand,NZL,Oceania,2015,81.7
+New Zealand,NZL,Oceania,2016,81.9
+New Zealand,NZL,Oceania,2017,82
+New Zealand,NZL,Oceania,2018,82.1
+New Zealand,NZL,Oceania,2019,82.3
+Nicaragua,NIC,Americas,1990,64.3
+Nicaragua,NIC,Americas,1991,65
+Nicaragua,NIC,Americas,1992,65.7
+Nicaragua,NIC,Americas,1993,66.3
+Nicaragua,NIC,Americas,1994,66.8
+Nicaragua,NIC,Americas,1995,67.3
+Nicaragua,NIC,Americas,1996,67.8
+Nicaragua,NIC,Americas,1997,68.2
+Nicaragua,NIC,Americas,1998,68.7
+Nicaragua,NIC,Americas,1999,69.1
+Nicaragua,NIC,Americas,2000,69.5
+Nicaragua,NIC,Americas,2001,69.9
+Nicaragua,NIC,Americas,2002,70.3
+Nicaragua,NIC,Americas,2003,70.6
+Nicaragua,NIC,Americas,2004,70.9
+Nicaragua,NIC,Americas,2005,71.2
+Nicaragua,NIC,Americas,2006,71.4
+Nicaragua,NIC,Americas,2007,71.7
+Nicaragua,NIC,Americas,2008,71.9
+Nicaragua,NIC,Americas,2009,72.2
+Nicaragua,NIC,Americas,2010,72.4
+Nicaragua,NIC,Americas,2011,72.7
+Nicaragua,NIC,Americas,2012,73
+Nicaragua,NIC,Americas,2013,73.2
+Nicaragua,NIC,Americas,2014,73.4
+Nicaragua,NIC,Americas,2015,73.6
+Nicaragua,NIC,Americas,2016,73.9
+Nicaragua,NIC,Americas,2017,74.1
+Nicaragua,NIC,Americas,2018,74.3
+Nicaragua,NIC,Americas,2019,74.5
+Niger,NER,Africa,1990,43.5
+Niger,NER,Africa,1991,44.1
+Niger,NER,Africa,1992,44.7
+Niger,NER,Africa,1993,45.3
+Niger,NER,Africa,1994,46
+Niger,NER,Africa,1995,46.6
+Niger,NER,Africa,1996,47.3
+Niger,NER,Africa,1997,48
+Niger,NER,Africa,1998,48.6
+Niger,NER,Africa,1999,49.3
+Niger,NER,Africa,2000,49.9
+Niger,NER,Africa,2001,50.6
+Niger,NER,Africa,2002,51.3
+Niger,NER,Africa,2003,52
+Niger,NER,Africa,2004,52.7
+Niger,NER,Africa,2005,53.4
+Niger,NER,Africa,2006,54.2
+Niger,NER,Africa,2007,55
+Niger,NER,Africa,2008,55.8
+Niger,NER,Africa,2009,56.6
+Niger,NER,Africa,2010,57.3
+Niger,NER,Africa,2011,58.1
+Niger,NER,Africa,2012,58.8
+Niger,NER,Africa,2013,59.5
+Niger,NER,Africa,2014,60.1
+Niger,NER,Africa,2015,60.6
+Niger,NER,Africa,2016,61.1
+Niger,NER,Africa,2017,61.6
+Niger,NER,Africa,2018,62
+Niger,NER,Africa,2019,62.4
+Nigeria,NGA,Africa,1990,Not Available
+Nigeria,NGA,Africa,1991,Not Available
+Nigeria,NGA,Africa,1992,Not Available
+Nigeria,NGA,Africa,1993,Not Available
+Nigeria,NGA,Africa,1994,Not Available
+Nigeria,NGA,Africa,1995,Not Available
+Nigeria,NGA,Africa,1996,Not Available
+Nigeria,NGA,Africa,1997,Not Available
+Nigeria,NGA,Africa,1998,Not Available
+Nigeria,NGA,Africa,1999,Not Available
+Nigeria,NGA,Africa,2000,Not Available
+Nigeria,NGA,Africa,2001,Not Available
+Nigeria,NGA,Africa,2002,Not Available
+Nigeria,NGA,Africa,2003,47.2
+Nigeria,NGA,Africa,2004,47.7
+Nigeria,NGA,Africa,2005,48.3
+Nigeria,NGA,Africa,2006,48.8
+Nigeria,NGA,Africa,2007,49.4
+Nigeria,NGA,Africa,2008,49.9
+Nigeria,NGA,Africa,2009,50.4
+Nigeria,NGA,Africa,2010,50.9
+Nigeria,NGA,Africa,2011,51.3
+Nigeria,NGA,Africa,2012,51.8
+Nigeria,NGA,Africa,2013,52.2
+Nigeria,NGA,Africa,2014,52.7
+Nigeria,NGA,Africa,2015,53.1
+Nigeria,NGA,Africa,2016,53.5
+Nigeria,NGA,Africa,2017,54
+Nigeria,NGA,Africa,2018,54.3
+Nigeria,NGA,Africa,2019,54.7
+North Macedonia,MKD,Europe,1990,Not Available
+North Macedonia,MKD,Europe,1991,Not Available
+North Macedonia,MKD,Europe,1992,Not Available
+North Macedonia,MKD,Europe,1993,Not Available
+North Macedonia,MKD,Europe,1994,Not Available
+North Macedonia,MKD,Europe,1995,Not Available
+North Macedonia,MKD,Europe,1996,Not Available
+North Macedonia,MKD,Europe,1997,Not Available
+North Macedonia,MKD,Europe,1998,Not Available
+North Macedonia,MKD,Europe,1999,Not Available
+North Macedonia,MKD,Europe,2000,73.3
+North Macedonia,MKD,Europe,2001,73.5
+North Macedonia,MKD,Europe,2002,73.6
+North Macedonia,MKD,Europe,2003,73.8
+North Macedonia,MKD,Europe,2004,73.9
+North Macedonia,MKD,Europe,2005,74
+North Macedonia,MKD,Europe,2006,74.1
+North Macedonia,MKD,Europe,2007,74.2
+North Macedonia,MKD,Europe,2008,74.3
+North Macedonia,MKD,Europe,2009,74.5
+North Macedonia,MKD,Europe,2010,74.7
+North Macedonia,MKD,Europe,2011,74.8
+North Macedonia,MKD,Europe,2012,75
+North Macedonia,MKD,Europe,2013,75.2
+North Macedonia,MKD,Europe,2014,75.3
+North Macedonia,MKD,Europe,2015,75.4
+North Macedonia,MKD,Europe,2016,75.5
+North Macedonia,MKD,Europe,2017,75.6
+North Macedonia,MKD,Europe,2018,75.7
+North Macedonia,MKD,Europe,2019,75.8
+Norway,NOR,Europe,1990,76.7
+Norway,NOR,Europe,1991,76.9
+Norway,NOR,Europe,1992,77.1
+Norway,NOR,Europe,1993,77.4
+Norway,NOR,Europe,1994,77.6
+Norway,NOR,Europe,1995,77.8
+Norway,NOR,Europe,1996,78
+Norway,NOR,Europe,1997,78.2
+Norway,NOR,Europe,1998,78.4
+Norway,NOR,Europe,1999,78.6
+Norway,NOR,Europe,2000,78.8
+Norway,NOR,Europe,2001,79
+Norway,NOR,Europe,2002,79.2
+Norway,NOR,Europe,2003,79.5
+Norway,NOR,Europe,2004,79.7
+Norway,NOR,Europe,2005,80
+Norway,NOR,Europe,2006,80.2
+Norway,NOR,Europe,2007,80.5
+Norway,NOR,Europe,2008,80.7
+Norway,NOR,Europe,2009,80.9
+Norway,NOR,Europe,2010,81.2
+Norway,NOR,Europe,2011,81.3
+Norway,NOR,Europe,2012,81.5
+Norway,NOR,Europe,2013,81.7
+Norway,NOR,Europe,2014,81.8
+Norway,NOR,Europe,2015,81.9
+Norway,NOR,Europe,2016,82
+Norway,NOR,Europe,2017,82.1
+Norway,NOR,Europe,2018,82.3
+Norway,NOR,Europe,2019,82.4
+Oman,OMN,Asia,1990,Not Available
+Oman,OMN,Asia,1991,Not Available
+Oman,OMN,Asia,1992,Not Available
+Oman,OMN,Asia,1993,Not Available
+Oman,OMN,Asia,1994,Not Available
+Oman,OMN,Asia,1995,Not Available
+Oman,OMN,Asia,1996,Not Available
+Oman,OMN,Asia,1997,Not Available
+Oman,OMN,Asia,1998,Not Available
+Oman,OMN,Asia,1999,Not Available
+Oman,OMN,Asia,2000,72.1
+Oman,OMN,Asia,2001,72.6
+Oman,OMN,Asia,2002,73
+Oman,OMN,Asia,2003,73.4
+Oman,OMN,Asia,2004,73.9
+Oman,OMN,Asia,2005,74.2
+Oman,OMN,Asia,2006,74.6
+Oman,OMN,Asia,2007,74.9
+Oman,OMN,Asia,2008,75.2
+Oman,OMN,Asia,2009,75.4
+Oman,OMN,Asia,2010,75.7
+Oman,OMN,Asia,2011,75.9
+Oman,OMN,Asia,2012,76.1
+Oman,OMN,Asia,2013,76.4
+Oman,OMN,Asia,2014,76.6
+Oman,OMN,Asia,2015,76.9
+Oman,OMN,Asia,2016,77.1
+Oman,OMN,Asia,2017,77.4
+Oman,OMN,Asia,2018,77.6
+Oman,OMN,Asia,2019,77.9
+Pakistan,PAK,Asia,1990,60.1
+Pakistan,PAK,Asia,1991,60.4
+Pakistan,PAK,Asia,1992,60.7
+Pakistan,PAK,Asia,1993,61
+Pakistan,PAK,Asia,1994,61.2
+Pakistan,PAK,Asia,1995,61.5
+Pakistan,PAK,Asia,1996,61.8
+Pakistan,PAK,Asia,1997,62
+Pakistan,PAK,Asia,1998,62.3
+Pakistan,PAK,Asia,1999,62.6
+Pakistan,PAK,Asia,2000,62.8
+Pakistan,PAK,Asia,2001,63.1
+Pakistan,PAK,Asia,2002,63.3
+Pakistan,PAK,Asia,2003,63.5
+Pakistan,PAK,Asia,2004,63.7
+Pakistan,PAK,Asia,2005,64
+Pakistan,PAK,Asia,2006,64.2
+Pakistan,PAK,Asia,2007,64.4
+Pakistan,PAK,Asia,2008,64.7
+Pakistan,PAK,Asia,2009,65
+Pakistan,PAK,Asia,2010,65.3
+Pakistan,PAK,Asia,2011,65.6
+Pakistan,PAK,Asia,2012,65.8
+Pakistan,PAK,Asia,2013,66.1
+Pakistan,PAK,Asia,2014,66.4
+Pakistan,PAK,Asia,2015,66.6
+Pakistan,PAK,Asia,2016,66.8
+Pakistan,PAK,Asia,2017,66.9
+Pakistan,PAK,Asia,2018,67.1
+Pakistan,PAK,Asia,2019,67.3
+Palestine,PSE,Asia,1990,Not Available
+Palestine,PSE,Asia,1991,Not Available
+Palestine,PSE,Asia,1992,Not Available
+Palestine,PSE,Asia,1993,Not Available
+Palestine,PSE,Asia,1994,Not Available
+Palestine,PSE,Asia,1995,Not Available
+Palestine,PSE,Asia,1996,Not Available
+Palestine,PSE,Asia,1997,Not Available
+Palestine,PSE,Asia,1998,Not Available
+Palestine,PSE,Asia,1999,Not Available
+Palestine,PSE,Asia,2000,Not Available
+Palestine,PSE,Asia,2001,Not Available
+Palestine,PSE,Asia,2002,Not Available
+Palestine,PSE,Asia,2003,Not Available
+Palestine,PSE,Asia,2004,71.8
+Palestine,PSE,Asia,2005,72
+Palestine,PSE,Asia,2006,72.2
+Palestine,PSE,Asia,2007,72.4
+Palestine,PSE,Asia,2008,72.5
+Palestine,PSE,Asia,2009,72.7
+Palestine,PSE,Asia,2010,72.8
+Palestine,PSE,Asia,2011,72.9
+Palestine,PSE,Asia,2012,73
+Palestine,PSE,Asia,2013,73.2
+Palestine,PSE,Asia,2014,73.3
+Palestine,PSE,Asia,2015,73.4
+Palestine,PSE,Asia,2016,73.6
+Palestine,PSE,Asia,2017,73.7
+Palestine,PSE,Asia,2018,73.9
+Palestine,PSE,Asia,2019,74
+Panama,PAN,Americas,1990,73
+Panama,PAN,Americas,1991,73.2
+Panama,PAN,Americas,1992,73.4
+Panama,PAN,Americas,1993,73.7
+Panama,PAN,Americas,1994,73.9
+Panama,PAN,Americas,1995,74.1
+Panama,PAN,Americas,1996,74.3
+Panama,PAN,Americas,1997,74.5
+Panama,PAN,Americas,1998,74.7
+Panama,PAN,Americas,1999,74.9
+Panama,PAN,Americas,2000,75.1
+Panama,PAN,Americas,2001,75.2
+Panama,PAN,Americas,2002,75.4
+Panama,PAN,Americas,2003,75.6
+Panama,PAN,Americas,2004,75.7
+Panama,PAN,Americas,2005,75.9
+Panama,PAN,Americas,2006,76.1
+Panama,PAN,Americas,2007,76.2
+Panama,PAN,Americas,2008,76.4
+Panama,PAN,Americas,2009,76.6
+Panama,PAN,Americas,2010,76.8
+Panama,PAN,Americas,2011,77
+Panama,PAN,Americas,2012,77.2
+Panama,PAN,Americas,2013,77.4
+Panama,PAN,Americas,2014,77.6
+Panama,PAN,Americas,2015,77.8
+Panama,PAN,Americas,2016,78
+Panama,PAN,Americas,2017,78.1
+Panama,PAN,Americas,2018,78.3
+Panama,PAN,Americas,2019,78.5
+Papua New Guinea,PNG,Oceania,1990,56.5
+Papua New Guinea,PNG,Oceania,1991,56.8
+Papua New Guinea,PNG,Oceania,1992,57.2
+Papua New Guinea,PNG,Oceania,1993,57.5
+Papua New Guinea,PNG,Oceania,1994,57.8
+Papua New Guinea,PNG,Oceania,1995,58.1
+Papua New Guinea,PNG,Oceania,1996,58.3
+Papua New Guinea,PNG,Oceania,1997,58.6
+Papua New Guinea,PNG,Oceania,1998,58.8
+Papua New Guinea,PNG,Oceania,1999,59
+Papua New Guinea,PNG,Oceania,2000,59.3
+Papua New Guinea,PNG,Oceania,2001,59.5
+Papua New Guinea,PNG,Oceania,2002,59.7
+Papua New Guinea,PNG,Oceania,2003,60
+Papua New Guinea,PNG,Oceania,2004,60.2
+Papua New Guinea,PNG,Oceania,2005,60.5
+Papua New Guinea,PNG,Oceania,2006,60.8
+Papua New Guinea,PNG,Oceania,2007,61.1
+Papua New Guinea,PNG,Oceania,2008,61.4
+Papua New Guinea,PNG,Oceania,2009,61.7
+Papua New Guinea,PNG,Oceania,2010,62
+Papua New Guinea,PNG,Oceania,2011,62.3
+Papua New Guinea,PNG,Oceania,2012,62.6
+Papua New Guinea,PNG,Oceania,2013,62.9
+Papua New Guinea,PNG,Oceania,2014,63.2
+Papua New Guinea,PNG,Oceania,2015,63.5
+Papua New Guinea,PNG,Oceania,2016,63.7
+Papua New Guinea,PNG,Oceania,2017,64
+Papua New Guinea,PNG,Oceania,2018,64.3
+Papua New Guinea,PNG,Oceania,2019,64.5
+Paraguay,PRY,Americas,1990,68.5
+Paraguay,PRY,Americas,1991,68.8
+Paraguay,PRY,Americas,1992,69
+Paraguay,PRY,Americas,1993,69.2
+Paraguay,PRY,Americas,1994,69.3
+Paraguay,PRY,Americas,1995,69.5
+Paraguay,PRY,Americas,1996,69.7
+Paraguay,PRY,Americas,1997,69.9
+Paraguay,PRY,Americas,1998,70.1
+Paraguay,PRY,Americas,1999,70.3
+Paraguay,PRY,Americas,2000,70.5
+Paraguay,PRY,Americas,2001,70.8
+Paraguay,PRY,Americas,2002,71
+Paraguay,PRY,Americas,2003,71.2
+Paraguay,PRY,Americas,2004,71.5
+Paraguay,PRY,Americas,2005,71.7
+Paraguay,PRY,Americas,2006,71.9
+Paraguay,PRY,Americas,2007,72.1
+Paraguay,PRY,Americas,2008,72.3
+Paraguay,PRY,Americas,2009,72.5
+Paraguay,PRY,Americas,2010,72.7
+Paraguay,PRY,Americas,2011,72.9
+Paraguay,PRY,Americas,2012,73.1
+Paraguay,PRY,Americas,2013,73.3
+Paraguay,PRY,Americas,2014,73.5
+Paraguay,PRY,Americas,2015,73.7
+Paraguay,PRY,Americas,2016,73.8
+Paraguay,PRY,Americas,2017,74
+Paraguay,PRY,Americas,2018,74.1
+Paraguay,PRY,Americas,2019,74.3
+Peru,PER,Americas,1990,66.2
+Peru,PER,Americas,1991,66.8
+Peru,PER,Americas,1992,67.3
+Peru,PER,Americas,1993,67.9
+Peru,PER,Americas,1994,68.4
+Peru,PER,Americas,1995,68.9
+Peru,PER,Americas,1996,69.4
+Peru,PER,Americas,1997,69.8
+Peru,PER,Americas,1998,70.3
+Peru,PER,Americas,1999,70.7
+Peru,PER,Americas,2000,71.1
+Peru,PER,Americas,2001,71.5
+Peru,PER,Americas,2002,71.9
+Peru,PER,Americas,2003,72.2
+Peru,PER,Americas,2004,72.6
+Peru,PER,Americas,2005,72.9
+Peru,PER,Americas,2006,73.2
+Peru,PER,Americas,2007,73.5
+Peru,PER,Americas,2008,73.8
+Peru,PER,Americas,2009,74.1
+Peru,PER,Americas,2010,74.4
+Peru,PER,Americas,2011,74.7
+Peru,PER,Americas,2012,75
+Peru,PER,Americas,2013,75.3
+Peru,PER,Americas,2014,75.5
+Peru,PER,Americas,2015,75.8
+Peru,PER,Americas,2016,76
+Peru,PER,Americas,2017,76.3
+Peru,PER,Americas,2018,76.5
+Peru,PER,Americas,2019,76.7
+Philippines,PHL,Asia,1990,66.4
+Philippines,PHL,Asia,1991,66.8
+Philippines,PHL,Asia,1992,67.2
+Philippines,PHL,Asia,1993,67.6
+Philippines,PHL,Asia,1994,68
+Philippines,PHL,Asia,1995,68.2
+Philippines,PHL,Asia,1996,68.4
+Philippines,PHL,Asia,1997,68.6
+Philippines,PHL,Asia,1998,68.7
+Philippines,PHL,Asia,1999,68.7
+Philippines,PHL,Asia,2000,68.8
+Philippines,PHL,Asia,2001,68.8
+Philippines,PHL,Asia,2002,68.9
+Philippines,PHL,Asia,2003,68.9
+Philippines,PHL,Asia,2004,69
+Philippines,PHL,Asia,2005,69.1
+Philippines,PHL,Asia,2006,69.2
+Philippines,PHL,Asia,2007,69.4
+Philippines,PHL,Asia,2008,69.5
+Philippines,PHL,Asia,2009,69.7
+Philippines,PHL,Asia,2010,69.8
+Philippines,PHL,Asia,2011,70
+Philippines,PHL,Asia,2012,70.1
+Philippines,PHL,Asia,2013,70.3
+Philippines,PHL,Asia,2014,70.5
+Philippines,PHL,Asia,2015,70.6
+Philippines,PHL,Asia,2016,70.8
+Philippines,PHL,Asia,2017,71
+Philippines,PHL,Asia,2018,71.1
+Philippines,PHL,Asia,2019,71.2
+Poland,POL,Europe,1990,70.8
+Poland,POL,Europe,1991,70.9
+Poland,POL,Europe,1992,71.1
+Poland,POL,Europe,1993,71.3
+Poland,POL,Europe,1994,71.5
+Poland,POL,Europe,1995,71.8
+Poland,POL,Europe,1996,72.2
+Poland,POL,Europe,1997,72.5
+Poland,POL,Europe,1998,72.9
+Poland,POL,Europe,1999,73.3
+Poland,POL,Europe,2000,73.7
+Poland,POL,Europe,2001,74.1
+Poland,POL,Europe,2002,74.4
+Poland,POL,Europe,2003,74.6
+Poland,POL,Europe,2004,74.9
+Poland,POL,Europe,2005,75.1
+Poland,POL,Europe,2006,75.3
+Poland,POL,Europe,2007,75.5
+Poland,POL,Europe,2008,75.8
+Poland,POL,Europe,2009,76
+Poland,POL,Europe,2010,76.3
+Poland,POL,Europe,2011,76.6
+Poland,POL,Europe,2012,77
+Poland,POL,Europe,2013,77.3
+Poland,POL,Europe,2014,77.6
+Poland,POL,Europe,2015,77.9
+Poland,POL,Europe,2016,78.1
+Poland,POL,Europe,2017,78.3
+Poland,POL,Europe,2018,78.5
+Poland,POL,Europe,2019,78.7
+Portugal,PRT,Europe,1990,74.5
+Portugal,PRT,Europe,1991,74.7
+Portugal,PRT,Europe,1992,74.8
+Portugal,PRT,Europe,1993,75
+Portugal,PRT,Europe,1994,75.2
+Portugal,PRT,Europe,1995,75.4
+Portugal,PRT,Europe,1996,75.6
+Portugal,PRT,Europe,1997,75.9
+Portugal,PRT,Europe,1998,76.2
+Portugal,PRT,Europe,1999,76.4
+Portugal,PRT,Europe,2000,76.7
+Portugal,PRT,Europe,2001,77.1
+Portugal,PRT,Europe,2002,77.4
+Portugal,PRT,Europe,2003,77.8
+Portugal,PRT,Europe,2004,78.1
+Portugal,PRT,Europe,2005,78.5
+Portugal,PRT,Europe,2006,78.8
+Portugal,PRT,Europe,2007,79.1
+Portugal,PRT,Europe,2008,79.4
+Portugal,PRT,Europe,2009,79.7
+Portugal,PRT,Europe,2010,80
+Portugal,PRT,Europe,2011,80.3
+Portugal,PRT,Europe,2012,80.5
+Portugal,PRT,Europe,2013,80.8
+Portugal,PRT,Europe,2014,81
+Portugal,PRT,Europe,2015,81.2
+Portugal,PRT,Europe,2016,81.4
+Portugal,PRT,Europe,2017,81.7
+Portugal,PRT,Europe,2018,81.9
+Portugal,PRT,Europe,2019,82
+Qatar,QAT,Asia,1990,75.8
+Qatar,QAT,Asia,1991,76
+Qatar,QAT,Asia,1992,76.2
+Qatar,QAT,Asia,1993,76.4
+Qatar,QAT,Asia,1994,76.6
+Qatar,QAT,Asia,1995,76.8
+Qatar,QAT,Asia,1996,76.9
+Qatar,QAT,Asia,1997,77.1
+Qatar,QAT,Asia,1998,77.2
+Qatar,QAT,Asia,1999,77.3
+Qatar,QAT,Asia,2000,77.5
+Qatar,QAT,Asia,2001,77.6
+Qatar,QAT,Asia,2002,77.8
+Qatar,QAT,Asia,2003,77.9
+Qatar,QAT,Asia,2004,78.1
+Qatar,QAT,Asia,2005,78.3
+Qatar,QAT,Asia,2006,78.4
+Qatar,QAT,Asia,2007,78.6
+Qatar,QAT,Asia,2008,78.8
+Qatar,QAT,Asia,2009,78.9
+Qatar,QAT,Asia,2010,79.1
+Qatar,QAT,Asia,2011,79.3
+Qatar,QAT,Asia,2012,79.4
+Qatar,QAT,Asia,2013,79.5
+Qatar,QAT,Asia,2014,79.6
+Qatar,QAT,Asia,2015,79.8
+Qatar,QAT,Asia,2016,79.9
+Qatar,QAT,Asia,2017,80
+Qatar,QAT,Asia,2018,80.1
+Qatar,QAT,Asia,2019,80.2
+Romania,ROU,Europe,1990,69.5
+Romania,ROU,Europe,1991,69.5
+Romania,ROU,Europe,1992,69.5
+Romania,ROU,Europe,1993,69.5
+Romania,ROU,Europe,1994,69.5
+Romania,ROU,Europe,1995,69.5
+Romania,ROU,Europe,1996,69.6
+Romania,ROU,Europe,1997,69.7
+Romania,ROU,Europe,1998,69.9
+Romania,ROU,Europe,1999,70.2
+Romania,ROU,Europe,2000,70.5
+Romania,ROU,Europe,2001,70.8
+Romania,ROU,Europe,2002,71.2
+Romania,ROU,Europe,2003,71.6
+Romania,ROU,Europe,2004,71.9
+Romania,ROU,Europe,2005,72.3
+Romania,ROU,Europe,2006,72.6
+Romania,ROU,Europe,2007,73
+Romania,ROU,Europe,2008,73.3
+Romania,ROU,Europe,2009,73.7
+Romania,ROU,Europe,2010,74.1
+Romania,ROU,Europe,2011,74.4
+Romania,ROU,Europe,2012,74.7
+Romania,ROU,Europe,2013,75
+Romania,ROU,Europe,2014,75.3
+Romania,ROU,Europe,2015,75.5
+Romania,ROU,Europe,2016,75.6
+Romania,ROU,Europe,2017,75.8
+Romania,ROU,Europe,2018,75.9
+Romania,ROU,Europe,2019,76
+Russia,RUS,Europe,1990,68
+Russia,RUS,Europe,1991,67.6
+Russia,RUS,Europe,1992,67.1
+Russia,RUS,Europe,1993,66.6
+Russia,RUS,Europe,1994,66.3
+Russia,RUS,Europe,1995,66
+Russia,RUS,Europe,1996,65.8
+Russia,RUS,Europe,1997,65.6
+Russia,RUS,Europe,1998,65.4
+Russia,RUS,Europe,1999,65.2
+Russia,RUS,Europe,2000,65.1
+Russia,RUS,Europe,2001,65
+Russia,RUS,Europe,2002,65
+Russia,RUS,Europe,2003,65.1
+Russia,RUS,Europe,2004,65.4
+Russia,RUS,Europe,2005,65.8
+Russia,RUS,Europe,2006,66.2
+Russia,RUS,Europe,2007,66.8
+Russia,RUS,Europe,2008,67.4
+Russia,RUS,Europe,2009,68.1
+Russia,RUS,Europe,2010,68.7
+Russia,RUS,Europe,2011,69.3
+Russia,RUS,Europe,2012,69.9
+Russia,RUS,Europe,2013,70.5
+Russia,RUS,Europe,2014,71
+Russia,RUS,Europe,2015,71.5
+Russia,RUS,Europe,2016,71.8
+Russia,RUS,Europe,2017,72.1
+Russia,RUS,Europe,2018,72.4
+Russia,RUS,Europe,2019,72.6
+Rwanda,RWA,Africa,1990,33.4
+Rwanda,RWA,Africa,1991,29.2
+Rwanda,RWA,Africa,1992,26.7
+Rwanda,RWA,Africa,1993,26.2
+Rwanda,RWA,Africa,1994,27.7
+Rwanda,RWA,Africa,1995,31
+Rwanda,RWA,Africa,1996,35.4
+Rwanda,RWA,Africa,1997,39.8
+Rwanda,RWA,Africa,1998,43.7
+Rwanda,RWA,Africa,1999,46.6
+Rwanda,RWA,Africa,2000,48.6
+Rwanda,RWA,Africa,2001,49.9
+Rwanda,RWA,Africa,2002,51
+Rwanda,RWA,Africa,2003,52.2
+Rwanda,RWA,Africa,2004,53.6
+Rwanda,RWA,Africa,2005,55.3
+Rwanda,RWA,Africa,2006,57.1
+Rwanda,RWA,Africa,2007,58.9
+Rwanda,RWA,Africa,2008,60.6
+Rwanda,RWA,Africa,2009,62.1
+Rwanda,RWA,Africa,2010,63.4
+Rwanda,RWA,Africa,2011,64.5
+Rwanda,RWA,Africa,2012,65.4
+Rwanda,RWA,Africa,2013,66.2
+Rwanda,RWA,Africa,2014,66.9
+Rwanda,RWA,Africa,2015,67.5
+Rwanda,RWA,Africa,2016,67.9
+Rwanda,RWA,Africa,2017,68.3
+Rwanda,RWA,Africa,2018,68.7
+Rwanda,RWA,Africa,2019,69
+Saint Kitts and Nevis,KNA,Americas,1990,Not Available
+Saint Kitts and Nevis,KNA,Americas,1991,Not Available
+Saint Kitts and Nevis,KNA,Americas,1992,Not Available
+Saint Kitts and Nevis,KNA,Americas,1993,Not Available
+Saint Kitts and Nevis,KNA,Americas,1994,Not Available
+Saint Kitts and Nevis,KNA,Americas,1995,Not Available
+Saint Kitts and Nevis,KNA,Americas,1996,Not Available
+Saint Kitts and Nevis,KNA,Americas,1997,Not Available
+Saint Kitts and Nevis,KNA,Americas,1998,Not Available
+Saint Kitts and Nevis,KNA,Americas,1999,Not Available
+Saint Kitts and Nevis,KNA,Americas,2000,Not Available
+Saint Kitts and Nevis,KNA,Americas,2001,Not Available
+Saint Kitts and Nevis,KNA,Americas,2002,Not Available
+Saint Kitts and Nevis,KNA,Americas,2003,Not Available
+Saint Kitts and Nevis,KNA,Americas,2004,Not Available
+Saint Kitts and Nevis,KNA,Americas,2005,71.7
+Saint Kitts and Nevis,KNA,Americas,2006,72
+Saint Kitts and Nevis,KNA,Americas,2007,72.2
+Saint Kitts and Nevis,KNA,Americas,2008,72.4
+Saint Kitts and Nevis,KNA,Americas,2009,72.7
+Saint Kitts and Nevis,KNA,Americas,2010,72.9
+Saint Kitts and Nevis,KNA,Americas,2011,73.1
+Saint Kitts and Nevis,KNA,Americas,2012,73.3
+Saint Kitts and Nevis,KNA,Americas,2013,73.6
+Saint Kitts and Nevis,KNA,Americas,2014,73.8
+Saint Kitts and Nevis,KNA,Americas,2015,74
+Saint Kitts and Nevis,KNA,Americas,2016,74.2
+Saint Kitts and Nevis,KNA,Americas,2017,74.4
+Saint Kitts and Nevis,KNA,Americas,2018,74.6
+Saint Kitts and Nevis,KNA,Americas,2019,74.8
+Saint Lucia,LCA,Americas,1990,Not Available
+Saint Lucia,LCA,Americas,1991,Not Available
+Saint Lucia,LCA,Americas,1992,Not Available
+Saint Lucia,LCA,Americas,1993,Not Available
+Saint Lucia,LCA,Americas,1994,Not Available
+Saint Lucia,LCA,Americas,1995,Not Available
+Saint Lucia,LCA,Americas,1996,Not Available
+Saint Lucia,LCA,Americas,1997,Not Available
+Saint Lucia,LCA,Americas,1998,Not Available
+Saint Lucia,LCA,Americas,1999,Not Available
+Saint Lucia,LCA,Americas,2000,73.3
+Saint Lucia,LCA,Americas,2001,73.5
+Saint Lucia,LCA,Americas,2002,73.6
+Saint Lucia,LCA,Americas,2003,73.8
+Saint Lucia,LCA,Americas,2004,74
+Saint Lucia,LCA,Americas,2005,74.1
+Saint Lucia,LCA,Americas,2006,74.3
+Saint Lucia,LCA,Americas,2007,74.4
+Saint Lucia,LCA,Americas,2008,74.6
+Saint Lucia,LCA,Americas,2009,74.7
+Saint Lucia,LCA,Americas,2010,74.9
+Saint Lucia,LCA,Americas,2011,75
+Saint Lucia,LCA,Americas,2012,75.1
+Saint Lucia,LCA,Americas,2013,75.3
+Saint Lucia,LCA,Americas,2014,75.4
+Saint Lucia,LCA,Americas,2015,75.6
+Saint Lucia,LCA,Americas,2016,75.8
+Saint Lucia,LCA,Americas,2017,75.9
+Saint Lucia,LCA,Americas,2018,76.1
+Saint Lucia,LCA,Americas,2019,76.2
+Saint Vincent and the Grenadines,VCT,Americas,1990,Not Available
+Saint Vincent and the Grenadines,VCT,Americas,1991,Not Available
+Saint Vincent and the Grenadines,VCT,Americas,1992,Not Available
+Saint Vincent and the Grenadines,VCT,Americas,1993,Not Available
+Saint Vincent and the Grenadines,VCT,Americas,1994,Not Available
+Saint Vincent and the Grenadines,VCT,Americas,1995,Not Available
+Saint Vincent and the Grenadines,VCT,Americas,1996,Not Available
+Saint Vincent and the Grenadines,VCT,Americas,1997,Not Available
+Saint Vincent and the Grenadines,VCT,Americas,1998,Not Available
+Saint Vincent and the Grenadines,VCT,Americas,1999,Not Available
+Saint Vincent and the Grenadines,VCT,Americas,2000,70.8
+Saint Vincent and the Grenadines,VCT,Americas,2001,70.9
+Saint Vincent and the Grenadines,VCT,Americas,2002,71
+Saint Vincent and the Grenadines,VCT,Americas,2003,71.1
+Saint Vincent and the Grenadines,VCT,Americas,2004,71.2
+Saint Vincent and the Grenadines,VCT,Americas,2005,71.3
+Saint Vincent and the Grenadines,VCT,Americas,2006,71.4
+Saint Vincent and the Grenadines,VCT,Americas,2007,71.6
+Saint Vincent and the Grenadines,VCT,Americas,2008,71.6
+Saint Vincent and the Grenadines,VCT,Americas,2009,71.7
+Saint Vincent and the Grenadines,VCT,Americas,2010,71.8
+Saint Vincent and the Grenadines,VCT,Americas,2011,71.8
+Saint Vincent and the Grenadines,VCT,Americas,2012,71.9
+Saint Vincent and the Grenadines,VCT,Americas,2013,71.9
+Saint Vincent and the Grenadines,VCT,Americas,2014,72
+Saint Vincent and the Grenadines,VCT,Americas,2015,72.1
+Saint Vincent and the Grenadines,VCT,Americas,2016,72.2
+Saint Vincent and the Grenadines,VCT,Americas,2017,72.3
+Saint Vincent and the Grenadines,VCT,Americas,2018,72.4
+Saint Vincent and the Grenadines,VCT,Americas,2019,72.5
+Samoa,WSM,Oceania,1990,66.3
+Samoa,WSM,Oceania,1991,66.5
+Samoa,WSM,Oceania,1992,66.7
+Samoa,WSM,Oceania,1993,66.8
+Samoa,WSM,Oceania,1994,67
+Samoa,WSM,Oceania,1995,67.2
+Samoa,WSM,Oceania,1996,67.5
+Samoa,WSM,Oceania,1997,67.8
+Samoa,WSM,Oceania,1998,68.1
+Samoa,WSM,Oceania,1999,68.4
+Samoa,WSM,Oceania,2000,68.7
+Samoa,WSM,Oceania,2001,69.1
+Samoa,WSM,Oceania,2002,69.5
+Samoa,WSM,Oceania,2003,69.8
+Samoa,WSM,Oceania,2004,70.1
+Samoa,WSM,Oceania,2005,70.4
+Samoa,WSM,Oceania,2006,70.6
+Samoa,WSM,Oceania,2007,70.9
+Samoa,WSM,Oceania,2008,71.2
+Samoa,WSM,Oceania,2009,71.4
+Samoa,WSM,Oceania,2010,71.7
+Samoa,WSM,Oceania,2011,71.9
+Samoa,WSM,Oceania,2012,72.1
+Samoa,WSM,Oceania,2013,72.4
+Samoa,WSM,Oceania,2014,72.5
+Samoa,WSM,Oceania,2015,72.7
+Samoa,WSM,Oceania,2016,72.9
+Samoa,WSM,Oceania,2017,73
+Samoa,WSM,Oceania,2018,73.2
+Samoa,WSM,Oceania,2019,73.3
+Sao Tome & Principe,STP,Africa,1990,58.2
+Sao Tome & Principe,STP,Africa,1991,58.2
+Sao Tome & Principe,STP,Africa,1992,58.2
+Sao Tome & Principe,STP,Africa,1993,58.3
+Sao Tome & Principe,STP,Africa,1994,58.5
+Sao Tome & Principe,STP,Africa,1995,58.8
+Sao Tome & Principe,STP,Africa,1996,59.2
+Sao Tome & Principe,STP,Africa,1997,59.6
+Sao Tome & Principe,STP,Africa,1998,60.2
+Sao Tome & Principe,STP,Africa,1999,60.7
+Sao Tome & Principe,STP,Africa,2000,61.4
+Sao Tome & Principe,STP,Africa,2001,62
+Sao Tome & Principe,STP,Africa,2002,62.7
+Sao Tome & Principe,STP,Africa,2003,63.4
+Sao Tome & Principe,STP,Africa,2004,64
+Sao Tome & Principe,STP,Africa,2005,64.7
+Sao Tome & Principe,STP,Africa,2006,65.3
+Sao Tome & Principe,STP,Africa,2007,65.9
+Sao Tome & Principe,STP,Africa,2008,66.4
+Sao Tome & Principe,STP,Africa,2009,66.9
+Sao Tome & Principe,STP,Africa,2010,67.4
+Sao Tome & Principe,STP,Africa,2011,67.9
+Sao Tome & Principe,STP,Africa,2012,68.3
+Sao Tome & Principe,STP,Africa,2013,68.7
+Sao Tome & Principe,STP,Africa,2014,69.1
+Sao Tome & Principe,STP,Africa,2015,69.4
+Sao Tome & Principe,STP,Africa,2016,69.7
+Sao Tome & Principe,STP,Africa,2017,69.9
+Sao Tome & Principe,STP,Africa,2018,70.2
+Sao Tome & Principe,STP,Africa,2019,70.4
+Saudi Arabia,SAU,Asia,1990,69.1
+Saudi Arabia,SAU,Asia,1991,69.5
+Saudi Arabia,SAU,Asia,1992,69.9
+Saudi Arabia,SAU,Asia,1993,70.3
+Saudi Arabia,SAU,Asia,1994,70.7
+Saudi Arabia,SAU,Asia,1995,71.1
+Saudi Arabia,SAU,Asia,1996,71.4
+Saudi Arabia,SAU,Asia,1997,71.8
+Saudi Arabia,SAU,Asia,1998,72.1
+Saudi Arabia,SAU,Asia,1999,72.3
+Saudi Arabia,SAU,Asia,2000,72.6
+Saudi Arabia,SAU,Asia,2001,72.8
+Saudi Arabia,SAU,Asia,2002,72.9
+Saudi Arabia,SAU,Asia,2003,73.1
+Saudi Arabia,SAU,Asia,2004,73.2
+Saudi Arabia,SAU,Asia,2005,73.3
+Saudi Arabia,SAU,Asia,2006,73.4
+Saudi Arabia,SAU,Asia,2007,73.5
+Saudi Arabia,SAU,Asia,2008,73.6
+Saudi Arabia,SAU,Asia,2009,73.8
+Saudi Arabia,SAU,Asia,2010,73.9
+Saudi Arabia,SAU,Asia,2011,74.1
+Saudi Arabia,SAU,Asia,2012,74.3
+Saudi Arabia,SAU,Asia,2013,74.4
+Saudi Arabia,SAU,Asia,2014,74.5
+Saudi Arabia,SAU,Asia,2015,74.7
+Saudi Arabia,SAU,Asia,2016,74.8
+Saudi Arabia,SAU,Asia,2017,74.9
+Saudi Arabia,SAU,Asia,2018,75
+Saudi Arabia,SAU,Asia,2019,75.1
+Senegal,SEN,Africa,1990,57.2
+Senegal,SEN,Africa,1991,57.4
+Senegal,SEN,Africa,1992,57.5
+Senegal,SEN,Africa,1993,57.5
+Senegal,SEN,Africa,1994,57.5
+Senegal,SEN,Africa,1995,57.4
+Senegal,SEN,Africa,1996,57.3
+Senegal,SEN,Africa,1997,57.3
+Senegal,SEN,Africa,1998,57.4
+Senegal,SEN,Africa,1999,57.5
+Senegal,SEN,Africa,2000,57.8
+Senegal,SEN,Africa,2001,58.2
+Senegal,SEN,Africa,2002,58.7
+Senegal,SEN,Africa,2003,59.3
+Senegal,SEN,Africa,2004,59.9
+Senegal,SEN,Africa,2005,60.6
+Senegal,SEN,Africa,2006,61.4
+Senegal,SEN,Africa,2007,62.1
+Senegal,SEN,Africa,2008,62.9
+Senegal,SEN,Africa,2009,63.6
+Senegal,SEN,Africa,2010,64.3
+Senegal,SEN,Africa,2011,64.9
+Senegal,SEN,Africa,2012,65.4
+Senegal,SEN,Africa,2013,65.9
+Senegal,SEN,Africa,2014,66.4
+Senegal,SEN,Africa,2015,66.7
+Senegal,SEN,Africa,2016,67.1
+Senegal,SEN,Africa,2017,67.4
+Senegal,SEN,Africa,2018,67.7
+Senegal,SEN,Africa,2019,67.9
+Serbia,SRB,Europe,1990,71.5
+Serbia,SRB,Europe,1991,71.6
+Serbia,SRB,Europe,1992,71.7
+Serbia,SRB,Europe,1993,71.8
+Serbia,SRB,Europe,1994,71.8
+Serbia,SRB,Europe,1995,71.8
+Serbia,SRB,Europe,1996,71.9
+Serbia,SRB,Europe,1997,71.9
+Serbia,SRB,Europe,1998,71.9
+Serbia,SRB,Europe,1999,72
+Serbia,SRB,Europe,2000,72
+Serbia,SRB,Europe,2001,72.1
+Serbia,SRB,Europe,2002,72.3
+Serbia,SRB,Europe,2003,72.4
+Serbia,SRB,Europe,2004,72.6
+Serbia,SRB,Europe,2005,72.8
+Serbia,SRB,Europe,2006,73
+Serbia,SRB,Europe,2007,73.3
+Serbia,SRB,Europe,2008,73.6
+Serbia,SRB,Europe,2009,73.8
+Serbia,SRB,Europe,2010,74.1
+Serbia,SRB,Europe,2011,74.4
+Serbia,SRB,Europe,2012,74.6
+Serbia,SRB,Europe,2013,74.9
+Serbia,SRB,Europe,2014,75.1
+Serbia,SRB,Europe,2015,75.3
+Serbia,SRB,Europe,2016,75.5
+Serbia,SRB,Europe,2017,75.7
+Serbia,SRB,Europe,2018,75.8
+Serbia,SRB,Europe,2019,76
+Sierra Leone,SLE,Africa,1990,38.6
+Sierra Leone,SLE,Africa,1991,38.1
+Sierra Leone,SLE,Africa,1992,37.7
+Sierra Leone,SLE,Africa,1993,37.4
+Sierra Leone,SLE,Africa,1994,37.2
+Sierra Leone,SLE,Africa,1995,37.1
+Sierra Leone,SLE,Africa,1996,37.2
+Sierra Leone,SLE,Africa,1997,37.5
+Sierra Leone,SLE,Africa,1998,38
+Sierra Leone,SLE,Africa,1999,38.6
+Sierra Leone,SLE,Africa,2000,39.4
+Sierra Leone,SLE,Africa,2001,40.4
+Sierra Leone,SLE,Africa,2002,41.4
+Sierra Leone,SLE,Africa,2003,42.4
+Sierra Leone,SLE,Africa,2004,43.5
+Sierra Leone,SLE,Africa,2005,44.5
+Sierra Leone,SLE,Africa,2006,45.5
+Sierra Leone,SLE,Africa,2007,46.5
+Sierra Leone,SLE,Africa,2008,47.5
+Sierra Leone,SLE,Africa,2009,48.5
+Sierra Leone,SLE,Africa,2010,49.4
+Sierra Leone,SLE,Africa,2011,50.2
+Sierra Leone,SLE,Africa,2012,51
+Sierra Leone,SLE,Africa,2013,51.7
+Sierra Leone,SLE,Africa,2014,52.4
+Sierra Leone,SLE,Africa,2015,52.9
+Sierra Leone,SLE,Africa,2016,53.4
+Sierra Leone,SLE,Africa,2017,53.9
+Sierra Leone,SLE,Africa,2018,54.3
+Sierra Leone,SLE,Africa,2019,54.7
+Singapore,SGP,Asia,1990,75.9
+Singapore,SGP,Asia,1991,76.2
+Singapore,SGP,Asia,1992,76.5
+Singapore,SGP,Asia,1993,76.6
+Singapore,SGP,Asia,1994,76.7
+Singapore,SGP,Asia,1995,76.8
+Singapore,SGP,Asia,1996,76.9
+Singapore,SGP,Asia,1997,77.1
+Singapore,SGP,Asia,1998,77.3
+Singapore,SGP,Asia,1999,77.6
+Singapore,SGP,Asia,2000,78
+Singapore,SGP,Asia,2001,78.4
+Singapore,SGP,Asia,2002,78.9
+Singapore,SGP,Asia,2003,79.4
+Singapore,SGP,Asia,2004,79.8
+Singapore,SGP,Asia,2005,80.3
+Singapore,SGP,Asia,2006,80.7
+Singapore,SGP,Asia,2007,81
+Singapore,SGP,Asia,2008,81.3
+Singapore,SGP,Asia,2009,81.6
+Singapore,SGP,Asia,2010,81.8
+Singapore,SGP,Asia,2011,82
+Singapore,SGP,Asia,2012,82.3
+Singapore,SGP,Asia,2013,82.5
+Singapore,SGP,Asia,2014,82.7
+Singapore,SGP,Asia,2015,82.9
+Singapore,SGP,Asia,2016,83.1
+Singapore,SGP,Asia,2017,83.3
+Singapore,SGP,Asia,2018,83.5
+Singapore,SGP,Asia,2019,83.6
+Slovakia,SVK,Europe,1990,71.2
+Slovakia,SVK,Europe,1991,71.4
+Slovakia,SVK,Europe,1992,71.5
+Slovakia,SVK,Europe,1993,71.7
+Slovakia,SVK,Europe,1994,71.9
+Slovakia,SVK,Europe,1995,72.1
+Slovakia,SVK,Europe,1996,72.4
+Slovakia,SVK,Europe,1997,72.6
+Slovakia,SVK,Europe,1998,72.8
+Slovakia,SVK,Europe,1999,73.1
+Slovakia,SVK,Europe,2000,73.3
+Slovakia,SVK,Europe,2001,73.5
+Slovakia,SVK,Europe,2002,73.7
+Slovakia,SVK,Europe,2003,73.9
+Slovakia,SVK,Europe,2004,74.1
+Slovakia,SVK,Europe,2005,74.3
+Slovakia,SVK,Europe,2006,74.5
+Slovakia,SVK,Europe,2007,74.7
+Slovakia,SVK,Europe,2008,74.9
+Slovakia,SVK,Europe,2009,75.2
+Slovakia,SVK,Europe,2010,75.5
+Slovakia,SVK,Europe,2011,75.8
+Slovakia,SVK,Europe,2012,76.1
+Slovakia,SVK,Europe,2013,76.3
+Slovakia,SVK,Europe,2014,76.6
+Slovakia,SVK,Europe,2015,76.8
+Slovakia,SVK,Europe,2016,77
+Slovakia,SVK,Europe,2017,77.2
+Slovakia,SVK,Europe,2018,77.4
+Slovakia,SVK,Europe,2019,77.5
+Slovenia,SVN,Europe,1990,73.2
+Slovenia,SVN,Europe,1991,73.4
+Slovenia,SVN,Europe,1992,73.7
+Slovenia,SVN,Europe,1993,73.9
+Slovenia,SVN,Europe,1994,74.2
+Slovenia,SVN,Europe,1995,74.5
+Slovenia,SVN,Europe,1996,74.8
+Slovenia,SVN,Europe,1997,75.1
+Slovenia,SVN,Europe,1998,75.4
+Slovenia,SVN,Europe,1999,75.6
+Slovenia,SVN,Europe,2000,75.9
+Slovenia,SVN,Europe,2001,76.2
+Slovenia,SVN,Europe,2002,76.5
+Slovenia,SVN,Europe,2003,76.9
+Slovenia,SVN,Europe,2004,77.2
+Slovenia,SVN,Europe,2005,77.6
+Slovenia,SVN,Europe,2006,78
+Slovenia,SVN,Europe,2007,78.4
+Slovenia,SVN,Europe,2008,78.7
+Slovenia,SVN,Europe,2009,79.1
+Slovenia,SVN,Europe,2010,79.4
+Slovenia,SVN,Europe,2011,79.7
+Slovenia,SVN,Europe,2012,80
+Slovenia,SVN,Europe,2013,80.3
+Slovenia,SVN,Europe,2014,80.5
+Slovenia,SVN,Europe,2015,80.7
+Slovenia,SVN,Europe,2016,80.9
+Slovenia,SVN,Europe,2017,81
+Slovenia,SVN,Europe,2018,81.2
+Slovenia,SVN,Europe,2019,81.3
+Solomon Islands,SLB,Oceania,1990,Not Available
+Solomon Islands,SLB,Oceania,1991,Not Available
+Solomon Islands,SLB,Oceania,1992,Not Available
+Solomon Islands,SLB,Oceania,1993,Not Available
+Solomon Islands,SLB,Oceania,1994,Not Available
+Solomon Islands,SLB,Oceania,1995,Not Available
+Solomon Islands,SLB,Oceania,1996,Not Available
+Solomon Islands,SLB,Oceania,1997,Not Available
+Solomon Islands,SLB,Oceania,1998,Not Available
+Solomon Islands,SLB,Oceania,1999,67.1
+Solomon Islands,SLB,Oceania,2000,67.4
+Solomon Islands,SLB,Oceania,2001,67.8
+Solomon Islands,SLB,Oceania,2002,68.2
+Solomon Islands,SLB,Oceania,2003,68.5
+Solomon Islands,SLB,Oceania,2004,68.8
+Solomon Islands,SLB,Oceania,2005,69.2
+Solomon Islands,SLB,Oceania,2006,69.5
+Solomon Islands,SLB,Oceania,2007,69.8
+Solomon Islands,SLB,Oceania,2008,70.1
+Solomon Islands,SLB,Oceania,2009,70.4
+Solomon Islands,SLB,Oceania,2010,70.7
+Solomon Islands,SLB,Oceania,2011,71
+Solomon Islands,SLB,Oceania,2012,71.3
+Solomon Islands,SLB,Oceania,2013,71.6
+Solomon Islands,SLB,Oceania,2014,71.9
+Solomon Islands,SLB,Oceania,2015,72.2
+Solomon Islands,SLB,Oceania,2016,72.4
+Solomon Islands,SLB,Oceania,2017,72.6
+Solomon Islands,SLB,Oceania,2018,72.8
+Solomon Islands,SLB,Oceania,2019,73
+Somalia,SOM,Africa,1990,Not Available
+Somalia,SOM,Africa,1991,Not Available
+Somalia,SOM,Africa,1992,Not Available
+Somalia,SOM,Africa,1993,Not Available
+Somalia,SOM,Africa,1994,Not Available
+Somalia,SOM,Africa,1995,Not Available
+Somalia,SOM,Africa,1996,Not Available
+Somalia,SOM,Africa,1997,Not Available
+Somalia,SOM,Africa,1998,Not Available
+Somalia,SOM,Africa,1999,Not Available
+Somalia,SOM,Africa,2000,Not Available
+Somalia,SOM,Africa,2001,Not Available
+Somalia,SOM,Africa,2002,Not Available
+Somalia,SOM,Africa,2003,Not Available
+Somalia,SOM,Africa,2004,Not Available
+Somalia,SOM,Africa,2005,Not Available
+Somalia,SOM,Africa,2006,53.3
+Somalia,SOM,Africa,2007,52.9
+Somalia,SOM,Africa,2008,52.4
+Somalia,SOM,Africa,2009,52
+Somalia,SOM,Africa,2010,51.7
+Somalia,SOM,Africa,2011,51.1
+Somalia,SOM,Africa,2012,50.7
+Somalia,SOM,Africa,2013,51
+Somalia,SOM,Africa,2014,51.6
+Somalia,SOM,Africa,2015,52.4
+Somalia,SOM,Africa,2016,52.9
+Somalia,SOM,Africa,2017,53.4
+Somalia,SOM,Africa,2018,53.9
+Somalia,SOM,Africa,2019,54.4
+South Africa,ZAF,Africa,1990,63.3
+South Africa,ZAF,Africa,1991,63.4
+South Africa,ZAF,Africa,1992,63.2
+South Africa,ZAF,Africa,1993,62.9
+South Africa,ZAF,Africa,1994,62.3
+South Africa,ZAF,Africa,1995,61.6
+South Africa,ZAF,Africa,1996,60.6
+South Africa,ZAF,Africa,1997,59.5
+South Africa,ZAF,Africa,1998,58.3
+South Africa,ZAF,Africa,1999,57.1
+South Africa,ZAF,Africa,2000,56
+South Africa,ZAF,Africa,2001,55.1
+South Africa,ZAF,Africa,2002,54.3
+South Africa,ZAF,Africa,2003,53.7
+South Africa,ZAF,Africa,2004,53.4
+South Africa,ZAF,Africa,2005,53.4
+South Africa,ZAF,Africa,2006,53.8
+South Africa,ZAF,Africa,2007,54.5
+South Africa,ZAF,Africa,2008,55.4
+South Africa,ZAF,Africa,2009,56.5
+South Africa,ZAF,Africa,2010,57.7
+South Africa,ZAF,Africa,2011,58.9
+South Africa,ZAF,Africa,2012,60.1
+South Africa,ZAF,Africa,2013,61.1
+South Africa,ZAF,Africa,2014,62
+South Africa,ZAF,Africa,2015,62.6
+South Africa,ZAF,Africa,2016,63.2
+South Africa,ZAF,Africa,2017,63.5
+South Africa,ZAF,Africa,2018,63.9
+South Africa,ZAF,Africa,2019,64.1
+South Korea,KOR,Asia,1990,71.7
+South Korea,KOR,Asia,1991,72.1
+South Korea,KOR,Asia,1992,72.6
+South Korea,KOR,Asia,1993,73.1
+South Korea,KOR,Asia,1994,73.5
+South Korea,KOR,Asia,1995,73.9
+South Korea,KOR,Asia,1996,74.3
+South Korea,KOR,Asia,1997,74.8
+South Korea,KOR,Asia,1998,75.2
+South Korea,KOR,Asia,1999,75.6
+South Korea,KOR,Asia,2000,76
+South Korea,KOR,Asia,2001,76.5
+South Korea,KOR,Asia,2002,77
+South Korea,KOR,Asia,2003,77.4
+South Korea,KOR,Asia,2004,77.9
+South Korea,KOR,Asia,2005,78.4
+South Korea,KOR,Asia,2006,78.8
+South Korea,KOR,Asia,2007,79.2
+South Korea,KOR,Asia,2008,79.7
+South Korea,KOR,Asia,2009,80.1
+South Korea,KOR,Asia,2010,80.4
+South Korea,KOR,Asia,2011,80.8
+South Korea,KOR,Asia,2012,81.1
+South Korea,KOR,Asia,2013,81.5
+South Korea,KOR,Asia,2014,81.8
+South Korea,KOR,Asia,2015,82.1
+South Korea,KOR,Asia,2016,82.4
+South Korea,KOR,Asia,2017,82.6
+South Korea,KOR,Asia,2018,82.8
+South Korea,KOR,Asia,2019,83
+South Sudan,SSD,Africa,1990,Not Available
+South Sudan,SSD,Africa,1991,Not Available
+South Sudan,SSD,Africa,1992,Not Available
+South Sudan,SSD,Africa,1993,Not Available
+South Sudan,SSD,Africa,1994,Not Available
+South Sudan,SSD,Africa,1995,Not Available
+South Sudan,SSD,Africa,1996,Not Available
+South Sudan,SSD,Africa,1997,Not Available
+South Sudan,SSD,Africa,1998,Not Available
+South Sudan,SSD,Africa,1999,Not Available
+South Sudan,SSD,Africa,2000,Not Available
+South Sudan,SSD,Africa,2001,Not Available
+South Sudan,SSD,Africa,2002,Not Available
+South Sudan,SSD,Africa,2003,Not Available
+South Sudan,SSD,Africa,2004,Not Available
+South Sudan,SSD,Africa,2005,Not Available
+South Sudan,SSD,Africa,2006,Not Available
+South Sudan,SSD,Africa,2007,Not Available
+South Sudan,SSD,Africa,2008,Not Available
+South Sudan,SSD,Africa,2009,Not Available
+South Sudan,SSD,Africa,2010,54.8
+South Sudan,SSD,Africa,2011,55.3
+South Sudan,SSD,Africa,2012,55.8
+South Sudan,SSD,Africa,2013,56.2
+South Sudan,SSD,Africa,2014,56.6
+South Sudan,SSD,Africa,2015,56.9
+South Sudan,SSD,Africa,2016,57.1
+South Sudan,SSD,Africa,2017,57.4
+South Sudan,SSD,Africa,2018,57.6
+South Sudan,SSD,Africa,2019,57.9
+Spain,ESP,Europe,1990,77.2
+Spain,ESP,Europe,1991,77.4
+Spain,ESP,Europe,1992,77.6
+Spain,ESP,Europe,1993,77.7
+Spain,ESP,Europe,1994,78
+Spain,ESP,Europe,1995,78.2
+Spain,ESP,Europe,1996,78.4
+Spain,ESP,Europe,1997,78.6
+Spain,ESP,Europe,1998,78.9
+Spain,ESP,Europe,1999,79.1
+Spain,ESP,Europe,2000,79.3
+Spain,ESP,Europe,2001,79.6
+Spain,ESP,Europe,2002,79.8
+Spain,ESP,Europe,2003,80
+Spain,ESP,Europe,2004,80.3
+Spain,ESP,Europe,2005,80.6
+Spain,ESP,Europe,2006,80.8
+Spain,ESP,Europe,2007,81.1
+Spain,ESP,Europe,2008,81.4
+Spain,ESP,Europe,2009,81.6
+Spain,ESP,Europe,2010,81.9
+Spain,ESP,Europe,2011,82.1
+Spain,ESP,Europe,2012,82.4
+Spain,ESP,Europe,2013,82.6
+Spain,ESP,Europe,2014,82.8
+Spain,ESP,Europe,2015,83
+Spain,ESP,Europe,2016,83.1
+Spain,ESP,Europe,2017,83.3
+Spain,ESP,Europe,2018,83.4
+Spain,ESP,Europe,2019,83.6
+Sri Lanka,LKA,Asia,1990,69.5
+Sri Lanka,LKA,Asia,1991,69.6
+Sri Lanka,LKA,Asia,1992,69.6
+Sri Lanka,LKA,Asia,1993,69.6
+Sri Lanka,LKA,Asia,1994,69.4
+Sri Lanka,LKA,Asia,1995,69.3
+Sri Lanka,LKA,Asia,1996,69.2
+Sri Lanka,LKA,Asia,1997,69.4
+Sri Lanka,LKA,Asia,1998,69.8
+Sri Lanka,LKA,Asia,1999,70.5
+Sri Lanka,LKA,Asia,2000,71.3
+Sri Lanka,LKA,Asia,2001,72.2
+Sri Lanka,LKA,Asia,2002,73.1
+Sri Lanka,LKA,Asia,2003,73.8
+Sri Lanka,LKA,Asia,2004,74.3
+Sri Lanka,LKA,Asia,2005,74.7
+Sri Lanka,LKA,Asia,2006,74.9
+Sri Lanka,LKA,Asia,2007,75
+Sri Lanka,LKA,Asia,2008,75.2
+Sri Lanka,LKA,Asia,2009,75.3
+Sri Lanka,LKA,Asia,2010,75.4
+Sri Lanka,LKA,Asia,2011,75.6
+Sri Lanka,LKA,Asia,2012,75.8
+Sri Lanka,LKA,Asia,2013,76
+Sri Lanka,LKA,Asia,2014,76.1
+Sri Lanka,LKA,Asia,2015,76.3
+Sri Lanka,LKA,Asia,2016,76.5
+Sri Lanka,LKA,Asia,2017,76.6
+Sri Lanka,LKA,Asia,2018,76.8
+Sri Lanka,LKA,Asia,2019,77
+Sudan,SDN,Africa,1990,55.5
+Sudan,SDN,Africa,1991,55.7
+Sudan,SDN,Africa,1992,55.9
+Sudan,SDN,Africa,1993,56.1
+Sudan,SDN,Africa,1994,56.4
+Sudan,SDN,Africa,1995,56.7
+Sudan,SDN,Africa,1996,57
+Sudan,SDN,Africa,1997,57.4
+Sudan,SDN,Africa,1998,57.7
+Sudan,SDN,Africa,1999,58.1
+Sudan,SDN,Africa,2000,58.5
+Sudan,SDN,Africa,2001,58.9
+Sudan,SDN,Africa,2002,59.3
+Sudan,SDN,Africa,2003,59.7
+Sudan,SDN,Africa,2004,60.1
+Sudan,SDN,Africa,2005,60.5
+Sudan,SDN,Africa,2006,61
+Sudan,SDN,Africa,2007,61.4
+Sudan,SDN,Africa,2008,61.9
+Sudan,SDN,Africa,2009,62.3
+Sudan,SDN,Africa,2010,62.8
+Sudan,SDN,Africa,2011,63.2
+Sudan,SDN,Africa,2012,63.5
+Sudan,SDN,Africa,2013,63.9
+Sudan,SDN,Africa,2014,64.2
+Sudan,SDN,Africa,2015,64.4
+Sudan,SDN,Africa,2016,64.7
+Sudan,SDN,Africa,2017,64.9
+Sudan,SDN,Africa,2018,65.1
+Sudan,SDN,Africa,2019,65.3
+Suriname,SUR,Americas,1990,Not Available
+Suriname,SUR,Americas,1991,Not Available
+Suriname,SUR,Americas,1992,Not Available
+Suriname,SUR,Americas,1993,Not Available
+Suriname,SUR,Americas,1994,Not Available
+Suriname,SUR,Americas,1995,Not Available
+Suriname,SUR,Americas,1996,Not Available
+Suriname,SUR,Americas,1997,Not Available
+Suriname,SUR,Americas,1998,Not Available
+Suriname,SUR,Americas,1999,Not Available
+Suriname,SUR,Americas,2000,Not Available
+Suriname,SUR,Americas,2001,Not Available
+Suriname,SUR,Americas,2002,Not Available
+Suriname,SUR,Americas,2003,Not Available
+Suriname,SUR,Americas,2004,68.6
+Suriname,SUR,Americas,2005,68.9
+Suriname,SUR,Americas,2006,69.2
+Suriname,SUR,Americas,2007,69.6
+Suriname,SUR,Americas,2008,69.9
+Suriname,SUR,Americas,2009,70.2
+Suriname,SUR,Americas,2010,70.5
+Suriname,SUR,Americas,2011,70.7
+Suriname,SUR,Americas,2012,70.9
+Suriname,SUR,Americas,2013,71
+Suriname,SUR,Americas,2014,71.1
+Suriname,SUR,Americas,2015,71.2
+Suriname,SUR,Americas,2016,71.4
+Suriname,SUR,Americas,2017,71.5
+Suriname,SUR,Americas,2018,71.6
+Suriname,SUR,Americas,2019,71.7
+Sweden,SWE,Europe,1990,77.6
+Sweden,SWE,Europe,1991,77.8
+Sweden,SWE,Europe,1992,78.1
+Sweden,SWE,Europe,1993,78.3
+Sweden,SWE,Europe,1994,78.5
+Sweden,SWE,Europe,1995,78.7
+Sweden,SWE,Europe,1996,79
+Sweden,SWE,Europe,1997,79.2
+Sweden,SWE,Europe,1998,79.4
+Sweden,SWE,Europe,1999,79.6
+Sweden,SWE,Europe,2000,79.7
+Sweden,SWE,Europe,2001,79.9
+Sweden,SWE,Europe,2002,80.1
+Sweden,SWE,Europe,2003,80.2
+Sweden,SWE,Europe,2004,80.4
+Sweden,SWE,Europe,2005,80.6
+Sweden,SWE,Europe,2006,80.8
+Sweden,SWE,Europe,2007,81
+Sweden,SWE,Europe,2008,81.2
+Sweden,SWE,Europe,2009,81.3
+Sweden,SWE,Europe,2010,81.5
+Sweden,SWE,Europe,2011,81.7
+Sweden,SWE,Europe,2012,81.8
+Sweden,SWE,Europe,2013,82
+Sweden,SWE,Europe,2014,82.1
+Sweden,SWE,Europe,2015,82.3
+Sweden,SWE,Europe,2016,82.4
+Sweden,SWE,Europe,2017,82.5
+Sweden,SWE,Europe,2018,82.7
+Sweden,SWE,Europe,2019,82.8
+Switzerland,CHE,Europe,1990,77.6
+Switzerland,CHE,Europe,1991,77.7
+Switzerland,CHE,Europe,1992,77.9
+Switzerland,CHE,Europe,1993,78.1
+Switzerland,CHE,Europe,1994,78.3
+Switzerland,CHE,Europe,1995,78.5
+Switzerland,CHE,Europe,1996,78.8
+Switzerland,CHE,Europe,1997,79.1
+Switzerland,CHE,Europe,1998,79.3
+Switzerland,CHE,Europe,1999,79.6
+Switzerland,CHE,Europe,2000,79.9
+Switzerland,CHE,Europe,2001,80.1
+Switzerland,CHE,Europe,2002,80.4
+Switzerland,CHE,Europe,2003,80.6
+Switzerland,CHE,Europe,2004,80.9
+Switzerland,CHE,Europe,2005,81.2
+Switzerland,CHE,Europe,2006,81.4
+Switzerland,CHE,Europe,2007,81.7
+Switzerland,CHE,Europe,2008,81.9
+Switzerland,CHE,Europe,2009,82.1
+Switzerland,CHE,Europe,2010,82.3
+Switzerland,CHE,Europe,2011,82.5
+Switzerland,CHE,Europe,2012,82.6
+Switzerland,CHE,Europe,2013,82.8
+Switzerland,CHE,Europe,2014,83
+Switzerland,CHE,Europe,2015,83.1
+Switzerland,CHE,Europe,2016,83.3
+Switzerland,CHE,Europe,2017,83.5
+Switzerland,CHE,Europe,2018,83.6
+Switzerland,CHE,Europe,2019,83.8
+Syria,SYR,Asia,1990,70.6
+Syria,SYR,Asia,1991,70.9
+Syria,SYR,Asia,1992,71.2
+Syria,SYR,Asia,1993,71.4
+Syria,SYR,Asia,1994,71.7
+Syria,SYR,Asia,1995,72
+Syria,SYR,Asia,1996,72.2
+Syria,SYR,Asia,1997,72.4
+Syria,SYR,Asia,1998,72.7
+Syria,SYR,Asia,1999,72.9
+Syria,SYR,Asia,2000,73.1
+Syria,SYR,Asia,2001,73.4
+Syria,SYR,Asia,2002,73.7
+Syria,SYR,Asia,2003,74
+Syria,SYR,Asia,2004,74.3
+Syria,SYR,Asia,2005,74.4
+Syria,SYR,Asia,2006,74.4
+Syria,SYR,Asia,2007,74.2
+Syria,SYR,Asia,2008,73.6
+Syria,SYR,Asia,2009,72.9
+Syria,SYR,Asia,2010,72.1
+Syria,SYR,Asia,2011,71.3
+Syria,SYR,Asia,2012,Not Available
+Syria,SYR,Asia,2013,Not Available
+Syria,SYR,Asia,2014,Not Available
+Syria,SYR,Asia,2015,Not Available
+Syria,SYR,Asia,2016,Not Available
+Syria,SYR,Asia,2017,Not Available
+Syria,SYR,Asia,2018,Not Available
+Syria,SYR,Asia,2019,Not Available
+Tajikistan,TJK,Asia,1990,58.8
+Tajikistan,TJK,Asia,1991,58.5
+Tajikistan,TJK,Asia,1992,58.2
+Tajikistan,TJK,Asia,1993,58.1
+Tajikistan,TJK,Asia,1994,58.2
+Tajikistan,TJK,Asia,1995,58.5
+Tajikistan,TJK,Asia,1996,59
+Tajikistan,TJK,Asia,1997,59.6
+Tajikistan,TJK,Asia,1998,60.4
+Tajikistan,TJK,Asia,1999,61.2
+Tajikistan,TJK,Asia,2000,62
+Tajikistan,TJK,Asia,2001,62.8
+Tajikistan,TJK,Asia,2002,63.7
+Tajikistan,TJK,Asia,2003,64.5
+Tajikistan,TJK,Asia,2004,65.3
+Tajikistan,TJK,Asia,2005,66.1
+Tajikistan,TJK,Asia,2006,66.8
+Tajikistan,TJK,Asia,2007,67.4
+Tajikistan,TJK,Asia,2008,67.9
+Tajikistan,TJK,Asia,2009,68.4
+Tajikistan,TJK,Asia,2010,68.7
+Tajikistan,TJK,Asia,2011,69.1
+Tajikistan,TJK,Asia,2012,69.3
+Tajikistan,TJK,Asia,2013,69.6
+Tajikistan,TJK,Asia,2014,69.9
+Tajikistan,TJK,Asia,2015,70.1
+Tajikistan,TJK,Asia,2016,70.4
+Tajikistan,TJK,Asia,2017,70.6
+Tajikistan,TJK,Asia,2018,70.9
+Tajikistan,TJK,Asia,2019,71.1
+Tanzania,TZA,Africa,1990,50.2
+Tanzania,TZA,Africa,1991,50
+Tanzania,TZA,Africa,1992,49.7
+Tanzania,TZA,Africa,1993,49.5
+Tanzania,TZA,Africa,1994,49.4
+Tanzania,TZA,Africa,1995,49.3
+Tanzania,TZA,Africa,1996,49.3
+Tanzania,TZA,Africa,1997,49.5
+Tanzania,TZA,Africa,1998,49.8
+Tanzania,TZA,Africa,1999,50.2
+Tanzania,TZA,Africa,2000,50.8
+Tanzania,TZA,Africa,2001,51.4
+Tanzania,TZA,Africa,2002,52.1
+Tanzania,TZA,Africa,2003,52.9
+Tanzania,TZA,Africa,2004,53.6
+Tanzania,TZA,Africa,2005,54.3
+Tanzania,TZA,Africa,2006,55.1
+Tanzania,TZA,Africa,2007,55.9
+Tanzania,TZA,Africa,2008,56.8
+Tanzania,TZA,Africa,2009,57.7
+Tanzania,TZA,Africa,2010,58.6
+Tanzania,TZA,Africa,2011,59.5
+Tanzania,TZA,Africa,2012,60.5
+Tanzania,TZA,Africa,2013,61.4
+Tanzania,TZA,Africa,2014,62.3
+Tanzania,TZA,Africa,2015,63.1
+Tanzania,TZA,Africa,2016,63.8
+Tanzania,TZA,Africa,2017,64.5
+Tanzania,TZA,Africa,2018,65
+Tanzania,TZA,Africa,2019,65.5
+Thailand,THA,Asia,1990,70.2
+Thailand,THA,Asia,1991,70.3
+Thailand,THA,Asia,1992,70.3
+Thailand,THA,Asia,1993,70.2
+Thailand,THA,Asia,1994,70.2
+Thailand,THA,Asia,1995,70.2
+Thailand,THA,Asia,1996,70.2
+Thailand,THA,Asia,1997,70.3
+Thailand,THA,Asia,1998,70.3
+Thailand,THA,Asia,1999,70.5
+Thailand,THA,Asia,2000,70.6
+Thailand,THA,Asia,2001,70.8
+Thailand,THA,Asia,2002,71.1
+Thailand,THA,Asia,2003,71.4
+Thailand,THA,Asia,2004,71.7
+Thailand,THA,Asia,2005,72.1
+Thailand,THA,Asia,2006,72.5
+Thailand,THA,Asia,2007,72.9
+Thailand,THA,Asia,2008,73.3
+Thailand,THA,Asia,2009,73.8
+Thailand,THA,Asia,2010,74.2
+Thailand,THA,Asia,2011,74.6
+Thailand,THA,Asia,2012,75
+Thailand,THA,Asia,2013,75.4
+Thailand,THA,Asia,2014,75.7
+Thailand,THA,Asia,2015,76.1
+Thailand,THA,Asia,2016,76.4
+Thailand,THA,Asia,2017,76.7
+Thailand,THA,Asia,2018,76.9
+Thailand,THA,Asia,2019,77.2
+Timor Leste,TLS,Asia,1990,Not Available
+Timor Leste,TLS,Asia,1991,Not Available
+Timor Leste,TLS,Asia,1992,Not Available
+Timor Leste,TLS,Asia,1993,Not Available
+Timor Leste,TLS,Asia,1994,Not Available
+Timor Leste,TLS,Asia,1995,Not Available
+Timor Leste,TLS,Asia,1996,Not Available
+Timor Leste,TLS,Asia,1997,Not Available
+Timor Leste,TLS,Asia,1998,Not Available
+Timor Leste,TLS,Asia,1999,Not Available
+Timor Leste,TLS,Asia,2000,Not Available
+Timor Leste,TLS,Asia,2001,Not Available
+Timor Leste,TLS,Asia,2002,60.9
+Timor Leste,TLS,Asia,2003,61.9
+Timor Leste,TLS,Asia,2004,62.9
+Timor Leste,TLS,Asia,2005,63.9
+Timor Leste,TLS,Asia,2006,64.8
+Timor Leste,TLS,Asia,2007,65.6
+Timor Leste,TLS,Asia,2008,66.3
+Timor Leste,TLS,Asia,2009,66.8
+Timor Leste,TLS,Asia,2010,67.2
+Timor Leste,TLS,Asia,2011,67.5
+Timor Leste,TLS,Asia,2012,67.7
+Timor Leste,TLS,Asia,2013,68
+Timor Leste,TLS,Asia,2014,68.2
+Timor Leste,TLS,Asia,2015,68.5
+Timor Leste,TLS,Asia,2016,68.7
+Timor Leste,TLS,Asia,2017,69
+Timor Leste,TLS,Asia,2018,69.3
+Timor Leste,TLS,Asia,2019,69.5
+Togo,TGO,Africa,1990,55.9
+Togo,TGO,Africa,1991,55.9
+Togo,TGO,Africa,1992,55.7
+Togo,TGO,Africa,1993,55.5
+Togo,TGO,Africa,1994,55.1
+Togo,TGO,Africa,1995,54.8
+Togo,TGO,Africa,1996,54.4
+Togo,TGO,Africa,1997,54
+Togo,TGO,Africa,1998,53.7
+Togo,TGO,Africa,1999,53.5
+Togo,TGO,Africa,2000,53.5
+Togo,TGO,Africa,2001,53.6
+Togo,TGO,Africa,2002,53.7
+Togo,TGO,Africa,2003,53.9
+Togo,TGO,Africa,2004,54.2
+Togo,TGO,Africa,2005,54.6
+Togo,TGO,Africa,2006,55.1
+Togo,TGO,Africa,2007,55.6
+Togo,TGO,Africa,2008,56.2
+Togo,TGO,Africa,2009,56.8
+Togo,TGO,Africa,2010,57.5
+Togo,TGO,Africa,2011,58.1
+Togo,TGO,Africa,2012,58.7
+Togo,TGO,Africa,2013,59.2
+Togo,TGO,Africa,2014,59.6
+Togo,TGO,Africa,2015,59.9
+Togo,TGO,Africa,2016,60.2
+Togo,TGO,Africa,2017,60.5
+Togo,TGO,Africa,2018,60.8
+Togo,TGO,Africa,2019,61
+Tonga,TON,Oceania,1990,Not Available
+Tonga,TON,Oceania,1991,69
+Tonga,TON,Oceania,1992,69.1
+Tonga,TON,Oceania,1993,69.2
+Tonga,TON,Oceania,1994,69.3
+Tonga,TON,Oceania,1995,69.4
+Tonga,TON,Oceania,1996,69.4
+Tonga,TON,Oceania,1997,69.5
+Tonga,TON,Oceania,1998,69.5
+Tonga,TON,Oceania,1999,69.6
+Tonga,TON,Oceania,2000,69.7
+Tonga,TON,Oceania,2001,69.7
+Tonga,TON,Oceania,2002,69.8
+Tonga,TON,Oceania,2003,69.8
+Tonga,TON,Oceania,2004,69.8
+Tonga,TON,Oceania,2005,69.8
+Tonga,TON,Oceania,2006,69.9
+Tonga,TON,Oceania,2007,69.9
+Tonga,TON,Oceania,2008,69.9
+Tonga,TON,Oceania,2009,70
+Tonga,TON,Oceania,2010,70.1
+Tonga,TON,Oceania,2011,70.1
+Tonga,TON,Oceania,2012,70.2
+Tonga,TON,Oceania,2013,70.3
+Tonga,TON,Oceania,2014,70.4
+Tonga,TON,Oceania,2015,70.5
+Tonga,TON,Oceania,2016,70.6
+Tonga,TON,Oceania,2017,70.7
+Tonga,TON,Oceania,2018,70.8
+Tonga,TON,Oceania,2019,70.9
+Trinidad & Tobago,TTO,Americas,1990,68.1
+Trinidad & Tobago,TTO,Americas,1991,68.2
+Trinidad & Tobago,TTO,Americas,1992,68.3
+Trinidad & Tobago,TTO,Americas,1993,68.4
+Trinidad & Tobago,TTO,Americas,1994,68.5
+Trinidad & Tobago,TTO,Americas,1995,68.6
+Trinidad & Tobago,TTO,Americas,1996,68.7
+Trinidad & Tobago,TTO,Americas,1997,68.8
+Trinidad & Tobago,TTO,Americas,1998,69
+Trinidad & Tobago,TTO,Americas,1999,69.2
+Trinidad & Tobago,TTO,Americas,2000,69.4
+Trinidad & Tobago,TTO,Americas,2001,69.7
+Trinidad & Tobago,TTO,Americas,2002,69.9
+Trinidad & Tobago,TTO,Americas,2003,70.2
+Trinidad & Tobago,TTO,Americas,2004,70.4
+Trinidad & Tobago,TTO,Americas,2005,70.7
+Trinidad & Tobago,TTO,Americas,2006,71
+Trinidad & Tobago,TTO,Americas,2007,71.2
+Trinidad & Tobago,TTO,Americas,2008,71.5
+Trinidad & Tobago,TTO,Americas,2009,71.7
+Trinidad & Tobago,TTO,Americas,2010,71.9
+Trinidad & Tobago,TTO,Americas,2011,72.2
+Trinidad & Tobago,TTO,Americas,2012,72.4
+Trinidad & Tobago,TTO,Americas,2013,72.6
+Trinidad & Tobago,TTO,Americas,2014,72.8
+Trinidad & Tobago,TTO,Americas,2015,72.9
+Trinidad & Tobago,TTO,Americas,2016,73.1
+Trinidad & Tobago,TTO,Americas,2017,73.2
+Trinidad & Tobago,TTO,Americas,2018,73.4
+Trinidad & Tobago,TTO,Americas,2019,73.5
+Tunisia,TUN,Africa,1990,68.8
+Tunisia,TUN,Africa,1991,69.4
+Tunisia,TUN,Africa,1992,70
+Tunisia,TUN,Africa,1993,70.6
+Tunisia,TUN,Africa,1994,71.1
+Tunisia,TUN,Africa,1995,71.5
+Tunisia,TUN,Africa,1996,71.9
+Tunisia,TUN,Africa,1997,72.3
+Tunisia,TUN,Africa,1998,72.6
+Tunisia,TUN,Africa,1999,72.9
+Tunisia,TUN,Africa,2000,73.2
+Tunisia,TUN,Africa,2001,73.4
+Tunisia,TUN,Africa,2002,73.6
+Tunisia,TUN,Africa,2003,73.8
+Tunisia,TUN,Africa,2004,74
+Tunisia,TUN,Africa,2005,74.2
+Tunisia,TUN,Africa,2006,74.4
+Tunisia,TUN,Africa,2007,74.6
+Tunisia,TUN,Africa,2008,74.7
+Tunisia,TUN,Africa,2009,74.9
+Tunisia,TUN,Africa,2010,75
+Tunisia,TUN,Africa,2011,75.2
+Tunisia,TUN,Africa,2012,75.4
+Tunisia,TUN,Africa,2013,75.6
+Tunisia,TUN,Africa,2014,75.7
+Tunisia,TUN,Africa,2015,75.9
+Tunisia,TUN,Africa,2016,76.1
+Tunisia,TUN,Africa,2017,76.3
+Tunisia,TUN,Africa,2018,76.5
+Tunisia,TUN,Africa,2019,76.7
+Turkey,TUR,Asia,1990,64.3
+Turkey,TUR,Asia,1991,64.8
+Turkey,TUR,Asia,1992,65.3
+Turkey,TUR,Asia,1993,65.8
+Turkey,TUR,Asia,1994,66.4
+Turkey,TUR,Asia,1995,67
+Turkey,TUR,Asia,1996,67.6
+Turkey,TUR,Asia,1997,68.2
+Turkey,TUR,Asia,1998,68.8
+Turkey,TUR,Asia,1999,69.4
+Turkey,TUR,Asia,2000,70
+Turkey,TUR,Asia,2001,70.6
+Turkey,TUR,Asia,2002,71.1
+Turkey,TUR,Asia,2003,71.6
+Turkey,TUR,Asia,2004,72
+Turkey,TUR,Asia,2005,72.4
+Turkey,TUR,Asia,2006,72.8
+Turkey,TUR,Asia,2007,73.2
+Turkey,TUR,Asia,2008,73.6
+Turkey,TUR,Asia,2009,74.1
+Turkey,TUR,Asia,2010,74.5
+Turkey,TUR,Asia,2011,74.9
+Turkey,TUR,Asia,2012,75.4
+Turkey,TUR,Asia,2013,75.8
+Turkey,TUR,Asia,2014,76.2
+Turkey,TUR,Asia,2015,76.5
+Turkey,TUR,Asia,2016,76.9
+Turkey,TUR,Asia,2017,77.2
+Turkey,TUR,Asia,2018,77.4
+Turkey,TUR,Asia,2019,77.7
+Turkmenistan,TKM,Asia,1990,Not Available
+Turkmenistan,TKM,Asia,1991,Not Available
+Turkmenistan,TKM,Asia,1992,Not Available
+Turkmenistan,TKM,Asia,1993,Not Available
+Turkmenistan,TKM,Asia,1994,Not Available
+Turkmenistan,TKM,Asia,1995,Not Available
+Turkmenistan,TKM,Asia,1996,Not Available
+Turkmenistan,TKM,Asia,1997,Not Available
+Turkmenistan,TKM,Asia,1998,Not Available
+Turkmenistan,TKM,Asia,1999,Not Available
+Turkmenistan,TKM,Asia,2000,Not Available
+Turkmenistan,TKM,Asia,2001,Not Available
+Turkmenistan,TKM,Asia,2002,Not Available
+Turkmenistan,TKM,Asia,2003,Not Available
+Turkmenistan,TKM,Asia,2004,Not Available
+Turkmenistan,TKM,Asia,2005,Not Available
+Turkmenistan,TKM,Asia,2006,Not Available
+Turkmenistan,TKM,Asia,2007,Not Available
+Turkmenistan,TKM,Asia,2008,Not Available
+Turkmenistan,TKM,Asia,2009,Not Available
+Turkmenistan,TKM,Asia,2010,66.7
+Turkmenistan,TKM,Asia,2011,66.9
+Turkmenistan,TKM,Asia,2012,67.2
+Turkmenistan,TKM,Asia,2013,67.4
+Turkmenistan,TKM,Asia,2014,67.6
+Turkmenistan,TKM,Asia,2015,67.7
+Turkmenistan,TKM,Asia,2016,67.8
+Turkmenistan,TKM,Asia,2017,68
+Turkmenistan,TKM,Asia,2018,68.1
+Turkmenistan,TKM,Asia,2019,68.2
+Uganda,UGA,Africa,1990,45.9
+Uganda,UGA,Africa,1991,45.3
+Uganda,UGA,Africa,1992,44.7
+Uganda,UGA,Africa,1993,44.3
+Uganda,UGA,Africa,1994,44
+Uganda,UGA,Africa,1995,43.8
+Uganda,UGA,Africa,1996,43.9
+Uganda,UGA,Africa,1997,44.2
+Uganda,UGA,Africa,1998,44.7
+Uganda,UGA,Africa,1999,45.4
+Uganda,UGA,Africa,2000,46.2
+Uganda,UGA,Africa,2001,47.2
+Uganda,UGA,Africa,2002,48.3
+Uganda,UGA,Africa,2003,49.4
+Uganda,UGA,Africa,2004,50.6
+Uganda,UGA,Africa,2005,51.7
+Uganda,UGA,Africa,2006,52.8
+Uganda,UGA,Africa,2007,53.9
+Uganda,UGA,Africa,2008,55
+Uganda,UGA,Africa,2009,56.1
+Uganda,UGA,Africa,2010,57.1
+Uganda,UGA,Africa,2011,58.1
+Uganda,UGA,Africa,2012,59
+Uganda,UGA,Africa,2013,59.9
+Uganda,UGA,Africa,2014,60.7
+Uganda,UGA,Africa,2015,61.4
+Uganda,UGA,Africa,2016,62
+Uganda,UGA,Africa,2017,62.5
+Uganda,UGA,Africa,2018,63
+Uganda,UGA,Africa,2019,63.4
+Ukraine,UKR,Europe,1990,69.8
+Ukraine,UKR,Europe,1991,69.5
+Ukraine,UKR,Europe,1992,69
+Ukraine,UKR,Europe,1993,68.6
+Ukraine,UKR,Europe,1994,68.2
+Ukraine,UKR,Europe,1995,67.9
+Ukraine,UKR,Europe,1996,67.6
+Ukraine,UKR,Europe,1997,67.5
+Ukraine,UKR,Europe,1998,67.3
+Ukraine,UKR,Europe,1999,67.3
+Ukraine,UKR,Europe,2000,67.3
+Ukraine,UKR,Europe,2001,67.3
+Ukraine,UKR,Europe,2002,67.3
+Ukraine,UKR,Europe,2003,67.3
+Ukraine,UKR,Europe,2004,67.4
+Ukraine,UKR,Europe,2005,67.5
+Ukraine,UKR,Europe,2006,67.6
+Ukraine,UKR,Europe,2007,67.9
+Ukraine,UKR,Europe,2008,68.3
+Ukraine,UKR,Europe,2009,68.8
+Ukraine,UKR,Europe,2010,69.4
+Ukraine,UKR,Europe,2011,69.9
+Ukraine,UKR,Europe,2012,70.5
+Ukraine,UKR,Europe,2013,70.9
+Ukraine,UKR,Europe,2014,71.3
+Ukraine,UKR,Europe,2015,71.5
+Ukraine,UKR,Europe,2016,71.7
+Ukraine,UKR,Europe,2017,71.8
+Ukraine,UKR,Europe,2018,72
+Ukraine,UKR,Europe,2019,72.1
+United Arab Emirates,ARE,Asia,1990,71.9
+United Arab Emirates,ARE,Asia,1991,72.2
+United Arab Emirates,ARE,Asia,1992,72.5
+United Arab Emirates,ARE,Asia,1993,72.7
+United Arab Emirates,ARE,Asia,1994,73
+United Arab Emirates,ARE,Asia,1995,73.2
+United Arab Emirates,ARE,Asia,1996,73.4
+United Arab Emirates,ARE,Asia,1997,73.7
+United Arab Emirates,ARE,Asia,1998,73.9
+United Arab Emirates,ARE,Asia,1999,74.1
+United Arab Emirates,ARE,Asia,2000,74.3
+United Arab Emirates,ARE,Asia,2001,74.5
+United Arab Emirates,ARE,Asia,2002,74.8
+United Arab Emirates,ARE,Asia,2003,75
+United Arab Emirates,ARE,Asia,2004,75.2
+United Arab Emirates,ARE,Asia,2005,75.4
+United Arab Emirates,ARE,Asia,2006,75.6
+United Arab Emirates,ARE,Asia,2007,75.8
+United Arab Emirates,ARE,Asia,2008,76
+United Arab Emirates,ARE,Asia,2009,76.1
+United Arab Emirates,ARE,Asia,2010,76.3
+United Arab Emirates,ARE,Asia,2011,76.5
+United Arab Emirates,ARE,Asia,2012,76.7
+United Arab Emirates,ARE,Asia,2013,76.9
+United Arab Emirates,ARE,Asia,2014,77.1
+United Arab Emirates,ARE,Asia,2015,77.3
+United Arab Emirates,ARE,Asia,2016,77.5
+United Arab Emirates,ARE,Asia,2017,77.6
+United Arab Emirates,ARE,Asia,2018,77.8
+United Arab Emirates,ARE,Asia,2019,78
+United Kingdom,GBR,Europe,1990,75.7
+United Kingdom,GBR,Europe,1991,75.9
+United Kingdom,GBR,Europe,1992,76.1
+United Kingdom,GBR,Europe,1993,76.3
+United Kingdom,GBR,Europe,1994,76.5
+United Kingdom,GBR,Europe,1995,76.7
+United Kingdom,GBR,Europe,1996,76.9
+United Kingdom,GBR,Europe,1997,77.1
+United Kingdom,GBR,Europe,1998,77.3
+United Kingdom,GBR,Europe,1999,77.5
+United Kingdom,GBR,Europe,2000,77.8
+United Kingdom,GBR,Europe,2001,78
+United Kingdom,GBR,Europe,2002,78.3
+United Kingdom,GBR,Europe,2003,78.5
+United Kingdom,GBR,Europe,2004,78.8
+United Kingdom,GBR,Europe,2005,79.1
+United Kingdom,GBR,Europe,2006,79.3
+United Kingdom,GBR,Europe,2007,79.6
+United Kingdom,GBR,Europe,2008,79.8
+United Kingdom,GBR,Europe,2009,80.1
+United Kingdom,GBR,Europe,2010,80.4
+United Kingdom,GBR,Europe,2011,80.6
+United Kingdom,GBR,Europe,2012,80.7
+United Kingdom,GBR,Europe,2013,80.9
+United Kingdom,GBR,Europe,2014,81
+United Kingdom,GBR,Europe,2015,81.1
+United Kingdom,GBR,Europe,2016,81.1
+United Kingdom,GBR,Europe,2017,81.2
+United Kingdom,GBR,Europe,2018,81.2
+United Kingdom,GBR,Europe,2019,81.3
+United States of America,USA,Americas,1990,75.2
+United States of America,USA,Americas,1991,75.4
+United States of America,USA,Americas,1992,75.6
+United States of America,USA,Americas,1993,75.7
+United States of America,USA,Americas,1994,75.9
+United States of America,USA,Americas,1995,76.1
+United States of America,USA,Americas,1996,76.2
+United States of America,USA,Americas,1997,76.4
+United States of America,USA,Americas,1998,76.5
+United States of America,USA,Americas,1999,76.7
+United States of America,USA,Americas,2000,76.8
+United States of America,USA,Americas,2001,77
+United States of America,USA,Americas,2002,77.1
+United States of America,USA,Americas,2003,77.3
+United States of America,USA,Americas,2004,77.5
+United States of America,USA,Americas,2005,77.7
+United States of America,USA,Americas,2006,77.9
+United States of America,USA,Americas,2007,78.1
+United States of America,USA,Americas,2008,78.3
+United States of America,USA,Americas,2009,78.5
+United States of America,USA,Americas,2010,78.7
+United States of America,USA,Americas,2011,78.8
+United States of America,USA,Americas,2012,78.9
+United States of America,USA,Americas,2013,78.9
+United States of America,USA,Americas,2014,78.9
+United States of America,USA,Americas,2015,78.9
+United States of America,USA,Americas,2016,78.9
+United States of America,USA,Americas,2017,78.9
+United States of America,USA,Americas,2018,78.9
+United States of America,USA,Americas,2019,78.9
+Uruguay,URY,Americas,1990,72.6
+Uruguay,URY,Americas,1991,72.8
+Uruguay,URY,Americas,1992,73
+Uruguay,URY,Americas,1993,73.2
+Uruguay,URY,Americas,1994,73.4
+Uruguay,URY,Americas,1995,73.6
+Uruguay,URY,Americas,1996,73.9
+Uruguay,URY,Americas,1997,74.1
+Uruguay,URY,Americas,1998,74.3
+Uruguay,URY,Americas,1999,74.5
+Uruguay,URY,Americas,2000,74.7
+Uruguay,URY,Americas,2001,74.9
+Uruguay,URY,Americas,2002,75.2
+Uruguay,URY,Americas,2003,75.4
+Uruguay,URY,Americas,2004,75.6
+Uruguay,URY,Americas,2005,75.8
+Uruguay,URY,Americas,2006,76
+Uruguay,URY,Americas,2007,76.3
+Uruguay,URY,Americas,2008,76.4
+Uruguay,URY,Americas,2009,76.6
+Uruguay,URY,Americas,2010,76.8
+Uruguay,URY,Americas,2011,76.9
+Uruguay,URY,Americas,2012,77
+Uruguay,URY,Americas,2013,77.1
+Uruguay,URY,Americas,2014,77.2
+Uruguay,URY,Americas,2015,77.4
+Uruguay,URY,Americas,2016,77.5
+Uruguay,URY,Americas,2017,77.6
+Uruguay,URY,Americas,2018,77.8
+Uruguay,URY,Americas,2019,77.9
+Uzbekistan,UZB,Asia,1990,Not Available
+Uzbekistan,UZB,Asia,1991,Not Available
+Uzbekistan,UZB,Asia,1992,Not Available
+Uzbekistan,UZB,Asia,1993,Not Available
+Uzbekistan,UZB,Asia,1994,Not Available
+Uzbekistan,UZB,Asia,1995,Not Available
+Uzbekistan,UZB,Asia,1996,Not Available
+Uzbekistan,UZB,Asia,1997,Not Available
+Uzbekistan,UZB,Asia,1998,Not Available
+Uzbekistan,UZB,Asia,1999,Not Available
+Uzbekistan,UZB,Asia,2000,67.2
+Uzbekistan,UZB,Asia,2001,67.4
+Uzbekistan,UZB,Asia,2002,67.6
+Uzbekistan,UZB,Asia,2003,67.9
+Uzbekistan,UZB,Asia,2004,68.1
+Uzbekistan,UZB,Asia,2005,68.4
+Uzbekistan,UZB,Asia,2006,68.7
+Uzbekistan,UZB,Asia,2007,68.9
+Uzbekistan,UZB,Asia,2008,69.2
+Uzbekistan,UZB,Asia,2009,69.4
+Uzbekistan,UZB,Asia,2010,69.7
+Uzbekistan,UZB,Asia,2011,69.9
+Uzbekistan,UZB,Asia,2012,70.2
+Uzbekistan,UZB,Asia,2013,70.4
+Uzbekistan,UZB,Asia,2014,70.7
+Uzbekistan,UZB,Asia,2015,70.9
+Uzbekistan,UZB,Asia,2016,71.2
+Uzbekistan,UZB,Asia,2017,71.4
+Uzbekistan,UZB,Asia,2018,71.6
+Uzbekistan,UZB,Asia,2019,71.7
+Vanuatu,VUT,Oceania,1990,Not Available
+Vanuatu,VUT,Oceania,1991,Not Available
+Vanuatu,VUT,Oceania,1992,Not Available
+Vanuatu,VUT,Oceania,1993,Not Available
+Vanuatu,VUT,Oceania,1994,Not Available
+Vanuatu,VUT,Oceania,1995,Not Available
+Vanuatu,VUT,Oceania,1996,Not Available
+Vanuatu,VUT,Oceania,1997,Not Available
+Vanuatu,VUT,Oceania,1998,Not Available
+Vanuatu,VUT,Oceania,1999,Not Available
+Vanuatu,VUT,Oceania,2000,Not Available
+Vanuatu,VUT,Oceania,2001,Not Available
+Vanuatu,VUT,Oceania,2002,Not Available
+Vanuatu,VUT,Oceania,2003,Not Available
+Vanuatu,VUT,Oceania,2004,Not Available
+Vanuatu,VUT,Oceania,2005,68.3
+Vanuatu,VUT,Oceania,2006,68.5
+Vanuatu,VUT,Oceania,2007,68.7
+Vanuatu,VUT,Oceania,2008,68.8
+Vanuatu,VUT,Oceania,2009,69
+Vanuatu,VUT,Oceania,2010,69.1
+Vanuatu,VUT,Oceania,2011,69.3
+Vanuatu,VUT,Oceania,2012,69.4
+Vanuatu,VUT,Oceania,2013,69.6
+Vanuatu,VUT,Oceania,2014,69.7
+Vanuatu,VUT,Oceania,2015,69.9
+Vanuatu,VUT,Oceania,2016,70
+Vanuatu,VUT,Oceania,2017,70.2
+Vanuatu,VUT,Oceania,2018,70.3
+Vanuatu,VUT,Oceania,2019,70.5
+Venezuela,VEN,Americas,1990,70.7
+Venezuela,VEN,Americas,1991,70.8
+Venezuela,VEN,Americas,1992,71
+Venezuela,VEN,Americas,1993,71.1
+Venezuela,VEN,Americas,1994,71.2
+Venezuela,VEN,Americas,1995,71.3
+Venezuela,VEN,Americas,1996,71.5
+Venezuela,VEN,Americas,1997,71.6
+Venezuela,VEN,Americas,1998,71.8
+Venezuela,VEN,Americas,1999,71.9
+Venezuela,VEN,Americas,2000,72.1
+Venezuela,VEN,Americas,2001,72.3
+Venezuela,VEN,Americas,2002,72.5
+Venezuela,VEN,Americas,2003,72.6
+Venezuela,VEN,Americas,2004,72.7
+Venezuela,VEN,Americas,2005,72.9
+Venezuela,VEN,Americas,2006,72.9
+Venezuela,VEN,Americas,2007,73
+Venezuela,VEN,Americas,2008,73.1
+Venezuela,VEN,Americas,2009,73.1
+Venezuela,VEN,Americas,2010,73.1
+Venezuela,VEN,Americas,2011,73.1
+Venezuela,VEN,Americas,2012,73
+Venezuela,VEN,Americas,2013,72.9
+Venezuela,VEN,Americas,2014,72.8
+Venezuela,VEN,Americas,2015,72.6
+Venezuela,VEN,Americas,2016,72.4
+Venezuela,VEN,Americas,2017,72.2
+Venezuela,VEN,Americas,2018,72.1
+Venezuela,VEN,Americas,2019,72.1
+Vietnam,VNM,Asia,1990,70.6
+Vietnam,VNM,Asia,1991,70.8
+Vietnam,VNM,Asia,1992,71.1
+Vietnam,VNM,Asia,1993,71.4
+Vietnam,VNM,Asia,1994,71.7
+Vietnam,VNM,Asia,1995,71.9
+Vietnam,VNM,Asia,1996,72.2
+Vietnam,VNM,Asia,1997,72.4
+Vietnam,VNM,Asia,1998,72.6
+Vietnam,VNM,Asia,1999,72.8
+Vietnam,VNM,Asia,2000,73
+Vietnam,VNM,Asia,2001,73.2
+Vietnam,VNM,Asia,2002,73.4
+Vietnam,VNM,Asia,2003,73.7
+Vietnam,VNM,Asia,2004,73.9
+Vietnam,VNM,Asia,2005,74.1
+Vietnam,VNM,Asia,2006,74.3
+Vietnam,VNM,Asia,2007,74.5
+Vietnam,VNM,Asia,2008,74.6
+Vietnam,VNM,Asia,2009,74.7
+Vietnam,VNM,Asia,2010,74.8
+Vietnam,VNM,Asia,2011,74.9
+Vietnam,VNM,Asia,2012,75
+Vietnam,VNM,Asia,2013,75
+Vietnam,VNM,Asia,2014,75.1
+Vietnam,VNM,Asia,2015,75.1
+Vietnam,VNM,Asia,2016,75.2
+Vietnam,VNM,Asia,2017,75.2
+Vietnam,VNM,Asia,2018,75.3
+Vietnam,VNM,Asia,2019,75.4
+Yemen,YEM,Asia,1990,57.3
+Yemen,YEM,Asia,1991,57.7
+Yemen,YEM,Asia,1992,58
+Yemen,YEM,Asia,1993,58.3
+Yemen,YEM,Asia,1994,58.6
+Yemen,YEM,Asia,1995,58.8
+Yemen,YEM,Asia,1996,59.1
+Yemen,YEM,Asia,1997,59.4
+Yemen,YEM,Asia,1998,59.8
+Yemen,YEM,Asia,1999,60.2
+Yemen,YEM,Asia,2000,60.7
+Yemen,YEM,Asia,2001,61.2
+Yemen,YEM,Asia,2002,61.8
+Yemen,YEM,Asia,2003,62.4
+Yemen,YEM,Asia,2004,62.9
+Yemen,YEM,Asia,2005,63.5
+Yemen,YEM,Asia,2006,64
+Yemen,YEM,Asia,2007,64.5
+Yemen,YEM,Asia,2008,64.9
+Yemen,YEM,Asia,2009,65.3
+Yemen,YEM,Asia,2010,65.5
+Yemen,YEM,Asia,2011,65.8
+Yemen,YEM,Asia,2012,65.9
+Yemen,YEM,Asia,2013,66
+Yemen,YEM,Asia,2014,66.1
+Yemen,YEM,Asia,2015,66.1
+Yemen,YEM,Asia,2016,66.1
+Yemen,YEM,Asia,2017,66.1
+Yemen,YEM,Asia,2018,66.1
+Yemen,YEM,Asia,2019,66.1
+Zambia,ZMB,Africa,1990,49.2
+Zambia,ZMB,Africa,1991,48.1
+Zambia,ZMB,Africa,1992,47
+Zambia,ZMB,Africa,1993,45.9
+Zambia,ZMB,Africa,1994,45
+Zambia,ZMB,Africa,1995,44.2
+Zambia,ZMB,Africa,1996,43.7
+Zambia,ZMB,Africa,1997,43.5
+Zambia,ZMB,Africa,1998,43.4
+Zambia,ZMB,Africa,1999,43.6
+Zambia,ZMB,Africa,2000,44
+Zambia,ZMB,Africa,2001,44.6
+Zambia,ZMB,Africa,2002,45.4
+Zambia,ZMB,Africa,2003,46.3
+Zambia,ZMB,Africa,2004,47.4
+Zambia,ZMB,Africa,2005,48.5
+Zambia,ZMB,Africa,2006,49.8
+Zambia,ZMB,Africa,2007,51.1
+Zambia,ZMB,Africa,2008,52.6
+Zambia,ZMB,Africa,2009,54.1
+Zambia,ZMB,Africa,2010,55.7
+Zambia,ZMB,Africa,2011,57.1
+Zambia,ZMB,Africa,2012,58.5
+Zambia,ZMB,Africa,2013,59.7
+Zambia,ZMB,Africa,2014,60.8
+Zambia,ZMB,Africa,2015,61.7
+Zambia,ZMB,Africa,2016,62.5
+Zambia,ZMB,Africa,2017,63
+Zambia,ZMB,Africa,2018,63.5
+Zambia,ZMB,Africa,2019,63.9
+Zimbabwe,ZWE,Africa,1990,58.1
+Zimbabwe,ZWE,Africa,1991,56.7
+Zimbabwe,ZWE,Africa,1992,55.2
+Zimbabwe,ZWE,Africa,1993,53.7
+Zimbabwe,ZWE,Africa,1994,52
+Zimbabwe,ZWE,Africa,1995,50.5
+Zimbabwe,ZWE,Africa,1996,49
+Zimbabwe,ZWE,Africa,1997,47.7
+Zimbabwe,ZWE,Africa,1998,46.5
+Zimbabwe,ZWE,Africa,1999,45.5
+Zimbabwe,ZWE,Africa,2000,44.6
+Zimbabwe,ZWE,Africa,2001,44
+Zimbabwe,ZWE,Africa,2002,43.5
+Zimbabwe,ZWE,Africa,2003,43.2
+Zimbabwe,ZWE,Africa,2004,43.1
+Zimbabwe,ZWE,Africa,2005,43.2
+Zimbabwe,ZWE,Africa,2006,43.9
+Zimbabwe,ZWE,Africa,2007,44.9
+Zimbabwe,ZWE,Africa,2008,46.5
+Zimbabwe,ZWE,Africa,2009,48.4
+Zimbabwe,ZWE,Africa,2010,50.6
+Zimbabwe,ZWE,Africa,2011,52.9
+Zimbabwe,ZWE,Africa,2012,55
+Zimbabwe,ZWE,Africa,2013,56.9
+Zimbabwe,ZWE,Africa,2014,58.4
+Zimbabwe,ZWE,Africa,2015,59.5
+Zimbabwe,ZWE,Africa,2016,60.3
+Zimbabwe,ZWE,Africa,2017,60.8
+Zimbabwe,ZWE,Africa,2018,61.2
+Zimbabwe,ZWE,Africa,2019,61.5
