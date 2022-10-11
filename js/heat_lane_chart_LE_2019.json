@@ -4,8 +4,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/data/Compliled_Life_Expectancy_no_null_2019.csv"
   },
-  "height": 150,
-  "width": 400,
+  "height": 450,
+  "width": "container",
   "title": "Count by range of Life Expectancy (Age) Year 2019",
   "transform": [
     {

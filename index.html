@@ -20,7 +20,7 @@
 
   <div id="div_01" class="large-chart"></div>
   <div id="div_02" class="large-chart"></div>
-  <!-- <div id="div_03" class="large-chart"></div> -->
+
 
 
   <!-- <div display: flex >
@@ -28,7 +28,7 @@
     <div id="div_05" class="middle"></div>
     <div id="div_06" class="right"></div>
   </div>   -->
-  
+
   <h2>The changes of life expectancy from 1990 - 2019 for top 5 countries for </h2>
 
   <div class="container space-around">
@@ -37,13 +37,14 @@
     <div id="div_06" class="small_chart three"></div>
   </div>
 
-  
+  <div id="div_03" class="large-chart"></div>
 
 
   <script type="text/javascript">
 
     var map = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/choropleth_map_year_1990_2019.json";
     var line_chart = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/line_chart.json";
+    var heat_lane = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/heat_lane_chart_LE_2019.json";
 
     var ranged_dot_1 = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/ranged_dot%20plot_top_gdp.json";
     var ranged_dot_2 = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/ranged_dot%20plot_top_happiness.json";
@@ -61,7 +62,7 @@
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
-    vegaEmbed('#div_03', ranged_dot_2).then(function (result) {
+    vegaEmbed('#div_03', heat_lane).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
