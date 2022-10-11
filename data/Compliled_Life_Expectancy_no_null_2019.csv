@@ -1,0 +1,185 @@
+Country,Country_Code,Continent,Year,Life_Exp
+Afghanistan,AFG,Asia,2019,64.8
+Albania,ALB,Europe,2019,78.6
+Algeria,DZA,Africa,2019,76.9
+Andorra,AND,Europe,2019,81.9
+Angola,AGO,Africa,2019,61.1
+Antigua and Barbuda,ATG,Americas,2019,77
+Argentina,ARG,Americas,2019,76.7
+Armenia,ARM,Asia,2019,75.1
+Australia,AUS,Oceania,2019,83.4
+Austria,AUT,Europe,2019,81.5
+Azerbaijan,AZE,Asia,2019,73
+Bahamas,BHS,Americas,2019,73.9
+Bahrain,BHR,Asia,2019,77.3
+Bangladesh,BGD,Asia,2019,72.6
+Barbados,BRB,Americas,2019,79.2
+Belarus,BLR,Europe,2019,74.8
+Belgium,BEL,Europe,2019,81.6
+Belize,BLZ,Americas,2019,74.6
+Benin,BEN,Africa,2019,61.8
+Bhutan,BTN,Asia,2019,71.8
+Bolivia,BOL,Americas,2019,71.5
+Bosnia and Herzegovina,BIH,Europe,2019,77.4
+Botswana,BWA,Africa,2019,69.6
+Brazil,BRA,Americas,2019,75.9
+Brunei Darussalam,BRN,Asia,2019,75.9
+Bulgaria,BGR,Europe,2019,75
+Burkina Faso,BFA,Africa,2019,61.6
+Burundi,BDI,Africa,2019,61.6
+Cambodia,KHM,Asia,2019,69.8
+Cameroon,CMR,Africa,2019,59.3
+Canada,CAN,Americas,2019,82.4
+Cape Verde,CPV,Africa,2019,73
+Central African Rep.,CAF,Africa,2019,53.3
+Chad,TCD,Africa,2019,54.2
+Chile,CHL,Americas,2019,80.2
+China,CHN,Asia,2019,76.9
+Colombia,COL,Americas,2019,77.3
+Comoros,COM,Africa,2019,64.3
+Congo Brazzaville,COG,Africa,2019,64.6
+Dem. Rep. Congo,COD,Africa,2019,60.7
+Costa Rica,CRI,Americas,2019,80.3
+Cote d'Ivoire,CIV,Africa,2019,57.8
+Croatia,HRV,Europe,2019,78.5
+Cuba,CUB,Americas,2019,78.8
+Cyprus,CYP,Asia,2019,81
+Czech Republic,CZE,Europe,2019,79.4
+Denmark,DNK,Europe,2019,80.9
+Djibouti,DJI,Africa,2019,67.1
+Dominica,DMA,Americas,2019,78.2
+Dominican Republic,DOM,Americas,2019,74.1
+Ecuador,ECU,Americas,2019,77
+Egypt,EGY,Africa,2019,72
+El Salvador,SLV,Americas,2019,73.3
+Equatorial Guinea,GNQ,Africa,2019,58.7
+Eritrea,ERI,Africa,2019,66.3
+Estonia,EST,Europe,2019,78.8
+Eswatini,SWZ,Africa,2019,60.2
+Ethiopia,ETH,Africa,2019,66.6
+Fiji,FJI,Oceania,2019,67.4
+Finland,FIN,Europe,2019,81.9
+France,FRA,Europe,2019,82.7
+Gabon,GAB,Africa,2019,66.5
+Gambia,GMB,Africa,2019,62
+Georgia,GEO,Asia,2019,73.8
+Germany,DEU,Europe,2019,81.3
+Ghana,GHA,Africa,2019,64.1
+Greece,GRC,Europe,2019,82.2
+Grenada,GRD,Americas,2019,72.4
+Guatemala,GTM,Americas,2019,74.3
+Guinea,GIN,Africa,2019,61.6
+Guinea Bissau,GNB,Africa,2019,58.3
+Guyana,GUY,Americas,2019,69.9
+Haiti,HTI,Americas,2019,64
+Honduras,HND,Americas,2019,75.3
+Hungary,HUN,Europe,2019,76.9
+Iceland,ISL,Europe,2019,83
+India,IND,Asia,2019,69.7
+Indonesia,IDN,Asia,2019,71.7
+Iran,IRN,Asia,2019,76.7
+Iraq,IRQ,Asia,2019,70.6
+Ireland,IRL,Europe,2019,82.3
+Israel,ISR,Asia,2019,83
+Italy,ITA,Europe,2019,83.5
+Jamaica,JAM,Americas,2019,74.5
+Japan,JPN,Asia,2019,84.6
+Jordan,JOR,Asia,2019,74.5
+Kazakhstan,KAZ,Asia,2019,73.6
+Kenya,KEN,Africa,2019,66.7
+Kiribati,KIR,Oceania,2019,68.4
+Kuwait,KWT,Asia,2019,75.5
+Kyrgyzstan,KGZ,Asia,2019,71.5
+Lao,LAO,Asia,2019,67.9
+Latvia,LVA,Europe,2019,75.3
+Lebanon,LBN,Asia,2019,78.9
+Lesotho,LSO,Africa,2019,54.3
+Liberia,LBR,Africa,2019,64.1
+Libya,LBY,Africa,2019,72.9
+Liechtenstein,LIE,Europe,2019,80.7
+Lithuania,LTU,Europe,2019,75.9
+Luxembourg,LUX,Europe,2019,82.3
+Madagascar,MDG,Africa,2019,67
+Malawi,MWI,Africa,2019,64.3
+Malaysia,MYS,Asia,2019,76.2
+Maldives,MDV,Asia,2019,78.9
+Mali,MLI,Africa,2019,59.3
+Mauritania,MRT,Africa,2019,64.9
+Mauritius,MUS,Africa,2019,75
+Mexico,MEX,Americas,2019,75
+Micronesia (Federated States of),FSM,Oceania,2019,67.9
+Moldova,MDA,Europe,2019,71.9
+Mongolia,MNG,Asia,2019,69.9
+Monte Negro,MNE,Europe,2019,76.9
+Morocco,MAR,Africa,2019,76.7
+Mozambique,MOZ,Africa,2019,60.9
+Myanmar,MMR,Asia,2019,67.1
+Namibia,NAM,Africa,2019,63.7
+Nepal,NPL,Asia,2019,70.8
+Netherlands,NLD,Europe,2019,82.3
+New Zealand,NZL,Oceania,2019,82.3
+Nicaragua,NIC,Americas,2019,74.5
+Niger,NER,Africa,2019,62.4
+Nigeria,NGA,Africa,2019,54.7
+North Macedonia,MKD,Europe,2019,75.8
+Norway,NOR,Europe,2019,82.4
+Oman,OMN,Asia,2019,77.9
+Pakistan,PAK,Asia,2019,67.3
+Palestine,PSE,Asia,2019,74
+Panama,PAN,Americas,2019,78.5
+Papua New Guinea,PNG,Oceania,2019,64.5
+Paraguay,PRY,Americas,2019,74.3
+Peru,PER,Americas,2019,76.7
+Philippines,PHL,Asia,2019,71.2
+Poland,POL,Europe,2019,78.7
+Portugal,PRT,Europe,2019,82
+Qatar,QAT,Asia,2019,80.2
+Romania,ROU,Europe,2019,76
+Russia,RUS,Europe,2019,72.6
+Rwanda,RWA,Africa,2019,69
+Saint Kitts and Nevis,KNA,Americas,2019,74.8
+Saint Lucia,LCA,Americas,2019,76.2
+Saint Vincent and the Grenadines,VCT,Americas,2019,72.5
+Samoa,WSM,Oceania,2019,73.3
+Sao Tome & Principe,STP,Africa,2019,70.4
+Saudi Arabia,SAU,Asia,2019,75.1
+Senegal,SEN,Africa,2019,67.9
+Serbia,SRB,Europe,2019,76
+Sierra Leone,SLE,Africa,2019,54.7
+Singapore,SGP,Asia,2019,83.6
+Slovakia,SVK,Europe,2019,77.5
+Slovenia,SVN,Europe,2019,81.3
+Solomon Islands,SLB,Oceania,2019,73
+Somalia,SOM,Africa,2019,54.4
+South Africa,ZAF,Africa,2019,64.1
+South Korea,KOR,Asia,2019,83
+South Sudan,SSD,Africa,2019,57.9
+Spain,ESP,Europe,2019,83.6
+Sri Lanka,LKA,Asia,2019,77
+Sudan,SDN,Africa,2019,65.3
+Suriname,SUR,Americas,2019,71.7
+Sweden,SWE,Europe,2019,82.8
+Switzerland,CHE,Europe,2019,83.8
+Tajikistan,TJK,Asia,2019,71.1
+Tanzania,TZA,Africa,2019,65.5
+Thailand,THA,Asia,2019,77.2
+Timor Leste,TLS,Asia,2019,69.5
+Togo,TGO,Africa,2019,61
+Tonga,TON,Oceania,2019,70.9
+Trinidad & Tobago,TTO,Americas,2019,73.5
+Tunisia,TUN,Africa,2019,76.7
+Turkey,TUR,Asia,2019,77.7
+Turkmenistan,TKM,Asia,2019,68.2
+Uganda,UGA,Africa,2019,63.4
+Ukraine,UKR,Europe,2019,72.1
+United Arab Emirates,ARE,Asia,2019,78
+United Kingdom,GBR,Europe,2019,81.3
+United States of America,USA,Americas,2019,78.9
+Uruguay,URY,Americas,2019,77.9
+Uzbekistan,UZB,Asia,2019,71.7
+Vanuatu,VUT,Oceania,2019,70.5
+Venezuela,VEN,Americas,2019,72.1
+Vietnam,VNM,Asia,2019,75.4
+Yemen,YEM,Asia,2019,66.1
+Zambia,ZMB,Africa,2019,63.9
+Zimbabwe,ZWE,Africa,2019,61.5
