@@ -31,7 +31,8 @@
       "field": "bin_Life_Exp_start",
       "type": "quantitative",
       "title": "Life Expectancy (Age)",
-      "axis": {"grid": false}
+      "axis": {"grid": false},
+      "scale": {"domain": [40,100]}
     },
     "x2": {"field": "bin_Life_Exp_end"},
     "y": {"field": "y", "axis": null},

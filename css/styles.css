@@ -52,6 +52,8 @@ p {
 	font-size: larger;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font: 'Segoe UI';
+	margin-left: 20%;
+	margin-right: 20%;
 }
 
 .small_chart.three {
