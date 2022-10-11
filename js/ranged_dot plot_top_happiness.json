@@ -3,10 +3,10 @@
   "description": "https://worldhappiness.report/ed/2020/#appendices-and-data",
   "title": {
     "fontSize": 22,
-    "text": "Current health expenditure",
+    "text": "World Happiness Score",
     "font": "concord"
   },
-  "height": "container",
+  "height": 280,
   "width": "container",
   "data": {
     "url": "https://raw.githubusercontent.com/yidec/FIT3179_HW10/main/data/Compliled_Life_Expectancy_no_null.csv"
