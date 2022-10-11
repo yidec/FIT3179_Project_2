@@ -37,7 +37,7 @@
     "y": {
       "field": "Country",
       "type": "nominal",
-      "title": "Countries",
+      "title": "",
       "sort": [
         "United States of America",
         "Switzerland",
