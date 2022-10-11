@@ -6,7 +6,7 @@
     "text": "Current health expenditure",
     "font": "concord"
   },
-  "height": "container",
+  "height": 280,
   "width": "container",
   "data": {
     "url": "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/data/Compliled_Life_Expectancy_no_null.csv"
