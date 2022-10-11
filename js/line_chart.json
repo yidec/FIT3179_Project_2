@@ -4,7 +4,7 @@
 	"height": 450,
 	"title": {
 		"text": "Average Life Expectancy in the Countries of different Continents",
-		"fontSize": 18
+		"fontSize": 22
 	},
 	"data": {
 	  "url": "https://raw.githubusercontent.com/yidec/FIT3179_HW10/main/data/Compliled_Life_Expectancy_no_null.csv"
@@ -88,7 +88,8 @@
 			},
 			"legend": {
 				"title": "Continents",
-				"titleFontSize": 13
+				"titleFontSize": 14,
+				"labelFontSize": 12
 			}
 		  },
 		  "opacity": {"value": 1}

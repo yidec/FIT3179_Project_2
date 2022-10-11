@@ -1,6 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Life Expectancy for countries (1990 - 2019)",
+  "title": {
+    "fontSize": 22,
+    "text": "Life Expectancy for countries (1990 - 2019)",
+    "font": "concord"
+  },
   "width": "container",
   "height": 450,
   "data": {

@@ -3,7 +3,7 @@
   "description": "https://worldhappiness.report/ed/2020/#appendices-and-data",
   "title": {
     "fontSize": 22,
-    "text": "Top 5 countries in 2019 World Happiness Report",
+    "text": "World Happiness Score",
     "font": "concord"
   },
   "height": "container",
@@ -25,7 +25,7 @@
       "field": "Life_Exp",
       "type": "quantitative",
       "title": "Life Expectancy (years)",
-      "scale": {"domain": [60, 100]},
+      "scale": {"domain": [50, 100]},
       "axis": {"titleFontSize": 14, "labelFontSize": 12}
     },
     "y": {

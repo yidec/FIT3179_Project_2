@@ -3,7 +3,7 @@
   "description": "https://worldhappiness.report/ed/2020/#appendices-and-data",
   "title": {
     "fontSize": 22,
-    "text": "Gross Domestic Product (GDP)",
+    "text": "Current health expenditure",
     "font": "concord"
   },
   "height": "container",
@@ -17,10 +17,10 @@
         "field": "Country",
         "oneOf": [
           "United States of America",
-          "China",
-          "Japan",
-          "Germany",
-          "India"
+          "Switzerland",
+          "Norway",
+          "Iceland",
+          "Luxembourg"
         ]
       }
     },
@@ -40,10 +40,10 @@
       "title": "Countries",
       "sort": [
         "United States of America",
-        "China",
-        "Japan",
-        "Germany",
-        "India"
+        "Switzerland",
+        "Norway",
+        "Iceland",
+        "Luxembourg"
       ],
       "axis": {
         "offset": 5,
