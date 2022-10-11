@@ -40,18 +40,18 @@
 
     // var spec1 = "plain_map.json";
     // var spec2 = "choropleth_map.json";
-    var choropleth_map = "https://raw.githubusercontent.com/yidec/FIT3179_HW9/main/js/choropleth_map.vg.json";
+    var map = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/choropleth_map_year_1990_2019.json";
     var line_chart = "https://raw.githubusercontent.com/yidec/FIT3179_HW10/main/js/line_chart.json";
 
     // vegaEmbed('#choropleth_map', spec2).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     // }).catch(console.error);
     
-    vegaEmbed('#choropleth_map', choropleth_map).then(function (result) {
+    vegaEmbed('#div-01', map).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
-    vegaEmbed('#div_01', line_chart).then(function (result) {
+    vegaEmbed('#div_02', line_chart).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
