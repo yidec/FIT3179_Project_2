@@ -6,7 +6,11 @@
   },
   "height": 450,
   "width": "container",
-  "title": "Count by range of Life Expectancy (Age) Year 2019",
+  "title": {
+    "fontSize": 22,
+    "text": "Count by range of Life Expectancy (Age) Year 2019",
+    "font": "concord"
+  },
   "transform": [
     {
       "bin": true,
@@ -46,7 +50,8 @@
           "field": "max_bin_count_end",
           "type": "ordinal",
           "title": "count",
-          "scale": {"scheme": "lighttealblue"}
+          "scale": {"scheme": "lighttealblue"},
+          "legend": {"title": "", "labelFontSize": 12, "titleFontSize": 14}
         }
       }
     },
