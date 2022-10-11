@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "https://worldhappiness.report/ed/2020/#appendices-and-data",
+  "title": {
+    "fontSize": 22,
+    "text": "Top 5 countries in 2019 World Happiness Report",
+    "font": "concord"
+  },
+  "height": "container",
+  "width": "container",
+  "data": {
+    "url": "https://raw.githubusercontent.com/yidec/FIT3179_HW10/main/data/Compliled_Life_Expectancy_cleaned.csv"
+  },
+  "transform": [
+    {
+      "filter": {
+        "field": "Country",
+        "oneOf": ["Finland", "Denmark", "Switzerland", "Iceland", "Norway"]
+      }
+    },
+    {"filter": {"field": "Year", "oneOf": [1990, 2019]}}
+  ],
+  "encoding": {
+    "x": {
+      "field": "Life_Exp",
+      "type": "quantitative",
+      "title": "Life Expectancy (years)",
+      "scale": {"domain": [60, 100]},
+      "axis": {"titleFontSize": 14, "labelFontSize": 12}
+    },
+    "y": {
+      "field": "Country",
+      "type": "nominal",
+      "title": "Countries",
+      "sort": ["Finland", "Denmark", "Switzerland", "Iceland", "Norway"],
+      "axis": {
+        "offset": 5,
+        "ticks": false,
+        "minExtent": 70,
+        "domain": false,
+        "titleFontSize": 14,
+        "labelFontSize": 12
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": "line",
+      "encoding": {
+        "detail": {"field": "Country", "type": "nominal"},
+        "color": {"value": "#9FC9F3"}
+      }
+    },
+    {
+      "mark": {"type": "point", "filled": true},
+      "encoding": {
+        "color": {
+          "field": "Year",
+          "type": "ordinal",
+          "scale": {"domain": [1990, 2019], "range": ["#F07DEA", "#A460ED"]},
+          "title": "Year",
+          "legend": {"labelFontSize": 12, "titleFontSize": 14}
+        },
+        "tooltip": [
+          {
+            "field": "Life_Exp",
+            "type": "quantitative",
+            "title": "Life Expectancy (Age)"
+          }
+        ],
+        "size": {"value": 100},
+        "opacity": {"value": 1}
+      }
+    }
+  ],
+  "config": {}
+}

@@ -1,0 +1,70 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A ranged dot plot that uses 'layer' to convey changing life expectancy for the five most populous countries (between 1955 and 2000).",
+  "title": {
+    "fontSize": 20,
+    "text": "The changes of life expectancy from 1990 - 2019 for top 5 countries",
+    "font": "concord"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/yidec/FIT3179_HW10/main/data/Compliled_Life_Expectancy_cleaned.csv"
+  },
+  "transform": [
+    {
+      "filter": {
+        "field": "Country",
+        "oneOf": [
+          "United States of America",
+          "China",
+          "Japan",
+          "Germany",
+          "India"
+        ]
+      }
+    },
+    {"filter": {"field": "Year", "oneOf": [1990, 2019]}}
+  ],
+  "encoding": {
+    "x": {
+      "field": "Life_Exp",
+      "type": "quantitative",
+      "title": "Life Expectancy (years)"
+    },
+    "y": {
+      "field": "Country",
+      "type": "nominal",
+      "title": "Country",
+      "sort": [
+        "United States of America",
+        "China",
+        "Japan",
+        "Germany",
+        "India"
+      ],
+      "axis": {"offset": 5, "ticks": false, "minExtent": 70, "domain": false}
+    }
+  },
+  "layer": [
+    {
+      "mark": "line",
+      "encoding": {
+        "detail": {"field": "Country", "type": "nominal"},
+        "color": {"value": "#db646f"}
+      }
+    },
+    {
+      "mark": {"type": "point", "filled": true},
+      "encoding": {
+        "color": {
+          "field": "Year",
+          "type": "ordinal",
+          "scale": {"domain": [1990, 2019], "range": ["#e6959c", "#911a24"]},
+          "title": "Year"
+        },
+        "size": {"value": 100},
+        "opacity": {"value": 1}
+      }
+    }
+  ],
+  "config": {}
+}

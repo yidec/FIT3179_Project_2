@@ -1,24 +1,54 @@
-/* #choropleth_map {
-	top: 100px;
-	bottom: 100px;
-	left: 100px;
-	right: 100px;
-	/*height: 1000px;
-	width: 800px;*/
-/* } */ */
-
-/* .plain_chart {
-	border-width: 20px;
-	padding: auto;
-	height: 1000px;
-	width: 800px;
+/* body {
+	width: fit-content;
 } */
 
-body { height: 100%;
+h1 {
+	background-color: white;
+	font: "Georgia";
+	font-size: 36px;
+	text-align: center;
 }
-.child {
-	margin: auto;
+
+.row {
 	height: auto;
-	width: 80%;
-	margin-top: 20px;
+	display: flex;
+}
+
+.column {
+	max-height: fit-content;
+	width: auto;
+	align-items: center;
+	justify-content: space-around;
+	/* float: left;
+	margin: 0 auto; */
+}
+
+.container {
+	display: flex;
+}
+
+.container.space-around {
+	justify-content: space-around;
+}
+
+.container.space-between {
+	justify-content: space-between;
+}
+
+.large-chart {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: fit-content;
+	border: 3px solid green;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+
+p {
+	font-size: larger;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font: 'Segoe UI';
 }
