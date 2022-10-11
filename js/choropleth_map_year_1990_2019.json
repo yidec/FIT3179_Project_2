@@ -46,9 +46,9 @@
     "tooltip": [
       {"field": "Country", "type": "nominal", "title": "Country"},
       {
-        "field": "Happiness_Score",
+        "field": "Life_Exp",
         "type": "quantitative",
-        "title": "Happiness Score"
+        "title": "Life Expectancy(Age)"
       }
     ]
   },
