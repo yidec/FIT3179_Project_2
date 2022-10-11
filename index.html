@@ -25,10 +25,9 @@
 
 
   <div class="container space-between">
-  <div>hijhdskafhadfhshkdjfhkjshdfkjsh</div>
-  <div>hijhdskafhadfhshkdjfhkjshdfkjsh</div>
-  <div>hijhdskafhadfhshkdjfhkjshdfkjsh</div>
-  <div>hijhdskafhadfhshkdjfhkjshdfkjsh</div>
+  <div id="div_04" class="small_chart"></div>
+  <div id="div_05" class="small_chart"></div>
+  <div id="div_06" class="small_chart"></div>
   </div>
 
   <p>The countries in the list is</p>
@@ -41,6 +40,10 @@
     var map = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/choropleth_map_year_1990_2019.json";
     var line_chart = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/line_chart.json";
 
+    var ranged_dot_1 = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/ranged_dot%20plot_top_gdp.json";
+    var ranged_dot_2 = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/ranged_dot%20plot_top_happiness.json";
+    var ranged_dot_3 = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/ranged_dot%20plot_top_health_expenditure.json";
+
     // vegaEmbed('#choropleth_map', spec2).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     // }).catch(console.error);
@@ -50,6 +53,16 @@
     }).catch(console.error);
 
     vegaEmbed('#div_02', line_chart).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#div_04', ranged_dot_1).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+    vegaEmbed('#div_05', ranged_dot_2).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+    vegaEmbed('#div_06', ranged_dot_3).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 

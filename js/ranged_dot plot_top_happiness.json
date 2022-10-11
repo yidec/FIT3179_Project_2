@@ -3,19 +3,25 @@
   "description": "https://worldhappiness.report/ed/2020/#appendices-and-data",
   "title": {
     "fontSize": 22,
-    "text": "World Happiness Score",
+    "text": "Current health expenditure",
     "font": "concord"
   },
   "height": "container",
   "width": "container",
   "data": {
-    "url": "https://raw.githubusercontent.com/yidec/FIT3179_HW10/main/data/Compliled_Life_Expectancy_cleaned.csv"
+    "url": "https://raw.githubusercontent.com/yidec/FIT3179_HW10/main/data/Compliled_Life_Expectancy_no_null.csv"
   },
   "transform": [
     {
       "filter": {
         "field": "Country",
-        "oneOf": ["Finland", "Denmark", "Switzerland", "Iceland", "Norway"]
+        "oneOf": [
+        "United States of America",
+        "Switzerland",
+        "Norway",
+        "Iceland",
+        "Luxembourg"
+      ]
       }
     },
     {"filter": {"field": "Year", "oneOf": [1990, 2019]}}
@@ -32,7 +38,13 @@
       "field": "Country",
       "type": "nominal",
       "title": "Countries",
-      "sort": ["Finland", "Denmark", "Switzerland", "Iceland", "Norway"],
+      "sort": [
+        "United States of America",
+        "Switzerland",
+        "Norway",
+        "Iceland",
+        "Luxembourg"
+      ],
       "axis": {
         "offset": 5,
         "ticks": false,

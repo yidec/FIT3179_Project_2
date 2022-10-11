@@ -53,3 +53,7 @@ p {
 	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font: 'Segoe UI';
 }
+
+.small_chart {
+	height: 300px;
+}
