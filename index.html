@@ -11,6 +11,11 @@
   <!-- CSS file -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
 
+  #block {height: 100%; width:100%; font-size: 0;}
+  #left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
+  #left {width: 25%; background: blue;}
+  #middle {width: 50%; background: green;}
+  #right {width: 25%; background: yellow;}
 
 </head>
 
@@ -24,10 +29,16 @@
   <div id="div_03" class="large-chart"></div>
 
 
+  <!-- <div class="block">
+    <div id="div_04" class="left"></div>
+    <div id="div_05" class="middle"></div>
+    <div id="div_06" class="right"></div>
+  </div>   -->
+  
   <div class="container space-between">
-  <div id="div_04" class="small_chart"></div>
-  <div id="div_05" class="small_chart"></div>
-  <div id="div_06" class="small_chart"></div>
+    <div id="div_04" class="small_chart"></div>
+    <div id="div_05" class="small_chart"></div>
+    <div id="div_06" class="small_chart"></div>
   </div>
 
   <p>The countries in the list is</p>
@@ -45,9 +56,9 @@
     var ranged_dot_3 = "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/js/ranged_dot%20plot_top_health_expenditure.json";
 
     // vegaEmbed('#choropleth_map', spec2).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     // }).catch(console.error);
-    
+
     vegaEmbed('#div_01', map).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);

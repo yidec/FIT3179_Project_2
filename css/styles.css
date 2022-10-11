@@ -50,10 +50,36 @@ h1 {
 
 p {
 	font-size: larger;
-	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font: 'Segoe UI';
 }
 
-.small_chart {
+.small_chart.three {
 	height: 300px;
+	width: 20%;
+}
+
+.div {
+	background-color: red;
+	color: white;
+	border: 1px solid;
+}
+
+#parent {
+	border: 1px solid #ccc;
+	text-align: center;
+	height: 150px;
+	width: 400px;
+}
+
+#div2 {
+	display: inline;
+}
+
+#div3 {
+	float: right;
+}
+
+#div1 {
+	float: left;
 }
