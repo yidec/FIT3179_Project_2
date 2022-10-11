@@ -45,7 +45,7 @@
       "field": "Life_Exp",
       "type": "quantitative",
       "scale": {"type": "linear"},
-      "legend": {"format": ".2s", "title": "Life Expectancy(Age)"}
+      "legend": {"format": ".2s", "title": "Life Expectancy(Age)", "labelFontSize": 12, "titleFontSize": 14}
     },
     "tooltip": [
       {"field": "Country", "type": "nominal", "title": "Country"},
