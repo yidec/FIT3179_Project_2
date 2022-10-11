@@ -9,7 +9,7 @@
   "height": "container",
   "width": "container",
   "data": {
-    "url": "https://raw.githubusercontent.com/yidec/FIT3179_HW10/main/data/Compliled_Life_Expectancy_cleaned.csv"
+    "url": "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/data/Compliled_Life_Expectancy_no_null.csv"
   },
   "transform": [
     {
