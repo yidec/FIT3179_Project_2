@@ -16,34 +16,50 @@
       "filter": {
         "field": "Country",
         "oneOf": [
-        "United States of America",
-        "Switzerland",
-        "Norway",
-        "Iceland",
-        "Luxembourg"
-      ]
+          "Finland",
+          "Denmark",
+          "Iceland",
+          "Switzerland",
+          "Netherlands"
+        ]
       }
     },
-    {"filter": {"field": "Year", "oneOf": [1990, 2019]}}
+    {
+      "filter": {
+        "field": "Year",
+        "oneOf": [
+          1990,
+          2019
+        ]
+      }
+    }
   ],
   "encoding": {
     "x": {
       "field": "Life_Exp",
       "type": "quantitative",
       "title": "Life Expectancy (years)",
-      "scale": {"domain": [50, 90]},
-      "axis": {"titleFontSize": 14, "labelFontSize": 12}
+      "scale": {
+        "domain": [
+          50,
+          90
+        ]
+      },
+      "axis": {
+        "titleFontSize": 14,
+        "labelFontSize": 12
+      }
     },
     "y": {
       "field": "Country",
       "type": "nominal",
       "title": "",
       "sort": [
-        "United States of America",
-        "Switzerland",
-        "Norway",
+        "Finland",
+        "Denmark",
         "Iceland",
-        "Luxembourg"
+        "Switzerland",
+        "Netherlands"
       ],
       "axis": {
         "offset": 5,
@@ -59,17 +75,34 @@
     {
       "mark": "line",
       "encoding": {
-        "detail": {"field": "Country", "type": "nominal"},
-        "color": {"value": "#9FC9F3"}
+        "detail": {
+          "field": "Country",
+          "type": "nominal"
+        },
+        "color": {
+          "value": "#9FC9F3"
+        }
       }
     },
     {
-      "mark": {"type": "point", "filled": true},
+      "mark": {
+        "type": "point",
+        "filled": true
+      },
       "encoding": {
         "color": {
           "field": "Year",
           "type": "ordinal",
-          "scale": {"domain": [1990, 2019], "range": ["#F07DEA", "#A460ED"]},
+          "scale": {
+            "domain": [
+              1990,
+              2019
+            ],
+            "range": [
+              "#F07DEA",
+              "#A460ED"
+            ]
+          },
           "title": "Year",
           "legend": null
         },
@@ -80,8 +113,12 @@
             "title": "Life Expectancy (Age)"
           }
         ],
-        "size": {"value": 100},
-        "opacity": {"value": 1}
+        "size": {
+          "value": 100
+        },
+        "opacity": {
+          "value": 1
+        }
       }
     }
   ],
