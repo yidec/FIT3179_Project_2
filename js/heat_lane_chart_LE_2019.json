@@ -35,8 +35,8 @@
       "field": "bin_Life_Exp_start",
       "type": "quantitative",
       "title": "Life Expectancy (Age)",
-      "axis": {"grid": false},
-      "scale": {"domain": [40,100]}
+      "axis": {"grid": false, "tickCount": 10},
+      "scale": {"domain": [45, 95]}
     },
     "x2": {"field": "bin_Life_Exp_end"},
     "y": {"field": "y", "axis": null},
@@ -48,10 +48,15 @@
       "encoding": {
         "color": {
           "field": "max_bin_count_end",
-          "type": "ordinal",
-          "title": "count",
-          "scale": {"scheme": "lighttealblue"},
-          "legend": {"title": "", "labelFontSize": 12, "titleFontSize": 14}
+          "type": "quantitative",
+          "title": "",
+          "scale": {"scheme": "greenblue"},
+          "legend": {
+            "title": "",
+            "labelFontSize": 12,
+            "titleFontSize": 14,
+            "orient": "top-right"
+          }
         }
       }
     },
@@ -64,9 +69,20 @@
         "y2Offset": 3
       },
       "encoding": {
-        "color": {"field": "bin_count_end", "type": "ordinal", "title": "count"}
+        "color": {"field": "bin_count_end", "type": "quantitative", "title": "count"}
       }
+    },{
+    "mark": {
+      "type": "text",
+      "align": "center",
+      "baseline": "line-bottom",
+      "dx": 45,
+      "dy": 15
+    },
+    "encoding": {
+      "text": {"field": "bin_count_end", "type": "quantitative"}
     }
+  }
   ],
   "config": {}
 }

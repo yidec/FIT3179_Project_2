@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "https://worldhappiness.report/ed/2020/#appendices-and-data",
-  "title": {"fontSize": 22, "text": "World Happiness Score", "font": "concord"},
+  "title": {"fontSize": 22, "text": "Quality of Life", "font": "concord"},
   "height": 200,
   "width": 300,
   "data": {
@@ -11,7 +11,7 @@
     {
       "filter": {
         "field": "Country",
-        "oneOf": ["Finland", "Denmark", "Iceland", "Switzerland", "Netherlands"]
+        "oneOf": ["Sweden", "Denmark", "Canada", "Switzerland", "Norway"]
       }
     },
     {"filter": {"field": "Year", "oneOf": [1990, 2019]}}
@@ -27,8 +27,8 @@
     "y": {
       "field": "Country_Code",
       "type": "nominal",
-      "title": "",
-      "sort": ["FIN", "DNK", "ISL", "CHE", "NLD"],
+      "title": "Countries Code",
+      "sort": ["SWE", "DNK", "CAN", "CHE", "NOR"],
       "axis": {
         "offset": 5,
         "ticks": false,
@@ -55,7 +55,7 @@
           "type": "ordinal",
           "scale": {"domain": [1990, 2019], "range": ["#F07DEA", "#A460ED"]},
           "title": "Year",
-          "legend": {"labelFontSize": 12, "titleFontSize": 14}
+          "legend": null
         },
         "tooltip": [
           {

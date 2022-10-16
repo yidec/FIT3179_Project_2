@@ -6,7 +6,7 @@
     "text": "Current health expenditure",
     "font": "concord"
   },
-  "height": 280,
+  "height": 200,
   "width": 300,
   "data": {
     "url": "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/data/Compliled_Life_Expectancy_no_null.csv"
@@ -31,19 +31,19 @@
       "field": "Life_Exp",
       "type": "quantitative",
       "title": "Life Expectancy (years)",
-      "scale": {"domain": [50, 90]},
+      "scale": {"domain": [55, 90]},
       "axis": {"titleFontSize": 14, "labelFontSize": 12}
     },
     "y": {
-      "field": "Country",
+      "field": "Country_Code",
       "type": "nominal",
       "title": "",
       "sort": [
-        "United States of America",
-        "Switzerland",
-        "Norway",
-        "Iceland",
-        "Luxembourg"
+        "USA",
+        "CHE",
+        "NOR",
+        "ISL",
+        "LUX"
       ],
       "axis": {
         "offset": 5,

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+</head>
+
+<body>
+
+  <h1 class="title">Life Expectancy changes over time</h1>
+
+
+  <div id="div_01" class="large-chart"></div>
+
+  <p>Following the timeline, most of the countries have improved their life expectancy. In addition, it is shown that
+    the <b>Africa</b> is the <b>most improved continent</b> in the map in the 30 years time.</p>
+  <!-- <p style="color: orange;">Africa</p> -->
+
+
+  <div id="div_02" class="large-chart"></div>
+
+  <h2>The changes of life expectancy from 1990 - 2019 for top 5 countries for </h2>
+
+  <div class="container space-around large-chart">
+    <div id="div_04" class="small_chart three"></div>
+    <div id="div_05" class="small_chart three"></div>
+  </div>
+
+  <div class="container space-around large-chart">
+    <div id="div_06" class="small_chart three"></div>
+    <div id="div_07" class="small_chart three"></div>
+  </div>
+
+  <p>From the 4 ranged dot charts above, there is a conclusion show that the <b>Gross Domestic Product (GDP)</b> of a
+    country is not the most important factor that affect the Life expectancy but <b>Happiness</b> and <b>health
+      expenditure</b> does have significant effect on the Life expectancy of the country's people.</p>
+
+  <div id="div_03" class="large-chart"></div>
+
+  <p>In Year 2019, Most of the countries have a Life expectancy in the range of <b>70 - 80 years old</b> and there aren't countries that
+    have a Life Expectancy above <b>85 years old</b>. It is a good news that all of the countries shown in this datasets all have a
+    minimum life expectancy above <b>50 years old</b>.</p>
+
+  <script type="text/javascript">
+
+    var map = "./js/choropleth_map_graticules_year.json";
+    var line_chart = "./js/line_chart.json";
+    var heat_lane = "./js/heat_lane_chart_LE_2019.json";
+
+    var ranged_dot_1 = "./js/ranged_dot plot_top_gdp.json";
+    var ranged_dot_2 = "./js/ranged_dot plot_top_happiness.json";
+    var ranged_dot_3 = "./js/ranged_dot plot_top_quality.json";
+    var ranged_dot_4 = "./js/ranged_dot plot_top_health_expenditure.json";
+
+    // vegaEmbed('#choropleth_map', spec2).then(function (result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    // }).catch(console.error);
+
+    vegaEmbed('#div_01', map).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#div_02', line_chart).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#div_03', heat_lane).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#div_04', ranged_dot_1).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+    vegaEmbed('#div_05', ranged_dot_2).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+    vegaEmbed('#div_06', ranged_dot_3).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+    vegaEmbed('#div_07', ranged_dot_4).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+  </script>
+
+</body>
+
+</html>

@@ -13,3 +13,7 @@ https://worldhappiness.report/ed/2020/#appendices-and-data
 
 ## Current health expenditure (CHE) per capita in US
 https://apps.who.int/gho/data/node.main.GHEDCHEpcUSSHA2011?lang=en
+
+## Quality of Life
+https://www.usnews.com/news/best-countries/rankings/quality-of-life
+

@@ -3,9 +3,9 @@
 	"width": "container",
 	"height": 450,
 	"title": {
-		"text": "Average Life Expectancy in the Countries of different Continents",
-		"fontSize": 22,
-		"font": "concord"
+	  "text": "Average Life Expectancy in the Countries of different Continents",
+	  "fontSize": 22,
+	  "font": "concord"
 	},
 	"data": {
 	  "url": "https://raw.githubusercontent.com/yidec/FIT3179_HW10/main/data/Compliled_Life_Expectancy_no_null.csv"
@@ -15,14 +15,7 @@
 		"name": "Continent_selection",
 		"bind": {
 		  "input": "select",
-		  "options": [
-			null,
-			"Americas",
-			"Europe",
-			"Africa",
-			"Asia",
-			"Oceania"
-		  ],
+		  "options": [null, "Americas", "Europe", "Africa", "Asia", "Oceania"],
 		  "labels": [
 			"Show All",
 			"Americas",
@@ -40,12 +33,8 @@
 		"filter": "Continent_selection == null || datum.Continent == Continent_selection"
 	  },
 	  {
-		"aggregate": [{
-		  "op": "mean",
-		  "field": "Life_Exp",
-		  "as": "mean_life_exp"
-		}],
-		"groupby": ["Continent","Year"]
+		"aggregate": [{"op": "mean", "field": "Life_Exp", "as": "mean_life_exp"}],
+		"groupby": ["Continent", "Year"]
 	  }
 	],
 	"encoding": {
@@ -53,15 +42,15 @@
 		"field": "Year",
 		"type": "quantitative",
 		"title": "Year",
-		"axis": {"titleFontSize":13},
+		"axis": {"titleFontSize": 13},
 		"scale": {"type": "linear", "domain": [1990, 2019]}
 	  },
 	  "y": {
 		"field": "mean_life_exp",
 		"type": "quantitative",
 		"title": "Average Life Expectancy (Age)",
-		"axis": {"tickCount": 10, "format": ".0f", "titleFontSize":13},
-		"scale": {"type": "linear", "domain": [50, 90]}
+		"axis": {"tickCount": 10, "format": ".0f", "titleFontSize": 13},
+		"scale": {"type": "linear", "domain": [50, 85]}
 	  }
 	},
 	"layer": [
@@ -72,25 +61,14 @@
 			"field": "Continent",
 			"type": "nominal",
 			"scale": {
-			  "domain": [
-				"Americas",
-				"Europe",
-				"Africa",
-				"Asia",
-				"Oceania"
-			  ],
-			  "range": [
-				"#e41a1c",
-				"#984ea3",
-				"#ff7f00",
-				"#a6cee3",
-				"#a65628"
-			  ]
+			  "domain": ["Americas", "Europe", "Africa", "Asia", "Oceania"],
+			  "range": ["#e41a1c", "#984ea3", "#ff7f00", "#a6cee3", "#a65628"]
 			},
 			"legend": {
-				"title": "Continents",
-				"titleFontSize": 14,
-				"labelFontSize": 12
+			  "title": "Continents",
+			  "titleFontSize": 14,
+			  "labelFontSize": 12,
+			  "orient": "bottom"
 			}
 		  },
 		  "opacity": {"value": 1}
@@ -101,24 +79,30 @@
 		  "type": "text",
 		  "align": "right",
 		  "baseline": "bottom",
-		  "dx": -10,
-		  "dy": 0,
+		  "dx": -3,
+		  "dy": 1,
 		  "fontSize": 11.5,
 		  "fontStyle": "italic"
 		},
 		"encoding": {
-		  "text": {"field": "mean_life_exp", "type": "quantitative", "format": ".2f"},
+		  "text": {
+			"field": "mean_life_exp",
+			"type": "quantitative",
+			"format": ".2f"
+		  },
 		  "color": {"value": "black"},
 		  "opacity": {
-			"condition": {
-			  "test": "datum['Year'] == 2019",
-			  "value": 1
-			},
+			"condition": {"test": "datum['Year'] == 2019", "value": 1},
 			"value": 0
 		  },
 		  "tooltip": [
 			{"field": "Continent", "type": "nominal"},
-			{"field": "mean_life_exp", "type": "nominal", "format": ".2f", "title": "Life Expectancy (Age)"}
+			{
+			  "field": "mean_life_exp",
+			  "type": "nominal",
+			  "format": ".2f",
+			  "title": "Life Expectancy (Age)"
+			}
 		  ]
 		}
 	  }
