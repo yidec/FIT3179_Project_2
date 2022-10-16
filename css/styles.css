@@ -35,6 +35,20 @@ h1 {
 	justify-content: space-between;
 }
 
+.row_box{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
 .large-chart {
 	display: flex;
 	justify-content: center;
@@ -61,6 +75,16 @@ p {
 	width: fit-content;
 	/* border: 1px solid #000; */
 	margin-left: 20px;
+}
+
+.pie_chart {
+	order: 0;
+	flex-grow: 0;
+	flex-shrink: 0;
+	flex-basis: auto;
+	flex: auto;
+	align-self: auto;
+	width: 50%;
 }
 
 .div {

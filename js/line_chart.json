@@ -62,7 +62,7 @@
 			"type": "nominal",
 			"scale": {
 			  "domain": ["Americas", "Europe", "Africa", "Asia", "Oceania"],
-			  "range": ["#e41a1c", "#984ea3", "#ff7f00", "#a6cee3", "#a65628"]
+			  "range": ["#e41a1c", "#984ea3", "#ff7f00", "#00F5FF", "#a65628"]
 			},
 			"legend": {
 			  "title": "Continents",

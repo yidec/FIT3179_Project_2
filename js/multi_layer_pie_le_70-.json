@@ -1,0 +1,105 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple donut chart with embedded data.",
+  "title": {
+    "text": "<70",
+    "dy": 170,
+    "fontSize": 28
+  },
+  "height": 300,
+  "width": "container",
+  "data": {
+    "url": "https://raw.githubusercontent.com/yidec/FIT3179_Project_2/main/data/Compliled_Life_Expectancy_no_null.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "arc",
+        "innerRadius": 30,
+        "outerRadius": 75
+      },
+      "transform": [
+        {
+          "filter": "datum.Year == 2019"
+        },
+        {
+          "filter": {
+            "field": "Life_Exp",
+            "lt": 70
+          }
+        }
+      ],
+      "encoding": {
+        "theta": {
+          "aggregate": "count",
+          "field": "Country",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": ["Americas", "Europe", "Africa", "Asia", "Oceania"],
+            "range": ["#e41a1c", "#984ea3", "#ff7f00", "#00F5FF", "#a65628"]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Continent",
+            "title": "Continents"
+          },
+          {
+            "aggregate": "count",
+            "field": "Country",
+            "type": "quantitative",
+            "title": "Counts"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "arc",
+        "innerRadius": 80,
+        "outerRadius": 125,
+        "stroke": "#fff"
+      },
+      "transform": [
+        {
+          "filter": "datum.Year == 2019"
+        },
+        {
+          "filter": {
+            "field": "Life_Exp",
+            "lt": 70
+          }
+        }
+      ],
+      "encoding": {
+        "theta": {
+          "aggregate": "count",
+          "field": "Country",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "Continent",
+            "title": "Continents"
+          },
+          {
+            "field": "Country"
+          },
+          {
+            "field": "Country_Code",
+            "title": "Country Code"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -21,11 +21,24 @@
   <div id="div_01" class="large-chart"></div>
 
   <p>Following the timeline, most of the countries have improved their life expectancy. In addition, it is shown that
-    the <b>Africa</b> is the <b>most improved continent</b> in the map in the 30 years time.</p>
+    the <b><span style="color: #ff7f00;">Africa</span></b> is the <b>most improved continent</b> in the map in the 30
+    years time.</p>
+  <p>Other than that, many countries in <b><span style="color: #00F5FF">Asia</span></b> also have significant
+    improvement in their life expectancy too.</p>
   <!-- <p style="color: orange;">Africa</p> -->
 
 
   <div id="div_02" class="large-chart"></div>
+
+  <p>From the mulit-line chart above, we know that <b><span style="color: #984ea3;">Europe</span></b> and <b><span
+        style="color: #e41a1c;">Americas</span></b> are always on the <b>top 1 and 2</b> respectively in the chart for
+    the 30 years time. The </p>
+
+  <p>According to the informations I am having now, the <b>decrease</b> of average life expectancy in <b><span
+        style="color: #ff7f00;">Africa</span></b> on <b>year 1990 - 1999</b> is cause by the addition of data
+    for the countries that doesn't have the caluclations on life expectancy on thier countries.</p>
+
+  <br>
 
   <h2>The changes of life expectancy from 1990 - 2019 for top 5 countries for </h2>
 
@@ -40,19 +53,33 @@
   </div>
 
   <p>From the 4 ranged dot charts above, there is a conclusion show that the <b>Gross Domestic Product (GDP)</b> of a
-    country is not the most important factor that affect the Life expectancy but <b>Happiness</b> and <b>health
-      expenditure</b> does have significant effect on the Life expectancy of the country's people.</p>
+    country is not the most important factor that affect the Life expectancy but <b>happiness</b>, <b>quality of
+      life</b> and <b>health expenditure</b> does have significant effect on the Life expectancy of the country's
+    people.</p>
 
   <div id="div_03" class="large-chart"></div>
 
-  <p>In Year 2019, Most of the countries have a Life expectancy in the range of <b>70 - 80 years old</b> and there aren't countries that
-    have a Life Expectancy above <b>85 years old</b>. It is a good news that all of the countries shown in this datasets all have a
-    minimum life expectancy above <b>50 years old</b>.</p>
+  <p>In year 2019, Most of the countries have a life expectancy in the range of <b>70 - 80 years old</b> and there
+    aren't countries that have a life expectancy above <b>85 years old</b>. It is a good news that all of the countries
+    shown in this datasets all have a minimum life expectancy above <b>50 years old</b>.</p>
+
+  <h2>The countries in year 2019 that have life expectancy </h2>
+
+  <div class="space-around row_box">
+    <div id="div_08" class="pie_chart"></div>
+    <div id="div_09" class="pie_chart"></div>
+  </div>
+
+  <p>From the pie charts, it shows that all the countries in <b><span style="color: #984ea3;">Europe</span></b> have an
+    average life expectancy greater than <b>70</b>. Futhermore, <b><span style="color: #ff7f00;">Africa</span></b> is
+    the continent that have the most </p>
 
   <script type="text/javascript">
 
     var map = "./js/choropleth_map_graticules_year.json";
+
     var line_chart = "./js/line_chart.json";
+
     var heat_lane = "./js/heat_lane_chart_LE_2019.json";
 
     var ranged_dot_1 = "./js/ranged_dot plot_top_gdp.json";
@@ -60,37 +87,44 @@
     var ranged_dot_3 = "./js/ranged_dot plot_top_quality.json";
     var ranged_dot_4 = "./js/ranged_dot plot_top_health_expenditure.json";
 
+    var pie_chart_1 = "./js/multi_layer_pie_le_70-.json";
+    var pie_chart_2 = "./js/multi_layer_pie_le_70+.json";
+
     // vegaEmbed('#choropleth_map', spec2).then(function (result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     // }).catch(console.error);
 
     vegaEmbed('#div_01', map).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
     vegaEmbed('#div_02', line_chart).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
     vegaEmbed('#div_03', heat_lane).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
     vegaEmbed('#div_04', ranged_dot_1).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
     vegaEmbed('#div_05', ranged_dot_2).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
     vegaEmbed('#div_06', ranged_dot_3).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
     vegaEmbed('#div_07', ranged_dot_4).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
+    vegaEmbed('#div_08', pie_chart_1).then(function (result) {
+    }).catch(console.error);
+    vegaEmbed('#div_09', pie_chart_2).then(function (result) {
+    }).catch(console.error);
+    
   </script>
 
 </body>
+<footer>
+  <div class="container">
+    <p class="copyright-text">Created By Yi De Chiu.<br><a href="https://github.com/yidec/FIT3179_Project_2"
+        target="_blank">Github Link</a></p>
+  </div>
+</footer>
 
 </html>
